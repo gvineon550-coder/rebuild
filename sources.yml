@@ -5,4 +5,4 @@ sources:
   - name: RU-Language
     url: https://iptv-org.github.io/iptv/languages/rus.m3u
     priority: 1
-extra_m3u: []
+extra_m3u: ["https://raw.githubusercontent.com/gvineon550-coder/rebuild/refs/heads/main/%D0%9B%D1%8E%D0%B1%D0%B8%D0%BC%D1%8B%D0%B9%20%D0%A5%D0%90%D0%9B%D0%AF%D0%92%D0%A9%D0%98%D0%9A%202.m3u8"]
