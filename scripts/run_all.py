@@ -44,7 +44,8 @@ async def main():
     threshold = max(config.MIN_ALIVE_ABS, int(len(merged) * config.MIN_ALIVE_PCT))
     if len(alive) < threshold: ui.err(f"Sanity: {len(alive)} < {threshold}. Публикация отменена."); return
     repo = os.getenv("GITHUB_REPOSITORY", ""); branch = os.getenv("GITHUB_REF_NAME", "main")
-    epg_url = f"https://raw.githubusercontent.com/{repo}/{branch}/epg.xml.gz" if (trimmed and repo) else config.EPG_URLS[0]
+    # ТУТ ИЗМЕНЕНА ССЫЛКА НА .XML
+    epg_url = f"https://raw.githubusercontent.com/{repo}/{branch}/epg.xml" if (trimmed and repo) else config.EPG_URLS[0]
     build_output.write_playlist(alive, epg_url); report = build_output.write_report(alive, len(merged), time.time()-start, {}); build_output.update_readme(report)
     print("=========================================")
     ui.ok(f"Готово за {time.time()-start:.1f}s"); ui.ok(f"Всего:   {len(merged)}"); ui.ok(f"Рабочих: {len(alive)}"); ui.ok(f"Мёртвых: {len(merged) - len(alive)}"); ui.ok(f"С EPG:   {report['with_epg']}")
