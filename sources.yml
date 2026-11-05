@@ -1,0 +1,8 @@
+sources:
+  - name: RU-Streams
+    url: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+    priority: 0
+  - name: RU-Language
+    url: https://iptv-org.github.io/iptv/languages/rus.m3u
+    priority: 1
+extra_m3u: []
