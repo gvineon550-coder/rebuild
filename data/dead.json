@@ -4362,5 +4362,585 @@
  "https://jmp2.uk/stvp-CHAJ0500413A": {
   "fails": 1,
   "ts": 1793920651
+ },
+ "http://3.hls.gd/ch635/mono.m3u8?token=rl_bbeckffat.v2_4D-VDdiQ6b44zRTu2kp0T6LI_F0mt5R-1-VtyswlfJVCoildNjW3hZPjJUFN5Yj-KmkGNBx6p_L9_bX4gg": {
+  "fails": 1,
+  "ts": 1793922279
+ },
+ "http://3.hls.gd/ch364/mono.m3u8?token=rl_bbeckffat.v2_JPHpBpRo1yyXLLB-wO_En1nwsywFD5Pq6kcT0dwEEHL8w-3S4NKW4D1oVqN0tfd9-Xq5h2bApNb18XtHJQ": {
+  "fails": 1,
+  "ts": 1793922280
+ },
+ "http://3.hls.gd/ch2302/mono.m3u8?token=rl_bbeckffat.v2_OZu-s6K12t6bH0alq_wENfzQ7Q_O7yTFo9ookPweiLswSLcH6AJ7zZG48FWuogSFc7MLWf8L6n6p9kno6x0": {
+  "fails": 1,
+  "ts": 1793922280
+ },
+ "http://playxapp.play-x.app:2095/0170/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922280
+ },
+ "http://3.hls.gd/ch099/mono.m3u8?token=rl_bbeckffat.v2_uUGHN9f2_-DNqQCKeI1UzlBUdqQZz2bDzGAqDOVOhGilkKEPB-2Z8-6_xtvoKbU2CeQzeDF62oDEJIRD": {
+  "fails": 1,
+  "ts": 1793922280
+ },
+ "http://3.hls.gd/ch1545/mono.m3u8?token=rl_bbeckffat.v2_Beem8JWHJwfjwjgXQysoPOLMPs8b6RuJM9P4UmLCT2111CYD2egoHi_3zz-49SNtcFeGrioFlCrIvfonSY8": {
+  "fails": 1,
+  "ts": 1793922280
+ },
+ "http://3.hls.gd/ch017/mono.m3u8?token=rl_bbeckffat.v2_HNjAR8b2PAXFiFzTE-oJnUxzZBaSHMY8DPRvhzn7hR8a4ORK_oRnhbmNs35sJQWhazvo2SxTzAaEg0QC": {
+  "fails": 1,
+  "ts": 1793922280
+ },
+ "http://3.hls.gd/ch1581/mono.m3u8?token=rl_bbeckffat.v2_uVhIQBKvVSx_19riUi9k3bx6Vr3JoFFWkAPiZMLbxUrYcN2WasnZnqxCCe2-BVPai99LNya1PxUh7xzgx2I": {
+  "fails": 1,
+  "ts": 1793922280
+ },
+ "http://playxapp.play-x.app:2095/0436/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922280
+ },
+ "http://3.hls.gd/ch1752/mono.m3u8?token=rl_bbeckffat.v2_As8_rr93NDDC9WRSGhJthz7QTOqnMumn0ZAAxGt9h8IF3pIqZcAFh0b6y0cBefACswKqMCoSZ1mjDBZUVXU": {
+  "fails": 1,
+  "ts": 1793922280
+ },
+ "http://3.hls.gd/ch1289/mono.m3u8?token=rl_bbeckffat.v2_RG2EUQmu_jFzsmJxjNdFTh9AKEiglvrn8VOrs1q-2QnrPmzIQJjjkyLE5B2KwwIm4y7f9OKGqguXyRO-EEs": {
+  "fails": 1,
+  "ts": 1793922280
+ },
+ "http://3.hls.gd/ch2743/mono.m3u8?token=rl_bbeckffat.v2_TSHmhtwmLCQDBGUvWVm49e1x789KJUJ2YaVIG7xEdjR0-SS0lBQ5iS_nfLdiH6g39JRYTkC5SYJjnZVBE6Y": {
+  "fails": 1,
+  "ts": 1793922280
+ },
+ "http://3.hls.gd/ch2285/mono.m3u8?token=rl_bbeckffat.v2_jnZWzLsOQuwLs8NYi8uhc2hl-Hps_e15fxbm4Ni5OhQZXf27w9i2it5EgesjOqNEeWcoJpscvrll-6a1caY": {
+  "fails": 1,
+  "ts": 1793922280
+ },
+ "http://3.hls.gd/ch1561/mono.m3u8?token=rl_bbeckffat.v2_LoCY9y07Yr6WvZjnnsoGewwVK78FJzNVWVeBM1EuChazIzdzWYzdtsHFcxMrJNleDsint7QSdOz1lzmJlPw": {
+  "fails": 1,
+  "ts": 1793922280
+ },
+ "http://playxapp.play-x.app:2095/231141/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922280
+ },
+ "http://playxapp.play-x.app:2095/0606/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922280
+ },
+ "http://3.hls.gd/ch498/mono.m3u8?token=rl_bbeckffat.v2_Y7KLkuPJKFWGoiSQ-07dtqAHa8GpZt7-ZafD53Bml9p3oSdYA6dFtqmOz6X76m6rKmXUlZuwuiXRvQFjFA": {
+  "fails": 1,
+  "ts": 1793922280
+ },
+ "http://playxapp.play-x.app:2095/0400/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922280
+ },
+ "http://3.hls.gd/ch500/mono.m3u8?token=rl_bbeckffat.v2_q9mnezxgqY-nselbTRehAfLi8tixj0t73IVqmdTOD2rSrHWm7GQrM02UXJLoMh8prsQuq3KgwOpkmcCLvw": {
+  "fails": 1,
+  "ts": 1793922280
+ },
+ "http://3.hls.gd/ch366/mono.m3u8?token=rl_bbeckffat.v2_GNzihJl4iqOVCcPyzhjW7CSsElMlTdKcft7g6q3l8-O-mJPNe5grC8PS3MvXaYlaXInCoCbhz_F1aOUhyA": {
+  "fails": 1,
+  "ts": 1793922280
+ },
+ "http://3.hls.gd/ch1291/mono.m3u8?token=rl_bbeckffat.v2_5huIjqeHPXkPm8k612zBYFabDheaywkiNWD6B0zcTQCQ_WHexT9vKfeKLuuK1bcJjlurFTHLsOnJgR0zNGU": {
+  "fails": 1,
+  "ts": 1793922280
+ },
+ "http://3.hls.gd/ch036/mono.m3u8?token=rl_bbeckffat.v2_t2pkyVWiTsW3XFp_mxFwqrn-3f0uNwkQ7YtpKyCFxIf1lDfz0XDZEDLNz7IciNst5HQT3uPHk0khkcxI": {
+  "fails": 1,
+  "ts": 1793922280
+ },
+ "http://3.hls.gd/ch365/mono.m3u8?token=rl_bbeckffat.v2_Nq7wDReiA_kNuYJ1KSRKpg6K0YilUqY_HUW3v-WlVTyIpPKxqVT_18J4bTdTW_kQVSOB4hqdVhx3bHWHhg": {
+  "fails": 1,
+  "ts": 1793922280
+ },
+ "http://3.hls.gd/ch1917/mono.m3u8?token=rl_bbeckffat.v2_tInTg8NJ5o8sXvKig1HecA6NAS2owZuD2xcKigWNlABo8eaAmI1JACqRSKRrsEFZOzyllFlOCz9ShAg2jbQ": {
+  "fails": 1,
+  "ts": 1793922280
+ },
+ "http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2118/index.m3u8": {
+  "fails": 1,
+  "ts": 1793922281
+ },
+ "http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2087/index.m3u8": {
+  "fails": 1,
+  "ts": 1793922281
+ },
+ "http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/135/index.m3u8": {
+  "fails": 1,
+  "ts": 1793922281
+ },
+ "http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/725/index.m3u8": {
+  "fails": 1,
+  "ts": 1793922281
+ },
+ "http://playxapp.play-x.app:2095/0330/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922281
+ },
+ "http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/731/index.m3u8": {
+  "fails": 1,
+  "ts": 1793922281
+ },
+ "http://45.153.24.78/1TV/index.m3u8": {
+  "fails": 1,
+  "ts": 1793922281
+ },
+ "http://3.hls.gd/ch080/mono.m3u8?token=rl_bbeckffat.v2_Jp-H8HADFD5O_80_yUPoy9solw6lJ7qu0LdckxgtVNoNDstwQ_P9ZSErq0cjWDhFSKou3WKZS8lre6Js": {
+  "fails": 1,
+  "ts": 1793922281
+ },
+ "http://3.hls.gd/ch3116/mono.m3u8?token=rl_bbeckffat.v2_DvoBOqF4WHPgyGSazXAeOF23cppVEpxoA_8rR8V5stU2DcnK6b4C7VgyWPtxpXNBmfuYMp36Fp3T9Pz85_A": {
+  "fails": 1,
+  "ts": 1793922282
+ },
+ "http://3.hls.gd/ch1727/mono.m3u8?token=rl_bbeckffat.v2_QezHc2o9pQ7uIov_EE76rCYU9Udv6zyysh95F2AvZ2SR-PHH5qjuHVoI0xm2x-6LgnASUgs3azMaNIT2n2g": {
+  "fails": 1,
+  "ts": 1793922282
+ },
+ "http://3.hls.gd/ch4088/mono.m3u8?token=rl_bbeckffat.v2_IcsdcKAXtJeLF4DisZE7xjHk_bYeOVxaAt7qze2URMk_99QYaEVfIG0hQ_NZw9D4zIup-hmyhr188qrBrKk": {
+  "fails": 1,
+  "ts": 1793922282
+ },
+ "http://3.hls.gd/ch1728/mono.m3u8?token=rl_bbeckffat.v2_n750ssijnCHBQqgkRGpN14ohnSY6kx5pjuROMJcucL2aKYwoPFfirlsYtRdR9JoBO4J8Eg0phKDOo0va6QQ": {
+  "fails": 1,
+  "ts": 1793922282
+ },
+ "http://3.hls.gd/ch363/mono.m3u8?token=rl_bbeckffat.v2_RyW-6PktqLY8b5irvbfn2sYAb0CkLeE3RS_ep-ec6EUFxv1Yk47Zrp90RouZl7Xzz04OD6d4t3_gHG9tBg": {
+  "fails": 1,
+  "ts": 1793922282
+ },
+ "http://3.hls.gd/ch1734/mono.m3u8?token=rl_bbeckffat.v2_KH5zZuBlygC2B28HrZ0WwNV9inadouP5McxgMGv7ll9beGd66pipw5ImQ_lW4FxOqvhMmxV7O14RrNo7IJ4": {
+  "fails": 1,
+  "ts": 1793922282
+ },
+ "http://3.hls.gd/ch782/mono.m3u8?token=rl_bbeckffat.v2_EA5YZ-V7nqtYje_sw3QQ9l6shGHENqNx-bQJsD0w_zS9QrZf_u7hyEA1smwTiljeHRsHaXaxtQgqUTPE1A": {
+  "fails": 1,
+  "ts": 1793922282
+ },
+ "http://3.hls.gd/ch535/mono.m3u8?token=rl_bbeckffat.v2_7jYOFsZtUY_zvMsgTZrkiWhL9-tlPMSDwhlbbVAN3BVYaj-W2-co5Wt_LXdcIOZg9XMoeeLeckvNbjkD7A": {
+  "fails": 1,
+  "ts": 1793922282
+ },
+ "http://3.hls.gd/ch1582/mono.m3u8?token=rl_bbeckffat.v2_x2d5ZIIwBbATRyVe7uDgSnCIfAivUGTbEFM_1ix5hGe71zCmmq-c7vl4DU8JhUyTEBdL0EQsUnIElwHNjCM": {
+  "fails": 1,
+  "ts": 1793922282
+ },
+ "http://3.hls.gd/ch1001/mono.m3u8?token=rl_bbeckffat.v2_qwLkj37IkTQda06p1PpvMKmYSdFshqGH-0nMA61TfNrZ71SaqfLUKNcZY3YYZ4STlMm3R1PYc7RSIgaj2WY": {
+  "fails": 1,
+  "ts": 1793922282
+ },
+ "http://3.hls.gd/ch071/mono.m3u8?token=rl_bbeckffat.v2_JgeZ3OlJROwYfe437JtrQXMYIZDWTtvEwRzsVJRzKMDMPLNpy-hpLrnJuPpCoHWugTYsqZYQY40ptWCa": {
+  "fails": 1,
+  "ts": 1793922283
+ },
+ "http://3.hls.gd/ch1559/mono.m3u8?token=rl_bbeckffat.v2__OC0F7hcpTzX4Xb_2w4dbaAgHSPgspZSmJzPbf3UzaMuw0VPmsQ19aD97PoBdxPQoQkIVmBszUOjkBO0qxA": {
+  "fails": 1,
+  "ts": 1793922283
+ },
+ "http://playxapp.play-x.app:2095/0022/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922283
+ },
+ "http://3.hls.gd/ch033/mono.m3u8?token=rl_bbeckffat.v2_Gzp88LaKlSQlsga5KMUheHtAQLoLLIXqBMyox4G5NFTgUQrCyojDC3BWpZZ7nbutuItj2X9ReG8jWlHH": {
+  "fails": 1,
+  "ts": 1793922283
+ },
+ "http://3.hls.gd/ch4091/mono.m3u8?token=rl_bbeckffat.v2_ceTydDE_pkkMFAcoBFNLwK9Nxjp0Zgh-Z1vZLTF1_K-jmdaN2w0_EJXZgTMkirl6r_v0PcOMShCL_UIJkjI": {
+  "fails": 1,
+  "ts": 1793922283
+ },
+ "http://3.hls.gd/ch4107/mono.m3u8?token=rl_bbeckffat.v2_5l9EEEVWePTEaXN2UOTp5bkzFRy4C2DlrWis_NgVtFMRYDEA7JDSu9WaQIuCIPQgeU82XaXJaOVqDIHyukc": {
+  "fails": 1,
+  "ts": 1793922284
+ },
+ "http://3.hls.gd/ch1945/mono.m3u8?token=rl_bbeckffat.v2_UAfV6XN-4BBNx8iV6EMV_R9gWtn2shkjxnrgf9n5UVEu-BnsiCrUW1oQlKaNA9xXEVNc5SuoGQLOsZMPNGw": {
+  "fails": 1,
+  "ts": 1793922285
+ },
+ "http://3.hls.gd/ch054/mono.m3u8?token=rl_bbeckffat.v2_PT1jbNcSUhVPTiMNYGUEUZ4YiNtI2AxyffsRxkqyVhOlo_rNKxbvkVODQGwp_rPDe487qiol9OuDPZLz": {
+  "fails": 1,
+  "ts": 1793922285
+ },
+ "http://3.hls.gd/ch412/mono.m3u8?token=rl_bbeckffat.v2_a1N5XeIhNN8PTsaPA4cYZUEjjSKWBKoIR_DsCID5AnEAPiY5VgcbazP57UwIqja9lo3IK3_jQz1DkI1hgw": {
+  "fails": 1,
+  "ts": 1793922285
+ },
+ "http://3.hls.gd/ch1732/mono.m3u8?token=rl_bbeckffat.v2_qaYutTWO4xXA0iV9Hkw7CPRyC1orgzicr6F3ih-vlktG7HzoHnU9MabC8urUJducla5IZHMD1T4y4iJqjUU": {
+  "fails": 1,
+  "ts": 1793922285
+ },
+ "http://3.hls.gd/ch1731/mono.m3u8?token=rl_bbeckffat.v2_WjEOXbVvmM_eOIMdUOTTHoJmxbNvr89_mpZUv_DO_BDv8bRO72S_7DohNc582shhBq0QWwP7_0Ama4Wkw2I": {
+  "fails": 1,
+  "ts": 1793922285
+ },
+ "http://3.hls.gd/ch568/mono.m3u8?token=rl_bbeckffat.v2_i4xpYvNM4b1u4XzNpV8xdgkTCPewGLQW6FUc2e38EA7pF75SWQ0sQcvjXGXjwGHx9edR0ujPAktQp1HwZw": {
+  "fails": 1,
+  "ts": 1793922285
+ },
+ "http://3.hls.gd/ch1729/mono.m3u8?token=rl_bbeckffat.v2_SzLTOebvjliFbcIomyZdg6EYos-rDl5jzL_j3wXQ6xix-ghpj8bmY5H0Cd43tmlAZskJJgG4UFzUaH9J2Uc": {
+  "fails": 1,
+  "ts": 1793922285
+ },
+ "http://3.hls.gd/ch1986/mono.m3u8?token=rl_bbeckffat.v2_ZskyjB6bWgk2EUh749HHg8jMyY4hdOO4dWYlIC0ojYZwma8Zk7Jn009ItweenKtfRFHwILgsi42PeSfzcEs": {
+  "fails": 1,
+  "ts": 1793922286
+ },
+ "http://3.hls.gd/ch400/mono.m3u8?token=rl_bbeckffat.v2_yy6Sa9EIi1uTIetZGRYtgYsbH-RmfBodjTzzXhzyhG-QhgkkTFM8puSJH2qZ5ekkPe188Qrd4gjOPHk0rg": {
+  "fails": 1,
+  "ts": 1793922286
+ },
+ "http://3.hls.gd/ch008/mono.m3u8?token=rl_bbeckffat.v2_cs9gXnTiqFt0VzTvYo-D5-xMEzmxTsb2vHUlVxHHUaF1Kn0ybLATvLIm28h1843hZMMaO1-vTdyDtts": {
+  "fails": 1,
+  "ts": 1793922286
+ },
+ "http://3.hls.gd/ch3354/mono.m3u8?token=rl_bbeckffat.v2_zhKcCXuk1uDI3z9UHwGus-djBO766rhbcsfX6j2wWhDkknrUpl1rLUtQXC-yD3eqX8xz9uBfa_4JpGp-Pgg": {
+  "fails": 1,
+  "ts": 1793922286
+ },
+ "https://uhd.bear-tv.net/000121_Ekran24/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922287
+ },
+ "https://uhd.bear-tv.net/000202_MovieStar/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922287
+ },
+ "https://uhd.bear-tv.net/000131_PremiereLive/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922287
+ },
+ "https://uhd.bear-tv.net/000130_NightSeans/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922287
+ },
+ "https://uhd.bear-tv.net/000115_SyuzhetTV/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922288
+ },
+ "http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/140/index.m3u8": {
+  "fails": 1,
+  "ts": 1793922288
+ },
+ "https://uhd.bear-tv.net/000117_KinoPulse/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922288
+ },
+ "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/chunklist.m3u8": {
+  "fails": 1,
+  "ts": 1793922289
+ },
+ "https://s06.watcher.uz/117/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8": {
+  "fails": 1,
+  "ts": 1793922291
+ },
+ "https://s06.watcher.uz/121/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15": {
+  "fails": 1,
+  "ts": 1793922292
+ },
+ "https://uhd.bear-tv.net/000204_EkranFuture/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922293
+ },
+ "http://live.overtime26.ru/app/potok/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1793922294
+ },
+ "http://flus1.stream4k.biz:2095/cl_0002_hdr/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922295
+ },
+ "http://flus1.stream4k.biz:2095/Netflix_4K/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922296
+ },
+ "http://flus1.stream4k.biz:2095/kinoids_4k/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922296
+ },
+ "http://flus1.stream4k.biz:2095/Sony_Music_India_UHD/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922296
+ },
+ "http://flus1.stream4k.biz:2095/x00002/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922296
+ },
+ "http://flus1.stream4k.biz:2095/cl_0003_hdr/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922296
+ },
+ "http://flus1.stream4k.biz:2095/000003/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922296
+ },
+ "http://flus1.stream4k.biz:2095/combat_4k/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922296
+ },
+ "http://3.hls.gd/ch1700/mono.m3u8?token=rl_bbeckffat.v2_0nrSumJnTzkmlkvGdXaxVBD4MhpFG521sx8rjdVh7s9uQDjA8XsFsmWbYlUhE4nIEpGcTjMvew6ztUnY0OA": {
+  "fails": 1,
+  "ts": 1793922296
+ },
+ "http://3.hls.gd/ch064/mono.m3u8?token=rl_bbeckffat.v2_7CzUBHIix3Zsr9pE-F_kc85nCM9ODpadPs64QqexGt8XSjrNO68ZzxxNK6eFP4tXQBkYWnHVR1SDYpUL": {
+  "fails": 1,
+  "ts": 1793922297
+ },
+ "http://3.hls.gd/ch2666/mono.m3u8?token=rl_bbeckffat.v2_rZd5nqMSHO0_RH-5SAtDdsLz7iIOmEe0ZEhwGmqmmcD_48j-Jkf-bUypthDEDe-S3ajWqdXdRBh99Uq6zDA": {
+  "fails": 1,
+  "ts": 1793922297
+ },
+ "https://uhd.bear-tv.net/000212_KinoPlanet/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922297
+ },
+ "https://uhd.bear-tv.net/000213_MovieNight/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922297
+ },
+ "https://uhd.bear-tv.net/000208_KinoMix/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922297
+ },
+ "https://s06.watcher.uz/138/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8": {
+  "fails": 1,
+  "ts": 1793922298
+ },
+ "http://3.hls.gd/ch2844/mono.m3u8?token=rl_bbeckffat.v2_EvHZ-EXlYDvl00PRzfN5IteGoe_lcIRhB1LnM1IevO8tDXJqEgm5RpSjAHZBf8jI1A-P10oD2v9yQZNfmac": {
+  "fails": 1,
+  "ts": 1793922298
+ },
+ "http://flus1.stream4k.biz:2095/zapal_4K/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922298
+ },
+ "http://flus1.stream4k.biz:2095/x00001/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922298
+ },
+ "https://uhd.bear-tv.net/000215_EkranPremium/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922299
+ },
+ "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8": {
+  "fails": 1,
+  "ts": 1793922299
+ },
+ "http://3.hls.gd/ch2846/mono.m3u8?token=rl_bbeckffat.v2_HOwExPUNbOeDxskf29ChhifSdNUyWaz0tX60lGsxoefY7jRPYVyyHOPddUobeuozPrCAtSnlt4LtRhn6QsA": {
+  "fails": 1,
+  "ts": 1793922299
+ },
+ "http://3.hls.gd/ch2650/mono.m3u8?token=rl_bbeckffat.v2_FJpoNe9yFJWLgFbrN1ByKvEOd7lOlMyn84nw8EjVdAoT43DTODGl53lkrDLSVRbDXl2OEUtebtCtOnqdvKY": {
+  "fails": 1,
+  "ts": 1793922300
+ },
+ "http://flus1.stream4k.biz:2095/comedy_vhs/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922300
+ },
+ "http://3.hls.gd/ch2663/mono.m3u8?token=rl_bbeckffat.v2_2iAH-_rJIljE6ZSuG2DPOp_YaEpZP4bOq0g1QBL8UR1FSQiR-aaj8xTpfcmrMHK9GXp9saGT1mT6eIiMM8E": {
+  "fails": 1,
+  "ts": 1793922301
+ },
+ "http://flus1.stream4k.biz:2095/skazki_sssr_2/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922301
+ },
+ "http://3.hls.gd/ch2647/mono.m3u8?token=rl_bbeckffat.v2_vGYw8VziCwcsRlZhXMtkVnsm7x6Va36N4CXsM98XKjX9gaFkunTm7Vco52iSsTmoCqqzEENO53LLI5NFrvQ": {
+  "fails": 1,
+  "ts": 1793922301
+ },
+ "https://s05.watcher.uz/43/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8": {
+  "fails": 1,
+  "ts": 1793922302
+ },
+ "http://flus1.stream4k.biz:2095/retro_hits_channel_4k/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922302
+ },
+ "http://3.hls.gd/ch1442/mono.m3u8?token=rl_bbeckffat.v2_taUj1edD6FGzFLyIGMD4OFuGm6Y5UvlAX0Zw_vK8q6lqrhpwC09Lfz0K_WY37MchGSsqJRROl3f09CCY1T0": {
+  "fails": 1,
+  "ts": 1793922302
+ },
+ "https://uhd.bear-tv.net/000226_KinoRhythm/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922302
+ },
+ "http://3.hls.gd/ch2652/mono.m3u8?token=rl_bbeckffat.v2_SoVIgyildwDuM-rfTca1V6Ba2YDk_IzpHvTGl26bR9DtHaZHP_eR2b50Mub2oe6wtj0xE_8vZ_kK3gaDkH8": {
+  "fails": 1,
+  "ts": 1793922302
+ },
+ "http://3.hls.gd/ch1250/mono.m3u8?token=rl_bbeckffat.v2_N9T3UGuirDDceNaDUdGWo_RKbPyHyLDrYwrhTwkxJYyzGSh-3GLvGh-w5N993VeT_UYB4v1XfULOd3YwpXk": {
+  "fails": 1,
+  "ts": 1793922303
+ },
+ "http://3.hls.gd/ch103/mono.m3u8?token=rl_bbeckffat.v2_A7O25xzPBjm7_wVCy_9inKdk_DDjlETvlP5JjtoC4-oujCtsnpR_faF07hQfvQHCb36GBk3OmH--AbEs2Q": {
+  "fails": 1,
+  "ts": 1793922303
+ },
+ "http://3.hls.gd/ch2677/mono.m3u8?token=rl_bbeckffat.v2_Au3MSwyMdC0HlfwshO0XM_o0-omD5X3DbtSQ1fSH6DUVqKr0mujYfu6OO3iqUilXbGOMccEwYUBMaGBkEe0": {
+  "fails": 1,
+  "ts": 1793922304
+ },
+ "http://3.hls.gd/ch1256/mono.m3u8?token=rl_bbeckffat.v2_534L7HSbcq0QLM4RrMtgZeLahx0748r8KhNxAzoAbwVA7M9erMKs5nvnpufaOXMSphDB0hBmSYOK9uR27LE": {
+  "fails": 1,
+  "ts": 1793922305
+ },
+ "http://flus1.stream4k.biz:2095/bollywood_music_4k/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922315
+ },
+ "http://flus1.stream4k.biz:2095/korean_music_4k/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922315
+ },
+ "http://flus1.stream4k.biz:2095/DeepMe_4K/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922315
+ },
+ "http://flus1.stream4k.biz:2095/000032/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922316
+ },
+ "http://flus1.stream4k.biz:2095/000031/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922316
+ },
+ "http://flus1.stream4k.biz:2095/gamefilm_4k/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922316
+ },
+ "http://flus1.stream4k.biz:2095/RemasterWave_4k/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922316
+ },
+ "http://playxapp.play-x.app:2095/0094/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922327
+ },
+ "http://playxapp.play-x.app:2095/10018/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922328
+ },
+ "http://playxapp.play-x.app:2095/17953/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922328
+ },
+ "http://200.194.238.229:8383/live/oldseries/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1793922343
+ },
+ "https://s05.watcher.uz/40/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15": {
+  "fails": 1,
+  "ts": 1793922346
+ },
+ "http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8": {
+  "fails": 1,
+  "ts": 1793922347
+ },
+ "https://s03.watcher.uz/58/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15": {
+  "fails": 1,
+  "ts": 1793922347
+ },
+ "https://s03.watcher.uz/83/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8": {
+  "fails": 1,
+  "ts": 1793922348
+ },
+ "https://s05.watcher.uz/45/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8": {
+  "fails": 1,
+  "ts": 1793922351
+ },
+ "https://s05.watcher.uz/92/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15": {
+  "fails": 1,
+  "ts": 1793922353
+ },
+ "https://s05.watcher.uz/94/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15": {
+  "fails": 1,
+  "ts": 1793922356
+ },
+ "https://s05.watcher.uz/45/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15": {
+  "fails": 1,
+  "ts": 1793922358
+ },
+ "https://s05.watcher.uz/95/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15": {
+  "fails": 1,
+  "ts": 1793922358
+ },
+ "https://s04.watcher.uz:443/114/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8": {
+  "fails": 1,
+  "ts": 1793922366
+ },
+ "http://playxapp.play-x.app:2095/0448/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922370
+ },
+ "http://playxapp.play-x.app:2095/1400/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922371
+ },
+ "http://playxapp.play-x.app:2095/0414/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922372
+ },
+ "http://playxapp.play-x.app:2095/0390/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922377
+ },
+ "http://ecc91067.rossteleccom.net/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/18195/index.m3u8": {
+  "fails": 1,
+  "ts": 1793922379
+ },
+ "http://ecc91067.rossteleccom.net/iptv/FWU59KQYGEDDTB/18194/index.m3u8": {
+  "fails": 1,
+  "ts": 1793922380
+ },
+ "http://playxapp.play-x.app:2095/0364/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793922381
+ },
+ "http://stream.apa.tv/apastream/video1_stream.m3u8": {
+  "fails": 1,
+  "ts": 1793922381
+ },
+ "https://cityeden.catcast.tv/content/41327/index.m3u8?password=loganet": {
+  "fails": 1,
+  "ts": 1793922384
+ },
+ "https://cityeden.catcast.tv/content/41327/index.m3u8": {
+  "fails": 1,
+  "ts": 1793922385
+ },
+ "http://e87149a8.megogo.xyz/iptv/275EP3V8V4MZHG8KQGLFDPSK/10036/index.m3u8": {
+  "fails": 1,
+  "ts": 1793922398
+ },
+ "http://5a518cc9.edmonst.net/iptv/TZUTU9NWR577EM/2469/index.m3u8": {
+  "fails": 1,
+  "ts": 1793922398
+ },
+ "https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-models/b6587c51-f64a-4f4b-933a-f902aed8a1cc/0.m3u8": {
+  "fails": 1,
+  "ts": 1793922557
+ },
+ "https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/1af4abed-c0b8-487a-a75e-da051be75fac/0.m3u8": {
+  "fails": 1,
+  "ts": 1793922557
+ },
+ "https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1793922610
+ },
+ "https://cdn.1tvcrimea.ru/24tvcrimea.m3u8": {
+  "fails": 1,
+  "ts": 1793922615
+ },
+ "https://cdn.1tvcrimea.ru/radio.m3u8": {
+  "fails": 1,
+  "ts": 1793922641
+ },
+ "https://cdn.1tvcrimea.ru/1tvcrimea.m3u8": {
+  "fails": 1,
+  "ts": 1793922746
  }
 }
