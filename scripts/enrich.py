@@ -1,13 +1,16 @@
 import asyncio, json, re, time
 import aiohttp
 from . import config
+
 ATTR_RE = re.compile(r'([A-Za-z0-9_\-]+)="([^"]*)"')
+
 def _split_extinf(line):
     in_q = False
     for i, ch in enumerate(line):
         if ch == '"': in_q = not in_q
         elif ch == ',' and not in_q: return line[:i], line[i+1:].strip()
     return line, ""
+
 def parse_m3u(text):
     out, cur = [], None
     for raw in text.splitlines():
@@ -17,14 +20,25 @@ def parse_m3u(text):
             m = re.match(r'#EXTINF:-?\d+\s*(.*)$', line)
             if not m: continue
             attrs_str, name = _split_extinf(m.group(1))
-            cur = {"name": name, "attrs": dict(ATTR_RE.findall(attrs_str)), "extvlc": {}, "url": None}
+            cur = {"name": name, "attrs": dict(ATTR_RE.findall(attrs_str)), "extvlc": {}, "kodiprop": {}, "exthttp": {}, "url": None}
         elif cur is not None and line.startswith("#EXTVLCOPT:"):
             kv = line[len("#EXTVLCOPT:"):].strip()
             if "=" in kv:
                 k, v = kv.split("=", 1); cur["extvlc"][k.strip().lower()] = v.strip()
+        elif cur is not None and line.startswith("#KODIPROP:"):
+            kv = line[len("#KODIPROP:"):].strip()
+            if "=" in kv:
+                k, v = kv.split("=", 1); cur["kodiprop"][k.strip()] = v.strip()
+        elif cur is not None and line.startswith("#EXTHTTP:"):
+            try:
+                js = line[len("#EXTHTTP:"):].strip()
+                cur["exthttp"] = json.loads(js)
+            except Exception: pass
         elif line.startswith("#"): continue
-        elif cur is not None: cur["url"] = line; out.append(cur); cur = None
+        elif cur is not None:
+            cur["url"] = line; out.append(cur); cur = None
     return out
+
 def _is_junk(u):
     if not u or not re.match(r'^https?://', u): return True
     low = u.lower()
@@ -32,6 +46,7 @@ def _is_junk(u):
     if any(x in low for x in ("localhost","127.0.0.1","0.0.0.0")): return True
     if re.search(r'^https?://(10\.|192\.168\.|172\.(1[6-9]|2\d|3[01])\.)', u): return True
     return False
+
 def _is_forbidden(name, tid, tvg_name, grp):
     text = " ".join([name or "", tid or "", tvg_name or "", grp or ""]).lower()
     for bg in config.BAD_GROUPS:
@@ -39,9 +54,11 @@ def _is_forbidden(name, tid, tvg_name, grp):
     for bw in config.BAD_WORDS:
         if bw in text: return True
     return False
+
 async def _get_json(session, url):
     to = aiohttp.ClientTimeout(total=90)
     async with session.get(url, timeout=to) as r: r.raise_for_status(); return await r.json(content_type=None)
+
 async def load_api():
     cp = config.DATA / "api_cats.json"; lp = config.DATA / "api_logos.json"; ttl = 7 * 86400
     cats_c = config.load_json(cp, {}); logos_c = config.load_json(lp, {})
@@ -78,6 +95,7 @@ async def load_api():
             elif ".svg" in ex.lower() and fmt == "PNG": logos[cid] = url
         config.atomic_write(lp, json.dumps({"ts": int(time.time()), "logos": logos}))
     return cats, names, ru, logos
+
 def load_sources():
     out = []
     if not config.SOURCES_PATH.exists(): return out
@@ -89,6 +107,7 @@ def load_sources():
         for u in d.get("extra_m3u", []): out.append((f"extra-{len(out)}", u, 9))
     except Exception: pass
     return out
+
 async def _fetch(session, name, url, retries=2):
     for a in range(retries+1):
         try:
@@ -99,18 +118,33 @@ async def _fetch(session, name, url, retries=2):
         except Exception:
             if a < retries: await asyncio.sleep(3)
     return name, None
+
 def merge_channels(channels):
     def merge(a, b):
-        r = dict(a); r["urls"] = list({*a.get("urls", [a.get("url")]), *b.get("urls", [b.get("url")])})
+        r = dict(a)
+        r["urls"] = list({*a.get("urls", [a.get("url")]), *b.get("urls", [b.get("url")])})
         if not r.get("logo") and b.get("logo"): r["logo"] = b["logo"]
         if not r.get("has_epg") and b.get("has_epg"): r["has_epg"] = b["has_epg"]
-        if (b.get("confidence", 0) > r.get("confidence", 0)): r["category"] = b["category"]; r["confidence"] = b["confidence"]; r["method"] = b["method"]
+        if (b.get("confidence", 0) > r.get("confidence", 0)):
+            r["category"] = b["category"]; r["confidence"] = b["confidence"]; r["method"] = b["method"]
         if len(b.get("name","")) > len(r.get("name","")): r["name"] = b["name"]
+        
+        # Слияние заголовков
         for key in ["catchup","catchup-source","catchup-days","timeshift"]:
             if not r.get("attrs", {}).get(key) and b.get("attrs", {}).get(key):
                 if "attrs" not in r: r["attrs"] = {}
                 r["attrs"][key] = b["attrs"][key]
+        if not r.get("extvlc"): r["extvlc"] = {}
+        for k, v in b.get("extvlc", {}).items():
+            if k not in r["extvlc"]: r["extvlc"][k] = v
+        if not r.get("kodiprop"): r["kodiprop"] = {}
+        for k, v in b.get("kodiprop", {}).items():
+            if k not in r["kodiprop"]: r["kodiprop"][k] = v
+        if not r.get("exthttp"): r["exthttp"] = {}
+        for k, v in b.get("exthttp", {}).items():
+            if k not in r["exthttp"]: r["exthttp"][k] = v
         return r
+
     by_url, no_url = {}, []
     for c in channels:
         u = (c.get("urls") or [c.get("url","")])[0]
