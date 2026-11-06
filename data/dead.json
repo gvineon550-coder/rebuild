@@ -4942,5 +4942,1301 @@
  "https://cdn.1tvcrimea.ru/1tvcrimea.m3u8": {
   "fails": 1,
   "ts": 1793922746
+ },
+ "http://83.103.149.75:8085/udp/239.30.0.9:4000": {
+  "fails": 1,
+  "ts": 1793925744
+ },
+ "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1312176&extension=ts&play_token=40QyOSdnON": {
+  "fails": 1,
+  "ts": 1793925744
+ },
+ "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1312175&extension=ts&play_token=vQU5Vkecow": {
+  "fails": 1,
+  "ts": 1793925744
+ },
+ "http://77.106.252.178:4022/udp/233.33.210.70:5050": {
+  "fails": 1,
+  "ts": 1793925745
+ },
+ "http://3.hls.gd/ch1269/mono.m3u8?token=rl_bbeckffat.v2_RK1iBPIsOWq28n4tygcFqRr90RT1-GQoWjlCM8elmfJgUI8yJvNkNhpycsZE1mfQE5WTAt8CcE3x4SyDwL8": {
+  "fails": 1,
+  "ts": 1793925746
+ },
+ "http://3.hls.gd/ch138/mono.m3u8?token=rl_bbeckffat.v2_biRvnEzFgUoK2RAM_3efBkh3KoC7yzLXDU6-dLj8LLCKLqhBo4I6QU71mP0UzJFTvjkJCrO_TOEl3rqlaQ": {
+  "fails": 1,
+  "ts": 1793925747
+ },
+ "http://3.hls.gd/ch729/mono.m3u8?token=rl_bbeckffat.v2_dsgV-0KHWWKEyohdau655YwLSL8lhWjXZvj-Tspc_0fHIqA2fTh81QHX2owojI4cKzioGh5NIqILt_ohVQ": {
+  "fails": 1,
+  "ts": 1793925747
+ },
+ "http://3.hls.gd/ch510/mono.m3u8?token=rl_bbeckffat.v2_3-ZoA-2Z9UV2VegW0Cx0CSp7sUzhE7lryiJNLalwK46XMQcxZyejZZkkCj-xRGF51H9KJUyg3BVUovzKKA": {
+  "fails": 1,
+  "ts": 1793925747
+ },
+ "http://3.hls.gd/ch1273/mono.m3u8?token=rl_bbeckffat.v2_qtV4SHZ6fcwGscd2NciCkM9zK-JwYzVtPlp0iljB7Han17a8vpCQIXJL9Isxsxl4GyDgM80UprABP6GeGJg": {
+  "fails": 1,
+  "ts": 1793925747
+ },
+ "http://3.hls.gd/ch1253/mono.m3u8?token=rl_bbeckffat.v2_pIiJHwIKkURO7zfpPBREREdnvOxlt-z5qoJy7lMlX_vgBZhnNzFwwXxF95jPJggv4MpHUlzbIXkKMSGPoB8": {
+  "fails": 1,
+  "ts": 1793925747
+ },
+ "http://3.hls.gd/ch636/mono.m3u8?token=rl_bbeckffat.v2_hjHry-oBU4UnQ3NyWSoK3kzaW6BAWsW_Meu-IzEg0ENNzGRvC3Si4kR7lLr9wnZXP45vMtxwk5_CIvxb1A": {
+  "fails": 1,
+  "ts": 1793925747
+ },
+ "http://3.hls.gd/ch2077/mono.m3u8?token=rl_bbeckffat.v2_rN-ld0n8g5kdb8l-CYpm5KPYiHhwzGof1DaEJq837-c5IZGL3zEFM7avTsTiLg1EcNN3_cMB6FcHLE37uXk": {
+  "fails": 1,
+  "ts": 1793925748
+ },
+ "http://3.hls.gd/ch1744/mono.m3u8?token=rl_bbeckffat.v2_WPmtOv9jhiFq1cJ4nNa0Rx2J2tF1M_W4BVQDTDLpAJgFqDBagNDtUEXPL_-1jsVGs_6YzWizAVWSA8lPrW4": {
+  "fails": 1,
+  "ts": 1793925748
+ },
+ "http://3.hls.gd/ch459/mono.m3u8?token=rl_bbeckffat.v2_QfvYvHY0KU52SARWERs6z3ncQqLh659i75TZ0oWTZ8wTstvtjoe6162xeSusOdDX-TQ4K9YjAQ04LRhSJA": {
+  "fails": 1,
+  "ts": 1793925748
+ },
+ "http://3.hls.gd/ch4078/mono.m3u8?token=rl_bbeckffat.v2_TI0tjtqQJVvSCFeRWFEncGrOgVvFfSqSW2rkT29NpRxqLiGbA3gXcSXJb_zKX8iCFUDCZuJ5p0rEfcmSBcc": {
+  "fails": 1,
+  "ts": 1793925748
+ },
+ "http://3.hls.gd/ch112/mono.m3u8?token=rl_bbeckffat.v2_wDUfx39zTUONlCH2gRxE0-mIwDYouHSAV68itjC4V7nX3rAhbO_Exirp-fyj2nkdReI9a4ffySDqxVo2Fw": {
+  "fails": 1,
+  "ts": 1793925748
+ },
+ "http://3.hls.gd/ch1741/mono.m3u8?token=rl_bbeckffat.v2_E_x57qsXOCmNwv0JkvNrSuEtAKED0tgNGASFMMp5G7I8JmYhsakZIVKYvJkVd1GhDtNXca23FekV0pJYFMw": {
+  "fails": 1,
+  "ts": 1793925749
+ },
+ "http://3.hls.gd/ch1948/mono.m3u8?token=rl_bbeckffat.v2_joVl6ceSQRBKFPagk9HdjwaW6qt7qJpJaS-GLwjAbthHZhcYEwNtAHgoat67qjZuL8yRyNb0_9xUdw9CHh0": {
+  "fails": 1,
+  "ts": 1793925749
+ },
+ "http://3.hls.gd/ch1755/mono.m3u8?token=rl_bbeckffat.v2_7KRwZSW9Ve-XUFc-jRhBr7pQlOl8QsbzqcPmIcCM-bqhvGK-jVttXYd03VB_QEFoZuBKnMp7rhQAPowBP6w": {
+  "fails": 1,
+  "ts": 1793925749
+ },
+ "http://3.hls.gd/ch3115/mono.m3u8?token=rl_bbeckffat.v2_DBUaKY61UgKUK9-d9Zo7ME2zv-dBWk4eutTN0acrMTDgnyyu7WvNDKP00MJ_oABsSbVBfJ8mg9bCvNT1ZvY": {
+  "fails": 1,
+  "ts": 1793925749
+ },
+ "http://3.hls.gd/ch1720/mono.m3u8?token=rl_bbeckffat.v2_Xne2mIaqvkHdF2PJb0Zt5hwOrQaq17Kjz7R332dHnLJrK6HRR3LneYfCstlOGF3FPF7sPy5nC6wzIJ-ZwSo": {
+  "fails": 1,
+  "ts": 1793925749
+ },
+ "http://3.hls.gd/ch1754/mono.m3u8?token=rl_bbeckffat.v2_tJ882F5cqEFp9sSaYTrT7QK-Jqu1Tf1W53RP3Uffi6GR9kNVAQALRFR8iC0wsFSAYU6t-eocAuX4rmLQEB4": {
+  "fails": 1,
+  "ts": 1793925749
+ },
+ "https://glb.bozztv.com/glb/ushba-rvisionclassic/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925749
+ },
+ "https://glb.bozztv.com/glb/ushba-rvisionkinopanorama/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925749
+ },
+ "http://3.hls.gd/ch3117/mono.m3u8?token=rl_bbeckffat.v2_f90N0fN4_QXWE8mpsGJY5wTWBirFXlRwLa6FVHpv00jpDZ_9AYCl-69ir2JTXhjf-DWeBpEygu7o2ng_juY": {
+  "fails": 1,
+  "ts": 1793925749
+ },
+ "http://3.hls.gd/ch3394/mono.m3u8?token=rl_bbeckffat.v2_iIKckVjByrbIMq6rll7BBfGr4h96LKMLDBOewUVMPu239pHiX5u8w50zKWDRxmvwQwFm2OQXglr2pvAMd-4": {
+  "fails": 1,
+  "ts": 1793925750
+ },
+ "http://3.hls.gd/ch255/mono.m3u8?token=rl_bbeckffat.v2_y2xUkvW2W23WV1YKRTbwZvY3GUDm29MOTYD3mNQMp4HyH2Ufc5kANLftn86l4VFsLlCE6QeSnhdy1F8jaA": {
+  "fails": 1,
+  "ts": 1793925750
+ },
+ "http://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8": {
+  "fails": 1,
+  "ts": 1793925750
+ },
+ "http://3.hls.gd/ch3038/mono.m3u8?token=rl_bbeckffat.v2_blmwJrLzW2fb_XsMZrKdz1KXdH7oOepBYt5Exttdwj3gm3yOJhjHx1Dq48PqKTllmFwk6QNK5RwFtMu66bY": {
+  "fails": 1,
+  "ts": 1793925750
+ },
+ "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1172226&extension=ts&play_token=eWh61NDxQG": {
+  "fails": 1,
+  "ts": 1793925750
+ },
+ "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1793925750
+ },
+ "http://3.hls.gd/ch018/mono.m3u8?token=rl_bbeckffat.v2_OHkFcpzmLVJVjCyxE-_7EAu6_9Lecy7RzwOJXXubyuK7PMa_aHWHC63BUNhaxFNSAcOnla3bwTE5iwAA": {
+  "fails": 1,
+  "ts": 1793925750
+ },
+ "http://3.hls.gd/ch3305/mono.m3u8?token=rl_bbeckffat.v2_faDsSmJBC7BXYCfs1EEyQTO2Y0g0KbB7NIuW69am4Y2zIOJ3MnqLlm9b7xOFO7CDhPcK7BY8oI4N1R-6SBo": {
+  "fails": 1,
+  "ts": 1793925751
+ },
+ "http://vod.tuva.ru/myplanet/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925751
+ },
+ "http://mfe02.cliptv.az/dash/STS_SDshl247h.ism/playlist.mpd": {
+  "fails": 1,
+  "ts": 1793925752
+ },
+ "https://watcher.uz:443/99/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8": {
+  "fails": 1,
+  "ts": 1793925752
+ },
+ "http://3.hls.gd/ch1556/mono.m3u8?token=rl_bbeckffat.v2_BfDYCOTq1k9E85Jp81XHBDfB8WODtpAe82T00larhkO6BcVwuQjTAAFL_v_0yQxmMSVwflyMfwgsN1S_KSM": {
+  "fails": 1,
+  "ts": 1793925753
+ },
+ "http://3.hls.gd/ch2016/mono.m3u8?token=rl_bbeckffat.v2_xOOeXKTaCFC_WKL2Yh2xxIHdUrpl8NJexmuMC7f9Mz1hf2zaycFHUYOA-siwVk_vNVVMpzhQDv3x6FF62r4": {
+  "fails": 1,
+  "ts": 1793925753
+ },
+ "http://3.hls.gd/ch590/mono.m3u8?token=rl_bbeckffat.v2_-8Vo6CLFKt0_nL-4DqzrTStGg1Jc-gXMxM6iO_-4dFROBlA84Bqoguk6uMTxLGoygPxqGHNLF5OCwDTRCQ": {
+  "fails": 1,
+  "ts": 1793925753
+ },
+ "http://3.hls.gd/ch061/mono.m3u8?token=rl_bbeckffat.v2_24S0ymvWL8mmYaRxfyrsRhLAlfzhesXVLq-1gevVZNC-89l4CHtiKhHsaonjmKNGc-czBl4AgDFQlPBl": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://3.hls.gd/ch3828/mono.m3u8?token=rl_bbeckffat.v2_7c1WLuD-ywkcWiT29LqfLcsn8b-TwQHh_HVMioITYUX9tF_VpNzZIT5AquN9YXEuZ271LiFK3cH_ovZl6rQ": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://pl.online24.pm/play/50090/F6E1DD42544DD10/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://bde.online24.pm/play/9908/855C055F42798FB/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://pl.online24.pm/play/50100/F6E1DD42544DD10/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://bde.online24.pm/play/6219/855C055F42798FB/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://bde.online24.pm/play/9975/855C055F42798FB/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://bde.online24.pm/play/5167/855C055F42798FB/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://bde.online24.pm/play/9954/855C055F42798FB/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://pl.online24.pm/play/50092/F6E1DD42544DD10/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://bde.online24.pm/play/6149/855C055F42798FB/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://bde.online24.pm/play/9905/855C055F42798FB/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://pl.online24.pm/play/50091/F6E1DD42544DD10/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://bde.online24.pm/play/23/855C055F42798FB/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://pl.online24.pm/play/50099/F6E1DD42544DD10/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://pl.online24.pm/play/50093/F6E1DD42544DD10/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://pl.online24.pm/play/50089/F6E1DD42544DD10/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://pl.online24.pm/play/50096/F6E1DD42544DD10/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://bde.online24.pm/play/9949/855C055F42798FB/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://bde.online24.pm/play/2605/855C055F42798FB/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://62.32.84.50:18000/play/a0mb/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://pl.online24.pm/play/50098/F6E1DD42544DD10/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://bde.online24.pm/play/9906/855C055F42798FB/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://pl.online24.pm/play/50095/F6E1DD42544DD10/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://bde.online24.pm/play/8837/855C055F42798FB/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://bde.online24.pm/play/9971/855C055F42798FB/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925754
+ },
+ "http://3.hls.gd/ch4082/mono.m3u8?token=rl_bbeckffat.v2_KJWfWO_NsIga67lbmfJ0qVyeH4gphYvOZm_rgoqtKf_91ARz1vNvPzV2Vgctu_tCoBYo29z5tdNFHy2Fb5U": {
+  "fails": 1,
+  "ts": 1793925755
+ },
+ "http://3.hls.gd/ch3075/mono.m3u8?token=rl_bbeckffat.v2_l9_R0SLjxcn5Qu2kK0WDM4TUffhVusFpwlUZcC7So0BedYY0LQ_dbDl7UG4R2Zn5eMEop9uvJWMCGny0RC0": {
+  "fails": 1,
+  "ts": 1793925755
+ },
+ "http://62.32.84.50:18000/play/a0m2/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925755
+ },
+ "http://62.32.84.50:18000/play/a0ke/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925755
+ },
+ "http://62.32.84.50:18000/play/a02n/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925755
+ },
+ "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=237529&extension=ts&play_token=dQ0mRCz73n": {
+  "fails": 1,
+  "ts": 1793925755
+ },
+ "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1261&extension=ts&play_token=cCv03ZlDY0": {
+  "fails": 1,
+  "ts": 1793925755
+ },
+ "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=237528&extension=ts&play_token=mvrGXHuexG": {
+  "fails": 1,
+  "ts": 1793925755
+ },
+ "http://185.184.233.178:5000/udp/225.1.2.119:1234": {
+  "fails": 1,
+  "ts": 1793925756
+ },
+ "http://3.hls.gd/ch2866/mono.m3u8?token=rl_bbeckffat.v2_SGYMASQbx0Xvul8pUcNjh6jNNhSN7NoLf0Hhoyee7sWrZfwF3m59ucjWOduZbrkJuveW6gJMc5YcCnvjDRM": {
+  "fails": 1,
+  "ts": 1793925756
+ },
+ "http://62.32.84.50:18000/play/a0h1/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925756
+ },
+ "http://sochinskayatrk.ru:2015/STRK/mpegts": {
+  "fails": 1,
+  "ts": 1793925757
+ },
+ "http://3.hls.gd/ch058/mono.m3u8?token=rl_bbeckffat.v2_ghETgfZ8MAq7_2r-_AyUouk0j3fMG6ZXlCWLOvTW5Lx6h89hdseTavedNW6XUiBaYGGZjhiHu5O1tl2d": {
+  "fails": 1,
+  "ts": 1793925757
+ },
+ "http://62.32.84.50:18000/play/a0m9/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925757
+ },
+ "http://playxapp.play-x.app:2095/0601/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925758
+ },
+ "http://62.32.84.50:18000/play/a0kz/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925758
+ },
+ "http://62.32.84.50:18000/play/a0k8/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925758
+ },
+ "http://62.32.84.50:18000/play/a02b/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925758
+ },
+ "http://62.32.84.50:18000/play/a0bf/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925758
+ },
+ "http://62.32.84.50:18000/play/a0lq/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925758
+ },
+ "http://3.hls.gd/ch475/mono.m3u8?token=rl_bbeckffat.v2_tfZ50OOCR3KyEIhuM196lVbgRclJfZ1y7StCv9eJN10BWk2buenzgV74qvuzyCw1GMRanB48U4XtzyBSfQ": {
+  "fails": 1,
+  "ts": 1793925759
+ },
+ "http://playxapp.play-x.app:2095/0443/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925759
+ },
+ "http://playxapp.play-x.app:2095/0035/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925759
+ },
+ "http://62.32.84.50:18000/play/a0l3/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925759
+ },
+ "http://62.32.84.50:18000/play/a0k0/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925759
+ },
+ "http://62.32.84.50:18000/play/a0k9/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925759
+ },
+ "http://62.32.84.50:18000/play/a0jt/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925759
+ },
+ "http://playxapp.play-x.app:2095/0649/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925760
+ },
+ "https://watcher.uz:443/97/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8": {
+  "fails": 1,
+  "ts": 1793925761
+ },
+ "https://s06.watcher.uz/139/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15": {
+  "fails": 1,
+  "ts": 1793925761
+ },
+ "https://watcher.uz:443/98/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8": {
+  "fails": 1,
+  "ts": 1793925761
+ },
+ "http://playxapp.play-x.app:2095/32238/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925761
+ },
+ "http://playxapp.play-x.app:2095/00110/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925761
+ },
+ "http://62.32.84.50:18000/play/a0li/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925762
+ },
+ "http://62.32.84.50:18000/play/a0lh/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925762
+ },
+ "https://watcher.uz:443/100/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8": {
+  "fails": 1,
+  "ts": 1793925762
+ },
+ "http://62.32.84.50:18000/play/a0m7/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925763
+ },
+ "http://62.32.84.50:18000/play/a0lj/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925763
+ },
+ "http://62.32.84.50:18000/play/a0lg/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925763
+ },
+ "http://playxapp.play-x.app:2095/3039/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925763
+ },
+ "https://s06.watcher.uz/128/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15": {
+  "fails": 1,
+  "ts": 1793925763
+ },
+ "https://uhd.bear-tv.net/000132_KinoMarshrut/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925763
+ },
+ "http://62.32.84.50:18000/play/a0ml/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925764
+ },
+ "https://uhd.bear-tv.net/000133_LegendsEkrana/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925764
+ },
+ "http://playxapp.play-x.app:2095/0607/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925764
+ },
+ "http://playxapp.play-x.app:2095/00101/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925764
+ },
+ "https://uhd.bear-tv.net/000141_KinoSphere/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925764
+ },
+ "https://uhd.bear-tv.net/000144_BlockbusterTV/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925764
+ },
+ "http://62.32.84.50:18000/play/a0l1/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925764
+ },
+ "https://uhd.bear-tv.net/000203_KinoArena/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925765
+ },
+ "https://uhd.bear-tv.net/000206_KinoFocus/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925765
+ },
+ "https://uhd.bear-tv.net/000207_FilmPotok/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925765
+ },
+ "https://uhd.bear-tv.net/000211_HDKinoDom/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925766
+ },
+ "https://s06.watcher.uz/120/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8": {
+  "fails": 1,
+  "ts": 1793925767
+ },
+ "https://s06.watcher.uz/116/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8": {
+  "fails": 1,
+  "ts": 1793925767
+ },
+ "https://s06.watcher.uz/118/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15": {
+  "fails": 1,
+  "ts": 1793925768
+ },
+ "https://s06.watcher.uz/138/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15": {
+  "fails": 1,
+  "ts": 1793925768
+ },
+ "http://62.32.84.50:18000/play/a0ku/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925768
+ },
+ "https://uhd.bear-tv.net/000216_KinoSvet/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925768
+ },
+ "https://s06.watcher.uz/116/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15": {
+  "fails": 1,
+  "ts": 1793925768
+ },
+ "https://s06.watcher.uz/127/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8": {
+  "fails": 1,
+  "ts": 1793925768
+ },
+ "https://s06.watcher.uz/125/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15": {
+  "fails": 1,
+  "ts": 1793925768
+ },
+ "https://uhd.bear-tv.net/000218_SerialPark/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925768
+ },
+ "https://uhd.bear-tv.net/000220_KinoMayak/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925768
+ },
+ "https://s06.watcher.uz/125/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8": {
+  "fails": 1,
+  "ts": 1793925769
+ },
+ "https://uhd.bear-tv.net/000222_FilmZone/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925769
+ },
+ "https://uhd.bear-tv.net/000223_KinoEmpire/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925769
+ },
+ "https://s06.watcher.uz/118/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20": {
+  "fails": 1,
+  "ts": 1793925769
+ },
+ "https://s06.watcher.uz/124/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8": {
+  "fails": 1,
+  "ts": 1793925769
+ },
+ "https://uhd.bear-tv.net/000225_MovieLine/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925770
+ },
+ "https://uhd.bear-tv.net/000227_Seans247/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925770
+ },
+ "https://uhd.bear-tv.net/009999_KinoMania/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925770
+ },
+ "http://62.32.84.50:18000/play/a0l9/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925770
+ },
+ "https://s06.watcher.uz/136/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8": {
+  "fails": 1,
+  "ts": 1793925771
+ },
+ "https://s04.watcher.uz:443/113/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8": {
+  "fails": 1,
+  "ts": 1793925773
+ },
+ "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031961&extension=ts&play_token=vAH4NNHJkC": {
+  "fails": 1,
+  "ts": 1793925773
+ },
+ "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031931&extension=ts&play_token=9C0hndElOQ": {
+  "fails": 1,
+  "ts": 1793925773
+ },
+ "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031919&extension=ts&play_token=bbTv2UDQZL": {
+  "fails": 1,
+  "ts": 1793925773
+ },
+ "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031930&extension=ts&play_token=HDJpxgCN2L": {
+  "fails": 1,
+  "ts": 1793925774
+ },
+ "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1312177&extension=ts&play_token=EjImoVg0a3": {
+  "fails": 1,
+  "ts": 1793925775
+ },
+ "https://s05.watcher.uz/187/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20": {
+  "fails": 1,
+  "ts": 1793925775
+ },
+ "http://62.32.84.50:18000/play/a0kl/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925775
+ },
+ "http://91.214.48.158:4022/udp/224.2.2.4:10000": {
+  "fails": 1,
+  "ts": 1793925778
+ },
+ "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1099988&extension=ts&play_token=RJtmREBEO0": {
+  "fails": 1,
+  "ts": 1793925779
+ },
+ "http://62.32.84.50:18000/play/a0gy/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925781
+ },
+ "http://62.32.84.50:18000/play/a0l4/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925781
+ },
+ "http://62.32.84.50:18000/play/a0h7/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925781
+ },
+ "http://62.32.84.50:18000/play/a0l6/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925782
+ },
+ "http://62.32.84.50:18000/play/a0bc/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925783
+ },
+ "https://s04.watcher.uz/27/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20": {
+  "fails": 1,
+  "ts": 1793925783
+ },
+ "https://s04.watcher.uz/19/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20": {
+  "fails": 1,
+  "ts": 1793925784
+ },
+ "https://s03.watcher.uz/62/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15": {
+  "fails": 1,
+  "ts": 1793925786
+ },
+ "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031896&extension=ts&play_token=AIejVl73oa": {
+  "fails": 1,
+  "ts": 1793925786
+ },
+ "http://62.32.84.50:18000/play/a0h3/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925788
+ },
+ "http://62.32.84.50:18000/play/a0le/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925790
+ },
+ "http://62.32.84.50:18000/play/a0ld/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925791
+ },
+ "http://62.32.84.50:18000/play/a0lf/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925791
+ },
+ "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=459962&extension=ts&play_token=e8CwC190Ff": {
+  "fails": 1,
+  "ts": 1793925792
+ },
+ "http://62.32.84.50:18000/play/a0m6/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925794
+ },
+ "http://62.32.84.50:18000/play/a0lc/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925795
+ },
+ "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1152813&extension=ts&play_token=4hqJ6yeTPk": {
+  "fails": 1,
+  "ts": 1793925798
+ },
+ "http://62.32.84.50:18000/play/a0dv/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925799
+ },
+ "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=548000&extension=ts&play_token=Tlz6dHYZcW": {
+  "fails": 1,
+  "ts": 1793925799
+ },
+ "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1260&extension=ts&play_token=lo1Z9jbp51": {
+  "fails": 1,
+  "ts": 1793925799
+ },
+ "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=548054&extension=ts&play_token=0eTDXG3w2P": {
+  "fails": 1,
+  "ts": 1793925799
+ },
+ "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=548029&extension=ts&play_token=wvDlZpI8y9": {
+  "fails": 1,
+  "ts": 1793925802
+ },
+ "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1295&extension=ts&play_token=OgjmhDmrS7": {
+  "fails": 1,
+  "ts": 1793925802
+ },
+ "http://62.32.84.50:18000/play/a06c/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925807
+ },
+ "http://62.32.84.50:18000/play/a0k7/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925807
+ },
+ "http://62.32.84.50:18000/play/a0l7/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925808
+ },
+ "http://62.32.84.50:18000/play/a095/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925809
+ },
+ "http://flus1.stream4k.biz:2095/BluesString_4K/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925810
+ },
+ "http://62.32.84.50:18000/play/a0kw/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925811
+ },
+ "http://flus1.stream4k.biz:2095/000035/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925812
+ },
+ "http://flus1.stream4k.biz:2095/triller_4k/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925812
+ },
+ "http://flus1.stream4k.biz:2095/concert_4k/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925814
+ },
+ "http://190.117.20.37:8000/play/a08d/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925819
+ },
+ "http://5.188.221.43:8080/play/tv3": {
+  "fails": 1,
+  "ts": 1793925820
+ },
+ "http://5.188.221.43:8080/play/tnt": {
+  "fails": 1,
+  "ts": 1793925821
+ },
+ "http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925821
+ },
+ "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925821
+ },
+ "http://62.32.84.50:18000/play/a0mc/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925821
+ },
+ "http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925822
+ },
+ "http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925822
+ },
+ "http://46.53.200.153:7777/play/a00h/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925823
+ },
+ "http://5.188.221.43:8080/play/5_kanal": {
+  "fails": 1,
+  "ts": 1793925823
+ },
+ "http://5.188.221.43:8080/play/match": {
+  "fails": 1,
+  "ts": 1793925823
+ },
+ "https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1793925823
+ },
+ "http://5.188.221.43:8080/play/domashniy": {
+  "fails": 1,
+  "ts": 1793925824
+ },
+ "http://168.196.127.137:6001/play/a0a9/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925825
+ },
+ "http://181.224.255.210:8001/play/a0pt/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925825
+ },
+ "http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925825
+ },
+ "https://s05.watcher.uz:443/94/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8": {
+  "fails": 1,
+  "ts": 1793925826
+ },
+ "http://181.224.255.210:8001/play/a0oj/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925826
+ },
+ "http://181.224.255.210:8001/play/a0og/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925827
+ },
+ "http://62.32.84.50:18000/play/a0bh/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925827
+ },
+ "http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925827
+ },
+ "https://zabava-htlive.cdn.ngenix.net/hls/CH_PERVIJSEVASTOPOL/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925827
+ },
+ "http://181.224.255.210:8001/play/a0pr/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925827
+ },
+ "http://e6.online.video.rbc.ru/online2/rbctv_480p/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925828
+ },
+ "http://181.224.255.210:8001/play/a0eq/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925828
+ },
+ "http://181.224.255.210:8001/play/a0m5/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925829
+ },
+ "http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925830
+ },
+ "http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925830
+ },
+ "http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925830
+ },
+ "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925830
+ },
+ "http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925830
+ },
+ "http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925830
+ },
+ "http://212.5.144.156:8080/rt/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925831
+ },
+ "http://46.53.200.153:7777/play/Shanson_TV/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925831
+ },
+ "http://5.57.74.130:8000/play/a0dw/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925833
+ },
+ "http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925834
+ },
+ "https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925835
+ },
+ "https://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925835
+ },
+ "http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925835
+ },
+ "http://bde.online24.pm/play/1656/855C055F42798FB/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925835
+ },
+ "http://bde.online24.pm/play/263/855C055F42798FB/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925835
+ },
+ "http://5.188.221.43:8080/play/utv": {
+  "fails": 1,
+  "ts": 1793925835
+ },
+ "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=384881&extension=ts&play_token=vHjil2uwPc": {
+  "fails": 1,
+  "ts": 1793925836
+ },
+ "http://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925836
+ },
+ "http://5.188.221.43:8080/play/ren-tv": {
+  "fails": 1,
+  "ts": 1793925836
+ },
+ "http://bde.online24.pm/play/15085/855C055F42798FB/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925837
+ },
+ "http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925837
+ },
+ "https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925838
+ },
+ "http://bde.online24.pm/play/1657/855C055F42798FB/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925839
+ },
+ "http://bde.online24.pm/play/6235/855C055F42798FB/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925839
+ },
+ "http://bde.online24.pm/play/6220/855C055F42798FB/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925839
+ },
+ "https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925839
+ },
+ "http://5.188.221.43:8080/play/zvezda": {
+  "fails": 1,
+  "ts": 1793925839
+ },
+ "http://77.106.252.178:4022/udp/233.33.210.161:5050": {
+  "fails": 1,
+  "ts": 1793925839
+ },
+ "https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925842
+ },
+ "http://bde.online24.pm/play/84/855C055F42798FB/video.m3u8": {
+  "fails": 1,
+  "ts": 1793925842
+ },
+ "http://62.32.84.50:18000/play/a06b/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925842
+ },
+ "http://46.53.200.153:7777/play/a00u/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925843
+ },
+ "http://45.11.139.43:8555/fitnes/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925843
+ },
+ "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1793925844
+ },
+ "https://zabava-htlive.cdn.ngenix.net/hls/CH_STVHD/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925844
+ },
+ "http://62.32.84.50:18000/play/a0ky/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925844
+ },
+ "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1793925847
+ },
+ "http://62.32.84.50:18000/play/a0lb/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925847
+ },
+ "https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8": {
+  "fails": 1,
+  "ts": 1793925848
+ },
+ "https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925849
+ },
+ "http://62.32.84.50:18000/play/a0h4/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925850
+ },
+ "http://62.32.84.50:18000/play/a0h5/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925850
+ },
+ "http://45.11.139.43:8555/orujie/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925851
+ },
+ "http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97": {
+  "fails": 1,
+  "ts": 1793925852
+ },
+ "http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&amp;": {
+  "fails": 1,
+  "ts": 1793925852
+ },
+ "https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925854
+ },
+ "http://5.188.221.43:8080/play/Pyatnica": {
+  "fails": 1,
+  "ts": 1793925854
+ },
+ "https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1793925855
+ },
+ "https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1793925857
+ },
+ "http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1793925858
+ },
+ "http://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8": {
+  "fails": 1,
+  "ts": 1793925858
+ },
+ "https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925858
+ },
+ "http://www.omsk-kprf.ru/hls/stream.m3u8": {
+  "fails": 1,
+  "ts": 1793925858
+ },
+ "http://194.143.148.28:8080/MCM/tracks-v1a1/mono.m3u8": {
+  "fails": 1,
+  "ts": 1793925858
+ },
+ "http://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDI6NDk6MzYgUE0maGFzaF92YWx1ZT12Q1hScElvWmtORUJNNU91R1k1alNnPT0mdmFsaWRtaW51dGVzPTQ4MA==": {
+  "fails": 1,
+  "ts": 1793925858
+ },
+ "http://rr3.tvdosug.net/~2015fdb94a6edb0864057c77903f4d288da/33691/hlsx/pl.m3u8": {
+  "fails": 1,
+  "ts": 1793925858
+ },
+ "http://62.32.84.50:18000/play/a0l5/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925858
+ },
+ "http://rr3.tvdosug.net/~2015fdb94a6edb0864057c77903f4d288da/29539/hlsx/pl.m3u8": {
+  "fails": 1,
+  "ts": 1793925858
+ },
+ "http://190.61.90.17:40000/play/a0hk/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925858
+ },
+ "http://5.188.221.43:8080/play/tv-centr": {
+  "fails": 1,
+  "ts": 1793925858
+ },
+ "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1793925858
+ },
+ "https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925859
+ },
+ "http://62.32.84.50:18000/play/a02k/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925859
+ },
+ "http://rt-esp.rttv.com/live/rtesp/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDI1IDEyOjQ5OjM0IEFNJmhhc2hfdmFsdWU9SC9uVEJEcTFLeDhaRG83MFVwSVBDQT09JnZhbGlkbWludXRlcz00ODA=": {
+  "fails": 1,
+  "ts": 1793925859
+ },
+ "https://pb-rhq7yj8tne4rm.akamaized.net/Fireplace_4K_SONO20.m3u8": {
+  "fails": 1,
+  "ts": 1793925859
+ },
+ "http://62.32.84.50:18000/play/a02c/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925859
+ },
+ "http://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8": {
+  "fails": 1,
+  "ts": 1793925859
+ },
+ "http://rr3.tvdosug.net/~2015fdb94a6edb0864057c77903f4d288da/52961/hlsx/pl.m3u8": {
+  "fails": 1,
+  "ts": 1793925859
+ },
+ "https://live.topnews.co.th/hls/topnews_a_720.m3u8": {
+  "fails": 1,
+  "ts": 1793925859
+ },
+ "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1793925859
+ },
+ "http://62.32.84.50:18000/play/a06d/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925859
+ },
+ "https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925859
+ },
+ "http://s93498.cdn.ngenix.net/hls/CH_R01_TUVA24/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925859
+ },
+ "http://rr3.tvdosug.net/~2015fdb94a6edb0864057c77903f4d288da/47394/hlsx/pl.m3u8": {
+  "fails": 1,
+  "ts": 1793925859
+ },
+ "https://d25crexw293cfk.cloudfront.net/scheduler/scheduleMaster/479/variant/22100211.m3u8": {
+  "fails": 1,
+  "ts": 1793925860
+ },
+ "https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8": {
+  "fails": 1,
+  "ts": 1793925860
+ },
+ "https://air.tvk6.ru/tvk24/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1793925860
+ },
+ "http://62.32.84.50:18000/play/a02s/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925860
+ },
+ "http://201.186.41.99:8001/play/a08z/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925860
+ },
+ "https://uhd.bear-tv.net/000102_GoldenScreen/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925861
+ },
+ "http://201.186.41.99:8001/play/a02o/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925861
+ },
+ "https://uhd.bear-tv.net/000105_SerialWorld/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925861
+ },
+ "http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8": {
+  "fails": 1,
+  "ts": 1793925861
+ },
+ "http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/48389:HGTV Home and Garden HD": {
+  "fails": 1,
+  "ts": 1793925861
+ },
+ "https://uhd.bear-tv.net/000109_SerialHit/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925862
+ },
+ "https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8": {
+  "fails": 1,
+  "ts": 1793925862
+ },
+ "https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8": {
+  "fails": 1,
+  "ts": 1793925862
+ },
+ "https://rt-doc.rttv.com/live/rtdru/rtdru720.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDI1IDEyOjQ5OjM0IEFNJmhhc2hfdmFsdWU9SC9uVEJEcTFLeDhaRG83MFVwSVBDQT09JnZhbGlkbWludXRlcz00ODA=": {
+  "fails": 1,
+  "ts": 1793925862
+ },
+ "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=374269&extension=ts&play_token=9dwG2AN8N9": {
+  "fails": 1,
+  "ts": 1793925862
+ },
+ "https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6EWJb/rewind-3600.m3u8": {
+  "fails": 1,
+  "ts": 1793925862
+ },
+ "http://stream0.tv41.ru/live.m3u8": {
+  "fails": 1,
+  "ts": 1793925864
+ },
+ "https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8": {
+  "fails": 1,
+  "ts": 1793925864
+ },
+ "https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/euronews-it-avc1_3300000=19-mp4a_143200_ita=2.m3u8": {
+  "fails": 1,
+  "ts": 1793925865
+ },
+ "http://trk555.tv:8888/live": {
+  "fails": 1,
+  "ts": 1793925866
+ },
+ "http://185.184.233.178:5000/udp/225.1.2.68:1234": {
+  "fails": 1,
+  "ts": 1793925867
+ },
+ "http://185.184.233.178:5000/udp/225.1.2.171:1234": {
+  "fails": 1,
+  "ts": 1793925867
+ },
+ "http://77.235.31.197:8080/0.m3u8": {
+  "fails": 1,
+  "ts": 1793925867
+ },
+ "http://euvia.cdn.ses-ps.com/HLS-Live/stream1/streamPlaylist.m3u8": {
+  "fails": 1,
+  "ts": 1793925868
+ },
+ "https://d1vwakhda3vp6p.cloudfront.net/scheduler/scheduleMaster/236.m3u8": {
+  "fails": 1,
+  "ts": 1793925869
+ },
+ "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1793925869
+ },
+ "http://flus1.stream4k.biz:2095/comedy_ssr_2_4k/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925869
+ },
+ "http://rr3.tvdosug.net/~2013739f06d98dc215e36e30d378cb01e75/19550/hls/pl.m3u8": {
+  "fails": 1,
+  "ts": 1793925870
+ },
+ "http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1793925870
+ },
+ "https://s05.watcher.uz/64/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8": {
+  "fails": 1,
+  "ts": 1793925870
+ },
+ "http://flus1.stream4k.biz:2095/skazki_sssr_1/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925870
+ },
+ "http://flus1.stream4k.biz:2095/orel_i_reshka_UHD/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925870
+ },
+ "http://62.32.84.50:18000/play/a0lx/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925871
+ },
+ "http://62.32.84.50:18000/play/a0m8/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925871
+ },
+ "http://flus1.stream4k.biz:2095/000017/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1793925871
+ },
+ "http://62.32.84.50:18000/play/a0a9/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925871
+ },
+ "http://62.32.84.50:18000/play/a02o/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925871
+ },
+ "http://62.32.84.50:18000/play/a0mt/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925871
+ },
+ "http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=385998&extension=ts&play_token=CWJwXKU6Sv": {
+  "fails": 1,
+  "ts": 1793925872
+ },
+ "https://s05.watcher.uz/191/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15": {
+  "fails": 1,
+  "ts": 1793925873
+ },
+ "https://s05.watcher.uz/41/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15": {
+  "fails": 1,
+  "ts": 1793925876
+ },
+ "http://62.32.84.50:18000/play/a0kh/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925876
+ },
+ "http://62.32.84.50:18000/play/a0m0/index.m3u8": {
+  "fails": 1,
+  "ts": 1793925879
  }
 }
