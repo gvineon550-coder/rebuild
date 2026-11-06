@@ -2,6 +2,7 @@ import json, time
 from datetime import datetime, timezone, timedelta
 from collections import Counter
 from . import config
+
 def write_playlist(channels, epg_url):
     lines = [f'#EXTM3U url-tvg="{epg_url}" tvg-shift="0"']
     for c in channels:
@@ -17,14 +18,25 @@ def write_playlist(channels, epg_url):
                 if v: attrs.append(f'{key}="{v}"')
             name = c["name"] + (f" [Зеркало {i+1}]" if i > 0 else "")
             lines.append(f'#EXTINF:-1 {" ".join(attrs)},{name}')
-            if c.get("extvlc", {}).get("http-user-agent"): lines.append(f'#EXTVLCOPT:http-user-agent={c["extvlc"]["http-user-agent"]}')
-            if c.get("extvlc", {}).get("http-referrer"): lines.append(f'#EXTVLCOPT:http-referrer={c["extvlc"]["http-referrer"]}')
+            
+            # Выводим все заголовки
+            ev = c.get("extvlc", {})
+            if ev.get("http-user-agent"): lines.append(f'#EXTVLCOPT:http-user-agent={ev["http-user-agent"]}')
+            if ev.get("http-referrer"): lines.append(f'#EXTVLCOPT:http-referrer={ev["http-referrer"]}')
+            if ev.get("http-cookie"): lines.append(f'#EXTVLCOPT:http-cookie={ev["http-cookie"]}')
+            for k, v in c.get("kodiprop", {}).items():
+                lines.append(f'#KODIPROP:{k}={v}')
+            if c.get("exthttp"):
+                lines.append(f'#EXTHTTP:{json.dumps(c["exthttp"])}')
+                
             lines.append(u)
     config.atomic_write(config.PLAYLIST_PATH, "\n".join(lines) + "\n")
+
 def write_report(channels, total, elapsed, filtered):
     grp = Counter(c.get("category","📦 Разное") for c in channels)
     rep = {"total": total, "alive": len(channels), "dead": total - len(channels), "with_epg": sum(1 for c in channels if c.get("has_epg")), "with_logo": sum(1 for c in channels if c.get("logo")), "with_archive": sum(1 for c in channels if c.get("attrs", {}).get("catchup")), "elapsed": round(elapsed, 1), "categories": dict(grp), "mode": "DEEP" if config.DEEP_CHECK else "normal", "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "channels": [{"name": c["name"], "url": c["url"], "urls": c.get("urls", []), "ua": c.get("profile",""), "group": c.get("category",""), "tvg_id": c.get("tvg_id",""), "logo": c.get("logo","")} for c in channels]}
     config.atomic_write(config.REPORT_PATH, json.dumps(rep, ensure_ascii=False, indent=2)); return rep
+
 def update_readme(rep):
     if not config.README_PATH.exists(): return
     text = config.README_PATH.read_text("utf-8"); s, e = "<!-- STATS:START -->", "<!-- STATS:END -->"
