@@ -6670,5 +6670,593 @@
  "http://flus1.stream4k.biz:2095/000013/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
   "fails": 1,
   "ts": 1793960691
+ },
+ "http://3.hls.gd/ch785/mono.m3u8?token=rl_bbeckffat.v2_z-TpC_8jQYMWJXW2WRgRe-i1PWIysNYKe3nT7I6QZRF1cPaY5eaTEJm8AukjnFq_mwu5Oljd1PupdBFS5w": {
+  "fails": 1,
+  "ts": 1794044207
+ },
+ "http://3.hls.gd/ch3312/mono.m3u8?token=rl_bbeckffat.v2_IV6e8jnKYXJqTczPN7L5vFO9NfZcO_BgAtaLeXLw0KiJ6jR97FDGUecq4CEGDTlyOGq_F8ASSDTpDfayTS0": {
+  "fails": 1,
+  "ts": 1794044207
+ },
+ "http://3.hls.gd/ch4085/mono.m3u8?token=rl_bbeckffat.v2_JUKUHLEaZLN2KTEBwQJXNT3jiXDpa8AyA1pCLTljs8LHEiQK3B_PZY0GtZ31c-TCIGU6WXlclHtHVP1jca0": {
+  "fails": 1,
+  "ts": 1794044207
+ },
+ "http://3.hls.gd/ch105/mono.m3u8?token=rl_bbeckffat.v2_nQZKU6nGUiq_CSNI0p69XYY4auH5XNcTpNvxE8CvZHWopQoXkxyCEg0mXUjmEpZf6ekX9NVQon0fYuQHHQ": {
+  "fails": 1,
+  "ts": 1794044207
+ },
+ "http://3.hls.gd/ch784/mono.m3u8?token=rl_bbeckffat.v2_gS372-N2w31nGU406NTYe6OagL8bOlir1wJM51bOczP3GK_Jgrq8Qo9bV3F1h8GU1E4dIodgUBP1MCg0iw": {
+  "fails": 1,
+  "ts": 1794044207
+ },
+ "http://3.hls.gd/ch117/mono.m3u8?token=rl_bbeckffat.v2_SaFlYHV7YIR519aqarUcWWEE3Nh1WmPFPCYXVZMyobHJnNV5-8FmCauZF1nnXoBgoCa28KqLCJGWFI5Wnw": {
+  "fails": 1,
+  "ts": 1794044209
+ },
+ "https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/.m3u8": {
+  "fails": 1,
+  "ts": 1794044209
+ },
+ "http://3.hls.gd/ch3150/mono.m3u8?token=rl_bbeckffat.v2_GMguigmiiRQn536FfroLI-vNbiXca2D7mQ8HeP1kKiqyrbwd8UuQc-Ecfh1M3pspdpc-6zyNtJUO3_zInvc": {
+  "fails": 1,
+  "ts": 1794044209
+ },
+ "http://3.hls.gd/ch070/mono.m3u8?token=rl_bbeckffat.v2_Y573Ft238W5c0BlNJ0Yxzf4voknHHmPq8crfsdStGDgjdePcmHIN-c9XZGKnQ6WaYx8NEybxflux6K40": {
+  "fails": 1,
+  "ts": 1794044209
+ },
+ "http://3.hls.gd/ch3148/mono.m3u8?token=rl_bbeckffat.v2_ZIatrDDLNueRfVL2N-g0wkBrdBD-o8eCz66oopURnZyrWRyjnT3EY4oulSXxAaJt17X9njRMg5FpmAXRb_M": {
+  "fails": 1,
+  "ts": 1794044209
+ },
+ "http://3.hls.gd/ch3433/mono.m3u8?token=rl_bbeckffat.v2_cMeSluVS9rjjK7R4-4LQVHncQOf3h8nSQgJHYRz21RJAZ1f_Q-hMl-i_i6Xxpg1gP5Rv9IsLBNYvlLGB28s": {
+  "fails": 1,
+  "ts": 1794044209
+ },
+ "https://rst2.saiuzwebnetwork.it:8081/saiuz-2/tracks-v1a1/mono.ts.m3u8": {
+  "fails": 1,
+  "ts": 1794044210
+ },
+ "http://3.hls.gd/ch3446/mono.m3u8?token=rl_bbeckffat.v2_6rAsCEDmL0NLnj2pAE1ryZTDCZNcvP26M8s0T47A8TmGrxsMfgXoSYxkEap0NrQgIT5lYsGsUp62GemWr5E": {
+  "fails": 1,
+  "ts": 1794044210
+ },
+ "http://3.hls.gd/ch021/mono.m3u8?token=rl_bbeckffat.v2_bNwe6D-eC-dOt0iE8Zub1EH13aF6pDelyeA3F_MUbNxLJRJwrtoO2H1FV0k7Q3nfk6FE_2lPK_MJrDNB": {
+  "fails": 1,
+  "ts": 1794044210
+ },
+ "http://3.hls.gd/ch032/mono.m3u8?token=rl_bbeckffat.v2_OgzmEnNKR0n4bRn6oIa4YCwoaz0Ui92v7D1g-Dp4oKKWCdev-03iVsQk-7pLSiblmpUQVnaRjZJ2T0iX": {
+  "fails": 1,
+  "ts": 1794044210
+ },
+ "http://3.hls.gd/ch3282/mono.m3u8?token=rl_bbeckffat.v2_ukQqow8_7n2GzaTdPF9GCMipSMJYYMwkWuJxMe0XSY380CVgD8-VUtBboEkvcV73yq_n_9hQPDbVQw7_XGE": {
+  "fails": 1,
+  "ts": 1794044210
+ },
+ "http://3.hls.gd/ch3283/mono.m3u8?token=rl_bbeckffat.v2_Nz8XeCeDQJRudMyMLyAN-ZgizCR1FyHUdqKU9WVCGCyVMKr1AYTEojIYXi1gqvRu6gECp2fq2CDT1PYp7Dk": {
+  "fails": 1,
+  "ts": 1794044210
+ },
+ "http://3.hls.gd/ch1270/mono.m3u8?token=rl_bbeckffat.v2_29ng12abBOA4xU6Gih0OMCbp3qgIfaCKSV8YA-Ruo1eFTLPnkWUIzC5nGAtAr7hmisaHziPwrSlTLZI6_wI": {
+  "fails": 1,
+  "ts": 1794044210
+ },
+ "http://3.hls.gd/ch326/mono.m3u8?token=rl_bbeckffat.v2_-06yFpyCOrrOgWSy24D_jINdR0XlWth929RF7woUrlyLJ21Uq_3bzHJs9d1eshKrHP5IoXo3l3jBdaNR5Q": {
+  "fails": 1,
+  "ts": 1794044210
+ },
+ "http://3.hls.gd/ch3280/mono.m3u8?token=rl_bbeckffat.v2_pdjcSDwaeNvbP7RWkLHWYJsJAw-mdJfRRrY-UnirZJDCIViOSKtZmJ_68db6Xt3EQowBP0eNy1eYe4xoRTM": {
+  "fails": 1,
+  "ts": 1794044210
+ },
+ "http://dfm.hostingradio.ru/dfm128.mp3": {
+  "fails": 1,
+  "ts": 1794044210
+ },
+ "http://dfm.hostingradio.ru/afrovibes96.aacp": {
+  "fails": 1,
+  "ts": 1794044210
+ },
+ "http://playxapp.play-x.app:2095/00107/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044211
+ },
+ "http://playxapp.play-x.app:2095/0011/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044211
+ },
+ "http://playxapp.play-x.app:2095/0020/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044211
+ },
+ "http://playxapp.play-x.app:2095/0314/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044211
+ },
+ "http://dfm.hostingradio.ru/avburren96.aacp": {
+  "fails": 1,
+  "ts": 1794044211
+ },
+ "http://dfm.hostingradio.ru/avicii96.aacp": {
+  "fails": 1,
+  "ts": 1794044211
+ },
+ "http://dfm.hostingradio.ru/basshouse96.aacp": {
+  "fails": 1,
+  "ts": 1794044211
+ },
+ "http://dfm.hostingradio.ru/breakbeat96.aacp": {
+  "fails": 1,
+  "ts": 1794044211
+ },
+ "http://dfm.hostingradio.ru/harris96.aacp": {
+  "fails": 1,
+  "ts": 1794044211
+ },
+ "http://dfm.hostingradio.ru/dfmchill96.aacp": {
+  "fails": 1,
+  "ts": 1794044211
+ },
+ "http://3.hls.gd/ch1242/mono.m3u8?token=rl_bbeckffat.v2_M1K22vGDnZgpY6HugPBCykWc1I-jJKGqaCvJNnB3BOyvYeERIT7NYjzAVZDlpRkuSZO-xb8hL7a5EE8HbQc": {
+  "fails": 1,
+  "ts": 1794044211
+ },
+ "https://cityeden.catcast.tv/content/38354/index.m3u8?password=loganet": {
+  "fails": 1,
+  "ts": 1794044212
+ },
+ "http://31.148.5.241/kanal_4/index.m3u8": {
+  "fails": 1,
+  "ts": 1794044212
+ },
+ "https://cityeden.catcast.tv/content/45268/index.m3u8?password=loganet": {
+  "fails": 1,
+  "ts": 1794044212
+ },
+ "http://31.148.5.241/kanal_12/index.m3u8": {
+  "fails": 1,
+  "ts": 1794044212
+ },
+ "http://31.148.5.241/kanal_8/index.m3u8": {
+  "fails": 1,
+  "ts": 1794044212
+ },
+ "https://cityeden.catcast.tv/content/45268/index.m3u8": {
+  "fails": 1,
+  "ts": 1794044212
+ },
+ "http://dfm.hostingradio.ru/dfmclub96.aacp": {
+  "fails": 1,
+  "ts": 1794044212
+ },
+ "http://3.hls.gd/ch3284/mono.m3u8?token=rl_bbeckffat.v2_MjILLdjkhyzzSIHhiZlyb4lb1wcEWdgj-q5C_lxCraj-FvZYbsyeRAFbch4bmjkdTXrGxt7ieOuFs_VJPQ4": {
+  "fails": 1,
+  "ts": 1794044212
+ },
+ "http://3.hls.gd/ch3702/mono.m3u8?token=rl_bbeckffat.v2_CISe_zbbStZToCJq19t8V7imrAbtcL19TVaBR49x-52XH1TZVo05-Q0BhsRMejVXmHp0VTsyHGP8ar2dh2A": {
+  "fails": 1,
+  "ts": 1794044212
+ },
+ "http://3.hls.gd/ch1254/mono.m3u8?token=rl_bbeckffat.v2_OzOwm8deDu2Xt-6sAuQp-pLSw6jsSr1zpRIdZDlZY1_Tg0E9uEUA_gSy0s5HN26UizblTUfOEweJXeuBUBY": {
+  "fails": 1,
+  "ts": 1794044212
+ },
+ "http://3.hls.gd/ch1267/mono.m3u8?token=rl_bbeckffat.v2_WJKlwWKP_PmurpjNYocvd_DNZATVjYJu76JM0bXPQJs7uQkYwhh7Xd1PkKrWjMXComWw0evWaW9DXDEGTDU": {
+  "fails": 1,
+  "ts": 1794044212
+ },
+ "http://3.hls.gd/ch3703/mono.m3u8?token=rl_bbeckffat.v2_WKiOdZ9SHGlhj4ASI5ensFzfLKJklrjg6rgB-3Fan2XYklcUVhiwDU2fWofURHx1ZU2Us0kC5KIZ9cmGBSk": {
+  "fails": 1,
+  "ts": 1794044212
+ },
+ "http://31.148.5.241/kanal_13/index.m3u8": {
+  "fails": 1,
+  "ts": 1794044213
+ },
+ "http://plbl.m9.lfstrm.tv/detskij_mir/normal/1/index.m3u8": {
+  "fails": 1,
+  "ts": 1794044213
+ },
+ "http://3.hls.gd/ch3286/mono.m3u8?token=rl_bbeckffat.v2_x9gnuYdpC5FQefSdzRUE3lDFwXdckZscIsjcABgBNfOId-fTwg4SZ5ma21RKE-o7fuISZeuH874KA6SFXC4": {
+  "fails": 1,
+  "ts": 1794044213
+ },
+ "http://3.hls.gd/ch3704/mono.m3u8?token=rl_bbeckffat.v2_To3UR4Dem9zlBePgw3eH9oTRrYL5sOAoKvPfen1waSXG-speFmtV_h8uun-Xo3tQ9BlI5R7h9JLV67Be3Gc": {
+  "fails": 1,
+  "ts": 1794044213
+ },
+ "http://3.hls.gd/ch2154/mono.m3u8?token=rl_bbeckffat.v2_U96GYuo5Nup4xcqzBfwZGODp3ZzEMIDFJVmEFrsJ9VqCTFDT8TT7gcxGRW1u4bYgknFY4RSl923wRPfr4Mc": {
+  "fails": 1,
+  "ts": 1794044213
+ },
+ "http://31.148.5.241/kanal_19/index.m3u8": {
+  "fails": 1,
+  "ts": 1794044214
+ },
+ "http://3.hls.gd/ch131/mono.m3u8?token=rl_bbeckffat.v2_HAGzliROk9jTQBICN4B_gXHLzSSs22UNuDtYUIQBP27kRsRsEpk511gpsslUvqNJJTYlr9V8r4sFKXccLw": {
+  "fails": 1,
+  "ts": 1794044214
+ },
+ "http://3.hls.gd/ch3835/mono.m3u8?token=rl_bbeckffat.v2_tSIE65bxMdfhk6-V9nq8uvc1p2TzvPGjz2UsQ9IOii1GVVlhaxNpH7VyvC5MNZqtzpbmKmV17Kk1RJHPdsQ": {
+  "fails": 1,
+  "ts": 1794044214
+ },
+ "http://3.hls.gd/ch3742/mono.m3u8?token=rl_bbeckffat.v2_KvzuDeSRzZcrDEiTnC72LaTbh7f3fHDoTYZtZwl0wM3FysCvJ9doAxLaYFksPMPxp9XTgLk-UL3n2sB1fyU": {
+  "fails": 1,
+  "ts": 1794044214
+ },
+ "http://3.hls.gd/ch004/mono.m3u8?token=rl_bbeckffat.v2_1f4bPfoCmPpdsk0xdX2fBIcs1M84e1NVcYf0drMAH9ZUqW9k-rukknoaqrpB2n4aHtzi75nzgq3KJh8": {
+  "fails": 1,
+  "ts": 1794044214
+ },
+ "http://3.hls.gd/ch3853/mono.m3u8?token=rl_bbeckffat.v2_mJ2Zi0n0vP7PE_OyXi7nEoEwTNAxKrPEgYwT8PjfFn6pwaY4-6UnCqWPD-b8hd8oAtDIRU91rf_dyQmdSSo": {
+  "fails": 1,
+  "ts": 1794044214
+ },
+ "http://3.hls.gd/ch1324/mono.m3u8?token=rl_bbeckffat.v2_9URzIDBUczDP0NT8_dUtIdbV38hzd2hvfzTo8y7wMFwin4DNkuIHWXZr5B9n5Acv5ZTZ3fdYJVQrL6fmzsI": {
+  "fails": 1,
+  "ts": 1794044214
+ },
+ "http://3.hls.gd/ch127/mono.m3u8?token=rl_bbeckffat.v2_AnhWSOs50CkQtXBxDHF86DP6ZhehinxyUkV28Dx5K1UXQ0COfmm-L5oQe0-Zed5Ks8qUAKHNYEOHKBJ29A": {
+  "fails": 1,
+  "ts": 1794044214
+ },
+ "http://3.hls.gd/ch703/mono.m3u8?token=rl_bbeckffat.v2_mTfxq3uzzptUWNIdVuZGpFCrSyBgVYSB2kgp2o8IfBRu3j-6SLvzoeTEt_O9tPhJVIwKKaJUAIEerDL9yw": {
+  "fails": 1,
+  "ts": 1794044214
+ },
+ "http://playxapp.play-x.app:2095/10004/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044215
+ },
+ "http://31.148.5.241/kanal_9/index.m3u8": {
+  "fails": 1,
+  "ts": 1794044215
+ },
+ "http://3.hls.gd/ch1238/mono.m3u8?token=rl_bbeckffat.v2_5KXDocDZnj9FRiB1lrfgnDDmwIObABjvUXCRFzTqDtvDWqOcIMNfR0KHg1izpb_aS2bz-T7AsYMU97l1qs8": {
+  "fails": 1,
+  "ts": 1794044215
+ },
+ "http://3.hls.gd/ch3744/mono.m3u8?token=rl_bbeckffat.v2_1PSsvNSGBLx8Nnsc5Vuy9XLKeSa9n2yb_FUJjkNd8aCjpPuaVmZ5J2nMwOIa-Bq3lih01YOTRvfCpRvVcmo": {
+  "fails": 1,
+  "ts": 1794044215
+ },
+ "http://3.hls.gd/ch1258/mono.m3u8?token=rl_bbeckffat.v2_SjC8p7PEMZSlsRO_M3wZhjHtbcEfyuib18gDL6IpcEFCT8KFLSRXFfynyc7VZMUMeNccLjghX2fsa_5jOcw": {
+  "fails": 1,
+  "ts": 1794044215
+ },
+ "http://31.148.5.241/kanal_10/index.m3u8": {
+  "fails": 1,
+  "ts": 1794044216
+ },
+ "http://3.hls.gd/ch1259/mono.m3u8?token=rl_bbeckffat.v2_-ZOrxhhndr-ga2e2yZkhRk2bARua_buF6RYJdkr19HksvbHfF90wa24IerXlLqBNGhe8LK47bxEHaiB0MdI": {
+  "fails": 1,
+  "ts": 1794044216
+ },
+ "http://3.hls.gd/ch1249/mono.m3u8?token=rl_bbeckffat.v2_Pv018Pp6oLEMqUXqOp1Z9Y1sBLc-zng7l7rGOJJ3uRtvkwGdP_X0snbJ_vqpC3GLHhM4Egwl9_7eiXpqD20": {
+  "fails": 1,
+  "ts": 1794044216
+ },
+ "http://3.hls.gd/ch3827/mono.m3u8?token=rl_bbeckffat.v2_-wJ4S6Vs162ug2oE7PnNyWcg3hgPWwuUgY4xmMz_hyCcchkGPQFQDPm-II1AsXUqhO-RfOe-6cX7rPtNuSg": {
+  "fails": 1,
+  "ts": 1794044216
+ },
+ "http://3.hls.gd/ch3852/mono.m3u8?token=rl_bbeckffat.v2_vxZi4Ohys6O-k8d3SyYqOJ-pgO8DzikLEw4fWk0DbL-XQStCIU1B6Q5j7Y4l0x59Y-zn7xtnQjjySvNTlRc": {
+  "fails": 1,
+  "ts": 1794044216
+ },
+ "http://3.hls.gd/ch3745/mono.m3u8?token=rl_bbeckffat.v2_nrSmM5N_dFxDvWgdALQ0XeBxEktQ1-pkBmKdPMNn-mLN9tbozDAR9dSKiS1625PDd8-LoyepsWtca5VxF34": {
+  "fails": 1,
+  "ts": 1794044216
+ },
+ "http://3.hls.gd/ch477/mono.m3u8?token=rl_bbeckffat.v2_6kd1g2-w6ZGrv3PYXEkNKMgwV3nAuXax7s8yHuOr0hD7hB8jQ7Mv251QdXoHPqJNKWUqJG0LT7oU02rq8A": {
+  "fails": 1,
+  "ts": 1794044216
+ },
+ "https://video01.logicahost.com.br/redeblitz/redeblitz/chunklist_w484849390.m3u8": {
+  "fails": 1,
+  "ts": 1794044216
+ },
+ "http://31.148.5.241/kanal_11/index.m3u8": {
+  "fails": 1,
+  "ts": 1794044216
+ },
+ "http://31.148.5.241/kanal_1/index.m3u8": {
+  "fails": 1,
+  "ts": 1794044216
+ },
+ "http://playxapp.play-x.app:2095/10006/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044216
+ },
+ "http://3.hls.gd/ch390/mono.m3u8?token=rl_bbeckffat.v2_M6QBX1xOqf6bqlxa9SNo6McIOr7OT-MX3OUxbm9ZgcAQpSrm9F9b7V38oqr-RRHeyFiM920keqYY5z_Iag": {
+  "fails": 1,
+  "ts": 1794044217
+ },
+ "https://s04.watcher.uz/11/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8": {
+  "fails": 1,
+  "ts": 1794044217
+ },
+ "https://s05.watcher.uz/92/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20": {
+  "fails": 1,
+  "ts": 1794044217
+ },
+ "http://3.hls.gd/ch059/mono.m3u8?token=rl_bbeckffat.v2__LZe41EzjYQvvf9gv-A5fgLOy8weLjYlgTVoWCkvHjAs508jwrDDZuUKqFXWigKSccKdV7nwk7v7hxSG": {
+  "fails": 1,
+  "ts": 1794044217
+ },
+ "http://3.hls.gd/ch3758/mono.m3u8?token=rl_bbeckffat.v2__x2kl5-1rDHswfv0xs9IOjj77EPe0l9ZW7On4QwtIkjwqzLg0nNabohqT3G7fHQdYxO3amc7VHRS8xKjuiw": {
+  "fails": 1,
+  "ts": 1794044217
+ },
+ "http://stream.radio1.ru:8080/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8": {
+  "fails": 1,
+  "ts": 1794044217
+ },
+ "http://3.hls.gd/ch1268/mono.m3u8?token=rl_bbeckffat.v2_u80JhUbv-8-tQIo3Mto_IQbQ9mZvssHLn22zxxCnaLC9vQK6pgPN_7OdQkfwf-4wJKu2I29mcNYXACtKpto": {
+  "fails": 1,
+  "ts": 1794044217
+ },
+ "http://3.hls.gd/ch3764/mono.m3u8?token=rl_bbeckffat.v2_lgCfcCIuvU57H8r-v2JIIKJz5cAEE3Hj9FbYygAvtem4X0jSZaGxQnqrda2pNGoNblDH3dTmnMGtoKVe7-o": {
+  "fails": 1,
+  "ts": 1794044217
+ },
+ "http://playxapp.play-x.app:2095/10008/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044218
+ },
+ "http://playxapp.play-x.app:2095/10007/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044218
+ },
+ "http://3.hls.gd/ch3874/mono.m3u8?token=rl_bbeckffat.v2_WFeq0TRBK85vAAX7NCqpFpNNJFWol8YBp_-fPs5Nny7Nz6AKnDFlUzqnvh0KMmrU7bDw8Bac7SCL42hCnCA": {
+  "fails": 1,
+  "ts": 1794044218
+ },
+ "http://3.hls.gd/ch3752/mono.m3u8?token=rl_bbeckffat.v2_qwuNwmKlxki6MrIZORqAz_BpA6GWDM12wFg-yaIiGJe14lCMrs945w7it0PueEROKzFXTTMwOf8po99O8Z8": {
+  "fails": 1,
+  "ts": 1794044218
+ },
+ "http://3.hls.gd/ch1275/mono.m3u8?token=rl_bbeckffat.v2_iTY5OvJ4ryB7NqxuDG_x273jp759BdkNc1yAk93IsVM0KfB6Nw80kpihJG9dZwzomSuQgKpPMBoEdy8pBxQ": {
+  "fails": 1,
+  "ts": 1794044218
+ },
+ "http://3.hls.gd/ch3763/mono.m3u8?token=rl_bbeckffat.v2_e7X3fXu0xf69jXQbKS6lKRR_BMnLplRST749mCktDC9C-lV2ZOS-ZK7uSM6BeyrV-F8NZ2pH1cffDMB5Yaw": {
+  "fails": 1,
+  "ts": 1794044218
+ },
+ "http://31.148.5.241/kanal_14/index.m3u8": {
+  "fails": 1,
+  "ts": 1794044218
+ },
+ "http://3.hls.gd/ch3766/mono.m3u8?token=rl_bbeckffat.v2_CPtZIAqwWO8BmVWhMGYBuDw7XENLyggAxMbXHH5lNbLbNHJC17Yo0438od8wuvdXd23jCTnYDk-5BDxujvU": {
+  "fails": 1,
+  "ts": 1794044219
+ },
+ "http://3.hls.gd/ch1255/mono.m3u8?token=rl_bbeckffat.v2_DiwYLh5oTHCN-Mmo6-d2zQyHVeulFxlAr6PPu9Y4m_y-7J4CM_TxMcShEFPktN-djGJWif65gkFgrNw-jGs": {
+  "fails": 1,
+  "ts": 1794044219
+ },
+ "http://3.hls.gd/ch1257/mono.m3u8?token=rl_bbeckffat.v2_mpz9P6U_gwpksIRBt4sTijaJQ8BNbBzg9LNJ7X3nRiSPNjQo356odAJeywXg4qxiX305a9YmPARS7Hb_7aw": {
+  "fails": 1,
+  "ts": 1794044219
+ },
+ "http://k4.usastreams.com/videotour/videotour/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1794044219
+ },
+ "https://video01.logicahost.com.br/tvafolha/tvafolha/chunklist_w1159628027.m3u8": {
+  "fails": 1,
+  "ts": 1794044220
+ },
+ "https://rst2.saiuzwebnetwork.it:8081/extratvlive/tracks-v1a1/mono.ts.m3u8": {
+  "fails": 1,
+  "ts": 1794044221
+ },
+ "http://playxapp.play-x.app:2095/0931/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044221
+ },
+ "http://31.148.5.241/Viasat_Sport/index.m3u8": {
+  "fails": 1,
+  "ts": 1794044221
+ },
+ "http://3.hls.gd/ch3907/mono.m3u8?token=rl_bbeckffat.v2_ywj0DcppNZYU19v0tnTHwPxadWaVuAMA_-sHlRAJp_a2LPl5eNgmjilamSjOzkb7ase6ct9wlaKA3OYWYaw": {
+  "fails": 1,
+  "ts": 1794044221
+ },
+ "http://3.hls.gd/ch3773/mono.m3u8?token=rl_bbeckffat.v2_lGFG_qxR2NBzeDBFsf2z0eV1uV0Xy7SS3xYExF5MFV391zMJ7spTY4f6oEYdIO5pQ7N87uJVe_pCcsE3ESM": {
+  "fails": 1,
+  "ts": 1794044222
+ },
+ "http://playxapp.play-x.app:2095/0615/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044225
+ },
+ "http://playxapp.play-x.app:2095/10019/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044226
+ },
+ "http://31.148.5.241/kanal_16/index.m3u8": {
+  "fails": 1,
+  "ts": 1794044226
+ },
+ "https://tmw.fluid.stream/RadioBianconeraTV/livestream/chunklist.m3u8?FLID=1": {
+  "fails": 1,
+  "ts": 1794044226
+ },
+ "http://playxapp.play-x.app:2095/0348/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044226
+ },
+ "http://playxapp.play-x.app:2095/43420/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044226
+ },
+ "http://playxapp.play-x.app:2095/0977/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044226
+ },
+ "http://31.148.5.241/kanal_15/index.m3u8": {
+  "fails": 1,
+  "ts": 1794044227
+ },
+ "http://playxapp.play-x.app:2095/66397/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044228
+ },
+ "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1794044228
+ },
+ "https://video01.logicahost.com.br/sergio/sergio/chunklist_w1145870213.m3u8": {
+  "fails": 1,
+  "ts": 1794044228
+ },
+ "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8": {
+  "fails": 1,
+  "ts": 1794044230
+ },
+ "http://31.148.5.241/kanal_18/index.m3u8": {
+  "fails": 1,
+  "ts": 1794044230
+ },
+ "http://playxapp.play-x.app:2095/0125_04/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044230
+ },
+ "http://31.148.5.241/kanal_3/index.m3u8": {
+  "fails": 1,
+  "ts": 1794044230
+ },
+ "http://playxapp.play-x.app:2095/0125_05/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044231
+ },
+ "https://istoki.tv/live/stream1/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1794044231
+ },
+ "http://playxapp.play-x.app:2095/0125_08/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044233
+ },
+ "http://playxapp.play-x.app:2095/0125_09/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044234
+ },
+ "http://playxapp.play-x.app:2095/0603/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044234
+ },
+ "http://playxapp.play-x.app:2095/0125_10/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044235
+ },
+ "http://playxapp.play-x.app:2095/3013/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044237
+ },
+ "http://playxapp.play-x.app:2095/3064/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044239
+ },
+ "https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8": {
+  "fails": 1,
+  "ts": 1794044239
+ },
+ "http://playxapp.play-x.app:2095/0463/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044240
+ },
+ "http://playxapp.play-x.app:2095/0024/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044242
+ },
+ "https://s06.watcher.uz/119/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15": {
+  "fails": 1,
+  "ts": 1794044242
+ },
+ "https://s06.watcher.uz/144/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15": {
+  "fails": 1,
+  "ts": 1794044243
+ },
+ "https://s06.watcher.uz/132/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15": {
+  "fails": 1,
+  "ts": 1794044245
+ },
+ "http://playxapp.play-x.app:2095/97481/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044246
+ },
+ "http://playxapp.play-x.app:2095/0125_06/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044248
+ },
+ "http://playxapp.play-x.app:2095/0331/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044250
+ },
+ "http://playxapp.play-x.app:2095/0325/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044257
+ },
+ "http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8": {
+  "fails": 1,
+  "ts": 1794044263
+ },
+ "http://31.148.5.241/kanal_17/index.m3u8": {
+  "fails": 1,
+  "ts": 1794044268
+ },
+ "http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8": {
+  "fails": 1,
+  "ts": 1794044269
+ },
+ "http://playxapp.play-x.app:2095/3036/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
+  "fails": 1,
+  "ts": 1794044269
+ },
+ "http://tvrlive.susu.ru/1800k/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1794044269
+ },
+ "http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8": {
+  "fails": 1,
+  "ts": 1794044269
+ },
+ "http://45.5.118.152:8000/play/a02m/index.m3u8": {
+  "fails": 1,
+  "ts": 1794044275
+ },
+ "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8": {
+  "fails": 1,
+  "ts": 1794044279
+ },
+ "https://sofast-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8": {
+  "fails": 1,
+  "ts": 1794044279
+ },
+ "https://fonbet.mediacdn.ru/live/muzhskoi/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1794044280
+ },
+ "https://fonbet.mediacdn.ru/live/nashatema/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1794044280
+ },
+ "https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1794044280
+ },
+ "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8": {
+  "fails": 1,
+  "ts": 1794044281
+ },
+ "http://stream.tveger.hu:8010/live.m3u8": {
+  "fails": 1,
+  "ts": 1794044288
  }
 }
