@@ -7962,5 +7962,41 @@
  "https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8": {
   "fails": 1,
   "ts": 1794131564
+ },
+ "http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8": {
+  "fails": 1,
+  "ts": 1794175642
+ },
+ "http://5.188.159.128:8070/RED/index.m3u8": {
+  "fails": 1,
+  "ts": 1794175642
+ },
+ "http://5.188.159.128:8070/udar/index.m3u8": {
+  "fails": 1,
+  "ts": 1794175642
+ },
+ "http://5.188.159.128:8070/KINOPREMIERA/index.m3u8": {
+  "fails": 1,
+  "ts": 1794175642
+ },
+ "http://5.188.159.128:8070/mir_24/index.m3u8": {
+  "fails": 1,
+  "ts": 1794175642
+ },
+ "http://5.188.159.128:8070/ntvmir_TV/index.m3u8": {
+  "fails": 1,
+  "ts": 1794175643
+ },
+ "https://live-3.otcnet.ru/sportivny/index.m3u8": {
+  "fails": 1,
+  "ts": 1794175647
+ },
+ "https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1794175651
+ },
+ "https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1794175651
  }
 }
