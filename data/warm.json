@@ -18,7 +18,7 @@
   "bandwidth": 990000
  },
  "http://88.212.15.50/live/test_bober/playlist.m3u8": {
-  "ts": 1794175641,
+  "ts": 1794175911,
   "ua_key": "TiviMate",
   "height": 0,
   "bandwidth": 0
@@ -144,10 +144,10 @@
   "bandwidth": 0
  },
  "http://185.23.80.23:8080/ART/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "MXPlayer",
+  "ts": 1794175906,
+  "ua_key": "Chrome_Win",
   "height": 576,
-  "bandwidth": 1830000
+  "bandwidth": 2090000
  },
  "http://3.hls.gd/ch4085/mono.m3u8?token=rl_bbeckffat.v2_JUKUHLEaZLN2KTEBwQJXNT3jiXDpa8AyA1pCLTljs8LHEiQK3B_PZY0GtZ31c-TCIGU6WXlclHtHVP1jca0": {
   "ts": 1793960682,
@@ -168,10 +168,10 @@
   "bandwidth": 0
  },
  "http://89.104.114.24:8080/art/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Lavf",
+  "ts": 1794175906,
+  "ua_key": "okhttp",
   "height": 576,
-  "bandwidth": 2080000
+  "bandwidth": 1880000
  },
  "http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8": {
   "ts": 1794131504,
@@ -234,8 +234,8 @@
   "bandwidth": 6460000
  },
  "http://185.23.80.23:8080/2x2/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "MXPlayer",
+  "ts": 1794175906,
+  "ua_key": "okhttp",
   "height": 1080,
   "bandwidth": 3150000
  },
@@ -282,10 +282,10 @@
   "bandwidth": 0
  },
  "http://178.134.1.158:8081/BRIDGE/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "AndroidTV",
+  "ts": 1794175906,
+  "ua_key": "Kodi",
   "height": 576,
-  "bandwidth": 2180000
+  "bandwidth": 2010000
  },
  "https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8": {
   "ts": 1794131512,
@@ -300,10 +300,10 @@
   "bandwidth": 2115766
  },
  "http://178.217.49.7/1/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "SmartTV",
+  "ts": 1794175906,
+  "ua_key": "Wink",
   "height": 576,
-  "bandwidth": 2890000
+  "bandwidth": 2900000
  },
  "http://178.124.153.123:44400/peretz": {
   "ts": 1794131505,
@@ -348,13 +348,13 @@
   "bandwidth": 0
  },
  "http://194.143.148.28:8080/RT_DOC/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "HlsWinkPlayer",
+  "ts": 1794175906,
+  "ua_key": "ExoPlayer",
   "height": 576,
   "bandwidth": 1700000
  },
  "http://194.143.148.28:8080/Aist/index.m3u8": {
-  "ts": 1794175642,
+  "ts": 1794175906,
   "ua_key": "HlsWinkPlayer",
   "height": 1080,
   "bandwidth": 6510000
@@ -378,8 +378,8 @@
   "bandwidth": 11770000
  },
  "http://88.212.15.50/live/test_karusel/playlist.m3u8": {
-  "ts": 1794175641,
-  "ua_key": "TiviMate",
+  "ts": 1794175905,
+  "ua_key": "okhttp",
   "height": 0,
   "bandwidth": 0
  },
@@ -390,10 +390,10 @@
   "bandwidth": 11770000
  },
  "http://31.148.5.241/kanal_1/index.m3u8": {
-  "ts": 1793960645,
-  "ua_key": "TiviMate",
+  "ts": 1794175906,
+  "ua_key": "OTT",
   "height": 576,
-  "bandwidth": 3060000
+  "bandwidth": 2830000
  },
  "http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8": {
   "ts": 1794131485,
@@ -408,10 +408,10 @@
   "bandwidth": 3510816
  },
  "http://176.118.197.101/Bollywood_HD/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "OTT",
+  "ts": 1794175906,
+  "ua_key": "Safari_Mac",
   "height": 1080,
-  "bandwidth": 10180000
+  "bandwidth": 5800000
  },
  "http://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8": {
   "ts": 1794131525,
@@ -420,10 +420,10 @@
   "bandwidth": 2375730
  },
  "http://31.148.5.241/kanal_5/index.m3u8": {
-  "ts": 1794175642,
+  "ts": 1794175906,
   "ua_key": "TiviMate",
   "height": 576,
-  "bandwidth": 3100000
+  "bandwidth": 3060000
  },
  "http://stream.eleden.com:1935/livelax/livelax/playlist.m3u8": {
   "ts": 1794131524,
@@ -432,10 +432,10 @@
   "bandwidth": 1402179
  },
  "http://176.118.197.101/2x2/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "OTT",
+  "ts": 1794175906,
+  "ua_key": "AndroidTV",
   "height": 576,
-  "bandwidth": 4100000
+  "bandwidth": 4190000
  },
  "http://185.46.16.239:8000/Russkiy_roman": {
   "ts": 1794131503,
@@ -456,10 +456,10 @@
   "bandwidth": 2792000
  },
  "http://45.11.139.43:8555/8kanal/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "VLC",
+  "ts": 1794175906,
+  "ua_key": "okhttp",
   "height": 0,
-  "bandwidth": 1994000
+  "bandwidth": 2722000
  },
  "http://217.174.225.146/legacyhls/ch003_720/index.m3u8": {
   "ts": 1794131560,
@@ -480,10 +480,10 @@
   "bandwidth": 2836000
  },
  "http://185.37.150.46/Karusel/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Wink",
+  "ts": 1794175906,
+  "ua_key": "MXPlayer",
   "height": 576,
-  "bandwidth": 2200000
+  "bandwidth": 2050000
  },
  "http://62.32.84.50:18000/play/a0h4/index.m3u8": {
   "ts": 1793922278,
@@ -540,10 +540,10 @@
   "bandwidth": 0
  },
  "http://178.134.1.158:8081/BRIDGEROCK/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "AndroidTV",
+  "ts": 1794175906,
+  "ua_key": "Safari_Mac",
   "height": 576,
-  "bandwidth": 2000000
+  "bandwidth": 2090000
  },
  "https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch02/playlist.m3u8": {
   "ts": 1794131513,
@@ -552,10 +552,10 @@
   "bandwidth": 221743
  },
  "http://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8": {
-  "ts": 1794175643,
-  "ua_key": "OTT",
+  "ts": 1794175908,
+  "ua_key": "MXPlayer",
   "height": 576,
-  "bandwidth": 1430000
+  "bandwidth": 1480000
  },
  "http://flussonic.mkpnet.ru/tv-c922a9201f5073f8/video.m3u8": {
   "ts": 1794131490,
@@ -966,7 +966,7 @@
   "bandwidth": 960000
  },
  "http://178.134.1.158:8081/red/index.m3u8": {
-  "ts": 1794175642,
+  "ts": 1794175906,
   "ua_key": "AndroidTV",
   "height": 0,
   "bandwidth": 0
@@ -1038,10 +1038,10 @@
   "bandwidth": 1540000
  },
  "http://176.118.197.101/Che/index.m3u8": {
-  "ts": 1794175642,
+  "ts": 1794175906,
   "ua_key": "OTT",
   "height": 576,
-  "bandwidth": 5940000
+  "bandwidth": 5900000
  },
  "http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8": {
   "ts": 1794131487,
@@ -1050,10 +1050,10 @@
   "bandwidth": 2366580
  },
  "http://178.134.1.158:8081/babytime/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "AndroidTV",
+  "ts": 1794175906,
+  "ua_key": "OTT",
   "height": 576,
-  "bandwidth": 2320000
+  "bandwidth": 2410000
  },
  "http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDI2IDExOjQ5OjIxIFBNJmhhc2hfdmFsdWU9NzBLbWM5SUpMWitZVEplblVPVDFHUT09JnZhbGlkbWludXRlcz00ODA=": {
   "ts": 1794131487,
@@ -1092,8 +1092,8 @@
   "bandwidth": 7120000
  },
  "https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv": {
-  "ts": 1794175643,
-  "ua_key": "Chrome_Win",
+  "ts": 1794175906,
+  "ua_key": "VLC",
   "height": 0,
   "bandwidth": 0
  },
@@ -1110,10 +1110,10 @@
   "bandwidth": 2306000
  },
  "http://178.134.1.158:8081/doktor/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "AndroidTV",
+  "ts": 1794175909,
+  "ua_key": "VLC",
   "height": 576,
-  "bandwidth": 900000
+  "bandwidth": 1610000
  },
  "https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.ts.m3u8": {
   "ts": 1794131486,
@@ -1158,8 +1158,8 @@
   "bandwidth": 0
  },
  "http://88.212.15.50/live/test_dom_kino/playlist.m3u8": {
-  "ts": 1794175641,
-  "ua_key": "TiviMate",
+  "ts": 1794175905,
+  "ua_key": "okhttp",
   "height": 0,
   "bandwidth": 0
  },
@@ -1260,8 +1260,8 @@
   "bandwidth": 3432000
  },
  "http://88.212.15.50/live/test_dom_kino_premium/playlist.m3u8": {
-  "ts": 1794175641,
-  "ua_key": "TiviMate",
+  "ts": 1794175931,
+  "ua_key": "Wink",
   "height": 0,
   "bandwidth": 0
  },
@@ -1284,10 +1284,10 @@
   "bandwidth": 3091171
  },
  "http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8": {
-  "ts": 1794175643,
-  "ua_key": "SmartTV",
+  "ts": 1794175909,
+  "ua_key": "ExoPlayer",
   "height": 1080,
-  "bandwidth": 3690000
+  "bandwidth": 3570000
  },
  "http://ms2.mx-cd.net/tv/81-334271/VechtdalTV.stream/chunklist.m3u8": {
   "ts": 1794131513,
@@ -1452,8 +1452,8 @@
   "bandwidth": 0
  },
  "https://stream.afontovo.ru/hd.m3u8": {
-  "ts": 1794175644,
-  "ua_key": "okhttp",
+  "ts": 1794175908,
+  "ua_key": "Firefox",
   "height": 0,
   "bandwidth": 0
  },
@@ -1494,10 +1494,10 @@
   "bandwidth": 3311804
  },
  "http://185.23.80.23:8080/DumaTV/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "MXPlayer",
+  "ts": 1794175906,
+  "ua_key": "Chrome_Win",
   "height": 720,
-  "bandwidth": 4850000
+  "bandwidth": 4010000
  },
  "http://playxapp.play-x.app:2095/0022/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
   "ts": 1793919818,
@@ -1764,8 +1764,8 @@
   "bandwidth": 0
  },
  "http://tshift-1.telecoma.tv/8channel/index.m3u8": {
-  "ts": 1794175643,
-  "ua_key": "VLC",
+  "ts": 1794175907,
+  "ua_key": "ExoPlayer",
   "height": 1080,
   "bandwidth": 5290000
  },
@@ -1794,10 +1794,10 @@
   "bandwidth": 2250000
  },
  "https://v4.proofix.ru/8tv-russia/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "TiviMate",
+  "ts": 1794175908,
+  "ua_key": "okhttp",
   "height": 576,
-  "bandwidth": 1270000
+  "bandwidth": 1500000
  },
  "http://v4.proofix.ru/0mir/index.m3u8": {
   "ts": 1794131489,
@@ -1890,10 +1890,10 @@
   "bandwidth": 0
  },
  "http://tshift-1.telecoma.tv/enisei/index.m3u8": {
-  "ts": 1794175643,
-  "ua_key": "VLC",
+  "ts": 1794175907,
+  "ua_key": "okhttp",
   "height": 576,
-  "bandwidth": 4940000
+  "bandwidth": 4870000
  },
  "http://cloudtv.azotosolutions.com:1935/radiocity/radiocity/playlist.m3u8": {
   "ts": 1794131514,
@@ -1920,10 +1920,10 @@
   "bandwidth": 1520000
  },
  "https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8": {
-  "ts": 1794175644,
-  "ua_key": "HlsWinkPlayer",
+  "ts": 1794175908,
+  "ua_key": "OTT",
   "height": 720,
-  "bandwidth": 2720000
+  "bandwidth": 2810000
  },
  "https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8?token=test": {
   "ts": 1794131509,
@@ -1932,10 +1932,10 @@
   "bandwidth": 2100000
  },
  "https://cdn-dvr.ntv.ru/Balabol/index.m3u8": {
-  "ts": 1794175644,
-  "ua_key": "HlsWinkPlayer",
+  "ts": 1794175908,
+  "ua_key": "okhttp",
   "height": 720,
-  "bandwidth": 2740000
+  "bandwidth": 2810000
  },
  "http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8": {
   "ts": 1794131506,
@@ -1986,10 +1986,10 @@
   "bandwidth": 1510000
  },
  "http://176.118.197.101/Evrokino/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "OTT",
+  "ts": 1794175932,
+  "ua_key": "okhttp",
   "height": 576,
-  "bandwidth": 1670000
+  "bandwidth": 1750000
  },
  "http://5.188.159.128:8070/Trash_HD/tracks-v1a1/mono.m3u8": {
   "ts": 1794131559,
@@ -2166,8 +2166,8 @@
   "bandwidth": 2466269
  },
  "http://flussonic.linkintel.ru/Karusel/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Wink",
+  "ts": 1794175906,
+  "ua_key": "Chrome_Win",
   "height": 576,
   "bandwidth": 3910000
  },
@@ -2178,16 +2178,16 @@
   "bandwidth": 0
  },
  "http://flussonic.linkintel.ru/che/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Wink",
+  "ts": 1794175906,
+  "ua_key": "Firefox",
   "height": 576,
-  "bandwidth": 910000
+  "bandwidth": 900000
  },
  "http://31.148.5.241/kanal_16/index.m3u8": {
-  "ts": 1793960596,
-  "ua_key": "TiviMate",
+  "ts": 1794175906,
+  "ua_key": "OTT",
   "height": 576,
-  "bandwidth": 2970000
+  "bandwidth": 3140000
  },
  "https://watcher.uz:443/101/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8": {
   "ts": 1794131506,
@@ -2208,8 +2208,8 @@
   "bandwidth": 6000000
  },
  "http://flussonic.linkintel.ru/cinema/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Wink",
+  "ts": 1794175906,
+  "ua_key": "AndroidTV",
   "height": 576,
   "bandwidth": 3810000
  },
@@ -2232,10 +2232,10 @@
   "bandwidth": 2410000
  },
  "http://flussonic.linkintel.ru/Pyatnica/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Wink",
+  "ts": 1794175906,
+  "ua_key": "TiviMate",
   "height": 576,
-  "bandwidth": 4030000
+  "bandwidth": 3920000
  },
  "http://streamcdnb2-3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S55287570/tq6PELOcQoAf/chunklist.m3u8": {
   "ts": 1794131503,
@@ -2388,10 +2388,10 @@
   "bandwidth": 0
  },
  "http://flussonic.linkintel.ru/zvezda/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Wink",
+  "ts": 1794175932,
+  "ua_key": "Chrome_Win",
   "height": 576,
-  "bandwidth": 3910000
+  "bandwidth": 3970000
  },
  "http://3.hls.gd/ch064/mono.m3u8?token=rl_bbeckffat.v2_7CzUBHIix3Zsr9pE-F_kc85nCM9ODpadPs64QqexGt8XSjrNO68ZzxxNK6eFP4tXQBkYWnHVR1SDYpUL": {
   "ts": 1793919821,
@@ -2478,10 +2478,10 @@
   "bandwidth": 5980000
  },
  "http://31.131.139.253:9002/novoros/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "MXPlayer",
+  "ts": 1794175906,
+  "ua_key": "okhttp",
   "height": 0,
-  "bandwidth": 2729000
+  "bandwidth": 2755000
  },
  "http://176.118.197.101/HCT/mono.m3u8": {
   "ts": 1794131485,
@@ -2490,10 +2490,10 @@
   "bandwidth": 0
  },
  "http://31.148.5.241/kanal_17/index.m3u8": {
-  "ts": 1793960594,
-  "ua_key": "TiviMate",
+  "ts": 1794175932,
+  "ua_key": "okhttp",
   "height": 576,
-  "bandwidth": 3110000
+  "bandwidth": 3200000
  },
  "http://stream-msk-05.ott.tricolor.tv/dtv/id690_MSKSG-PVR-1--Big_Asia/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw": {
   "ts": 1794131491,
@@ -2640,10 +2640,10 @@
   "bandwidth": 0
  },
  "http://flussonic.linkintel.ru/amedia-hit/index.m3u8": {
-  "ts": 1794175642,
+  "ts": 1794175906,
   "ua_key": "Wink",
   "height": 1080,
-  "bandwidth": 3950000
+  "bandwidth": 3310000
  },
  "http://185.46.16.239:8000/Zvezda": {
   "ts": 1794131488,
@@ -2718,8 +2718,8 @@
   "bandwidth": 2710505
  },
  "https://cdn-dvr.ntv.ru/ntv0_hd/index.m3u8": {
-  "ts": 1794175644,
-  "ua_key": "HlsWinkPlayer",
+  "ts": 1794175908,
+  "ua_key": "TiviMate",
   "height": 1080,
   "bandwidth": 5420000
  },
@@ -2736,10 +2736,10 @@
   "bandwidth": 4500000
  },
  "http://flussonic.linkintel.ru/ntv/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Wink",
+  "ts": 1794175906,
+  "ua_key": "OTT",
   "height": 1080,
-  "bandwidth": 5350000
+  "bandwidth": 5290000
  },
  "http://tv02.zas.media:1935/ramevale/ramevale/playlist.m3u8": {
   "ts": 1794131515,
@@ -2814,8 +2814,8 @@
   "bandwidth": 0
  },
  "https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv": {
-  "ts": 1794175643,
-  "ua_key": "Chrome_Win",
+  "ts": 1794175931,
+  "ua_key": "VLC",
   "height": 0,
   "bandwidth": 0
  },
@@ -2868,8 +2868,8 @@
   "bandwidth": 6480000
  },
  "http://31.148.5.241/kanal_4/index.m3u8": {
-  "ts": 1793960615,
-  "ua_key": "TiviMate",
+  "ts": 1794175907,
+  "ua_key": "OTT",
   "height": 576,
   "bandwidth": 3030000
  },
@@ -2904,10 +2904,10 @@
   "bandwidth": 0
  },
  "http://176.118.197.101/NTV/index.m3u8": {
-  "ts": 1794175642,
+  "ts": 1794175907,
   "ua_key": "OTT",
   "height": 576,
-  "bandwidth": 2730000
+  "bandwidth": 2380000
  },
  "https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8": {
   "ts": 1794131511,
@@ -3000,10 +3000,10 @@
   "bandwidth": 4692000
  },
  "http://31.148.5.241/kanal_14/index.m3u8": {
-  "ts": 1793960648,
-  "ua_key": "TiviMate",
+  "ts": 1794175906,
+  "ua_key": "VLC",
   "height": 576,
-  "bandwidth": 3100000
+  "bandwidth": 3180000
  },
  "http://3.hls.gd/ch834/mono.m3u8?token=rl_bbeckffat.v2_oL5svkN6m98l5eW2k9YN8vlR0fyKATozZpS72bLvZBrU4c9Pm20ah0s37iOTRpzLf9wxSV3_lJwC20D4Xg": {
   "ts": 1794131501,
@@ -3330,10 +3330,10 @@
   "bandwidth": 0
  },
  "http://178.134.1.158:8081/ntvhit/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "AndroidTV",
+  "ts": 1794175907,
+  "ua_key": "Wink",
   "height": 576,
-  "bandwidth": 1550000
+  "bandwidth": 620000
  },
  "https://fl1003.bozztv.com/ushba42/tracks-v1a1/mono.m3u8": {
   "ts": 1794131486,
@@ -3366,8 +3366,8 @@
   "bandwidth": 2907984
  },
  "http://178.124.179.122:8080/Setanta1/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Lavf",
+  "ts": 1794175907,
+  "ua_key": "AndroidTV",
   "height": 576,
   "bandwidth": 900000
  },
@@ -3432,8 +3432,8 @@
   "bandwidth": 0
  },
  "http://91.224.16.9:7779/Oplot_2/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "VLC",
+  "ts": 1794175907,
+  "ua_key": "Lavf",
   "height": 576,
   "bandwidth": 1630000
  },
@@ -3522,10 +3522,10 @@
   "bandwidth": 3323683
  },
  "http://31.131.139.253:9002/oplot_hd/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "MXPlayer",
+  "ts": 1794175907,
+  "ua_key": "OTT",
   "height": 0,
-  "bandwidth": 3030000
+  "bandwidth": 3114000
  },
  "http://3.hls.gd/ch3914/mono.m3u8?token=rl_bbeckffat.v2_pVu2VkBCj0tjwW473VsvJMg5m2QlYoGIG3KHVHnDgHllgz2_oyg7EemZhi2nsiRK2hGBPKDXVEXXEncThsQ": {
   "ts": 1794131519,
@@ -3564,10 +3564,10 @@
   "bandwidth": 2304579
  },
  "http://flussonic.linkintel.ru/otr/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Wink",
+  "ts": 1794175907,
+  "ua_key": "Lavf",
   "height": 1080,
-  "bandwidth": 1160000
+  "bandwidth": 1110000
  },
  "https://bl.rutube.ru/livestream/8ceccbefd972496f7c2dd5a7acc476fc/index.m3u8?s=8YO_AMxYEyGXl629ojizgA&e=2075376102&scheme=https": {
   "ts": 1794131495,
@@ -3654,14 +3654,14 @@
   "bandwidth": 0
  },
  "http://31.148.5.241/kanal_9/index.m3u8": {
-  "ts": 1793960618,
-  "ua_key": "TiviMate",
+  "ts": 1794175907,
+  "ua_key": "Firefox",
   "height": 576,
-  "bandwidth": 1680000
+  "bandwidth": 1650000
  },
  "https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https": {
-  "ts": 1794175648,
-  "ua_key": "okhttp",
+  "ts": 1794175914,
+  "ua_key": "OTT",
   "height": 1080,
   "bandwidth": 6800000
  },
@@ -3714,7 +3714,7 @@
   "bandwidth": 6800000
  },
  "https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https": {
-  "ts": 1794175648,
+  "ts": 1794175914,
   "ua_key": "okhttp",
   "height": 1080,
   "bandwidth": 6800000
@@ -3732,10 +3732,10 @@
   "bandwidth": 0
  },
  "https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8": {
-  "ts": 1794175644,
-  "ua_key": "HlsWinkPlayer",
+  "ts": 1794175908,
+  "ua_key": "TiviMate",
   "height": 720,
-  "bandwidth": 2720000
+  "bandwidth": 2780000
  },
  "http://3.hls.gd/ch1034/mono.m3u8?token=rl_bbeckffat.v2_uL7H_I35Z40A6CJLH2Rnt1iXoCceGq8UU-iGW7LaolCTP7qAMZo704LNGz6kPH8wAACnkuisHFskiaaM4vM": {
   "ts": 1794131548,
@@ -3846,8 +3846,8 @@
   "bandwidth": 0
  },
  "https://cdn-dvr.ntv.ru/Pes/index.m3u8": {
-  "ts": 1794175644,
-  "ua_key": "HlsWinkPlayer",
+  "ts": 1794175908,
+  "ua_key": "OTT",
   "height": 720,
   "bandwidth": 2680000
  },
@@ -3876,8 +3876,8 @@
   "bandwidth": 2500000
  },
  "http://88.212.15.50/live/test_poehali/playlist.m3u8": {
-  "ts": 1794175641,
-  "ua_key": "TiviMate",
+  "ts": 1794175913,
+  "ua_key": "Lavf",
   "height": 0,
   "bandwidth": 0
  },
@@ -4230,10 +4230,10 @@
   "bandwidth": 2850000
  },
  "http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8": {
-  "ts": 1794175644,
+  "ts": 1794175907,
   "ua_key": "okhttp",
   "height": 1080,
-  "bandwidth": 5290000
+  "bandwidth": 4720000
  },
  "https://fl1004.bozztv.com/ushba64/tracks-v1a1/mono.m3u8": {
   "ts": 1794131490,
@@ -4326,8 +4326,8 @@
   "bandwidth": 5288800
  },
  "https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8": {
-  "ts": 1794175645,
-  "ua_key": "Safari_Mac",
+  "ts": 1794175932,
+  "ua_key": "Lavf",
   "height": 1080,
   "bandwidth": 5253600
  },
@@ -4356,8 +4356,8 @@
   "bandwidth": 0
  },
  "https://cdn.ntv.ru/ntv-spb/index.m3u8": {
-  "ts": 1794175645,
-  "ua_key": "Chrome_Win",
+  "ts": 1794175908,
+  "ua_key": "Safari_Mac",
   "height": 720,
   "bandwidth": 2570000
  },
@@ -4392,10 +4392,10 @@
   "bandwidth": 587576
  },
  "https://v4.proofix.ru/0mir/index.m3u8": {
-  "ts": 1794175642,
+  "ts": 1794175908,
   "ua_key": "TiviMate",
   "height": 576,
-  "bandwidth": 6700000
+  "bandwidth": 6100000
  },
  "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8": {
   "ts": 1794131553,
@@ -4458,7 +4458,7 @@
   "bandwidth": 0
  },
  "https://cdn.ntv.ru/vitrina/index.m3u8": {
-  "ts": 1794175645,
+  "ts": 1794175908,
   "ua_key": "Chrome_Win",
   "height": 808,
   "bandwidth": 3730000
@@ -4572,7 +4572,7 @@
   "bandwidth": 0
  },
  "https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https": {
-  "ts": 1794175648,
+  "ts": 1794175914,
   "ua_key": "okhttp",
   "height": 1080,
   "bandwidth": 6800000
@@ -4956,16 +4956,16 @@
   "bandwidth": 0
  },
  "http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8": {
-  "ts": 1794175646,
-  "ua_key": "okhttp",
+  "ts": 1794175909,
+  "ua_key": "TiviMate",
   "height": 576,
-  "bandwidth": 3290000
+  "bandwidth": 2910000
  },
  "https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8": {
-  "ts": 1794175646,
-  "ua_key": "OTT",
+  "ts": 1794175911,
+  "ua_key": "HlsWinkPlayer",
   "height": 1080,
-  "bandwidth": 6990000
+  "bandwidth": 6980000
  },
  "https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=i9-CS7XwJ2d3q51PMplIOA&e=2066519836&scheme=https": {
   "ts": 1794131494,
@@ -4998,8 +4998,8 @@
   "bandwidth": 6280000
  },
  "https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8": {
-  "ts": 1794044210,
-  "ua_key": "SmartTV",
+  "ts": 1794175909,
+  "ua_key": "Kodi",
   "height": 0,
   "bandwidth": 0
  },
@@ -5406,8 +5406,8 @@
   "bandwidth": 30000
  },
  "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8": {
-  "ts": 1794175645,
-  "ua_key": "Lavf",
+  "ts": 1794175933,
+  "ua_key": "TiviMate",
   "height": 1080,
   "bandwidth": 5253600
  },
@@ -5526,16 +5526,16 @@
   "bandwidth": 0
  },
  "http://185.23.80.23:8080/REN/index.m3u8": {
-  "ts": 1794175642,
+  "ts": 1794175909,
   "ua_key": "MXPlayer",
   "height": 576,
-  "bandwidth": 3140000
+  "bandwidth": 2970000
  },
  "http://flussonic.linkintel.ru/ren_tv/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Wink",
+  "ts": 1794175908,
+  "ua_key": "Firefox",
   "height": 576,
-  "bandwidth": 3970000
+  "bandwidth": 3910000
  },
  "http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TVOYATUMEN/variant.m3u8": {
   "ts": 1794131521,
@@ -5652,7 +5652,7 @@
   "bandwidth": 1442805
  },
  "http://176.118.197.101/RBK/index.m3u8": {
-  "ts": 1794175642,
+  "ts": 1794175908,
   "ua_key": "OTT",
   "height": 1080,
   "bandwidth": 2840000
@@ -5664,14 +5664,14 @@
   "bandwidth": 0
  },
  "http://31.148.5.241/kanal_11/index.m3u8": {
-  "ts": 1793960622,
-  "ua_key": "TiviMate",
+  "ts": 1794175909,
+  "ua_key": "Lavf",
   "height": 576,
-  "bandwidth": 2960000
+  "bandwidth": 3400000
  },
  "https://live1.1tvcrimea.ru/1tvcrimea.m3u8": {
-  "ts": 1794175646,
-  "ua_key": "HlsWinkPlayer",
+  "ts": 1794175910,
+  "ua_key": "OTT",
   "height": 0,
   "bandwidth": 0
  },
@@ -5754,8 +5754,8 @@
   "bandwidth": 0
  },
  "http://176.118.197.101/Retro/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "OTT",
+  "ts": 1794175909,
+  "ua_key": "VLC",
   "height": 576,
   "bandwidth": 1730000
  },
@@ -5868,10 +5868,10 @@
   "bandwidth": 0
  },
  "http://212.5.144.156:8080/rt/index.m3u8": {
-  "ts": 1793922353,
+  "ts": 1794175909,
   "ua_key": "OTT",
   "height": 720,
-  "bandwidth": 780000
+  "bandwidth": 760000
  },
  "https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=xurXu3NLFUVWuUAYkRTzUw&e=2065265081&scheme=https": {
   "ts": 1794131503,
@@ -6006,8 +6006,8 @@
   "bandwidth": 0
  },
  "https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8": {
-  "ts": 1794175645,
-  "ua_key": "VLC",
+  "ts": 1794175912,
+  "ua_key": "TiviMate",
   "height": 720,
   "bandwidth": 3635032
  },
@@ -6108,8 +6108,8 @@
   "bandwidth": 4664000
  },
  "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8": {
-  "ts": 1793919832,
-  "ua_key": "Safari_Mac",
+  "ts": 1794175909,
+  "ua_key": "OTT",
   "height": 0,
   "bandwidth": 0
  },
@@ -6582,10 +6582,10 @@
   "bandwidth": 3460000
  },
  "http://46.53.200.153:7777/play/a00u/index.m3u8": {
-  "ts": 1793922399,
-  "ua_key": "VLC",
+  "ts": 1794175909,
+  "ua_key": "Safari_Mac",
   "height": 0,
-  "bandwidth": 6819000
+  "bandwidth": 6711000
  },
  "http://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8": {
   "ts": 1794131490,
@@ -6600,16 +6600,16 @@
   "bandwidth": 1570000
  },
  "http://176.126.166.43:1935/live/312kino/playlist.m3u8": {
-  "ts": 1794175643,
-  "ua_key": "OTT",
+  "ts": 1794175910,
+  "ua_key": "Chrome_Win",
   "height": 406,
-  "bandwidth": 955785
+  "bandwidth": 948827
  },
  "http://168.196.127.137:6001/play/a0a9/index.m3u8": {
-  "ts": 1793922399,
-  "ua_key": "VLC",
+  "ts": 1794175910,
+  "ua_key": "okhttp",
   "height": 0,
-  "bandwidth": 1476000
+  "bandwidth": 1410000
  },
  "https://s03.watcher.uz/55/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20": {
   "ts": 1794131491,
@@ -6678,10 +6678,10 @@
   "bandwidth": 5711200
  },
  "http://176.126.166.43:1935/live/312musik/playlist.m3u8": {
-  "ts": 1794175643,
-  "ua_key": "OTT",
+  "ts": 1794175910,
+  "ua_key": "VLC",
   "height": 406,
-  "bandwidth": 954976
+  "bandwidth": 957038
  },
  "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8": {
   "ts": 1794131551,
@@ -6714,7 +6714,7 @@
   "bandwidth": 690000
  },
  "https://sitv.ru/hls/s86.m3u8": {
-  "ts": 1794044280,
+  "ts": 1794175909,
   "ua_key": "OTT",
   "height": 0,
   "bandwidth": 0
@@ -6744,16 +6744,16 @@
   "bandwidth": 5218400
  },
  "https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https": {
-  "ts": 1794175648,
+  "ts": 1794175913,
   "ua_key": "okhttp",
   "height": 1080,
   "bandwidth": 6800000
  },
  "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8": {
-  "ts": 1793925865,
-  "ua_key": "AndroidTV",
+  "ts": 1794175910,
+  "ua_key": "MXPlayer",
   "height": 1080,
-  "bandwidth": 11950000
+  "bandwidth": 12420000
  },
  "http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8": {
   "ts": 1794131490,
@@ -6792,8 +6792,8 @@
   "bandwidth": 75730000
  },
  "http://213.91.179.28:8000/play/a0bw": {
-  "ts": 1794175643,
-  "ua_key": "MXPlayer",
+  "ts": 1794175909,
+  "ua_key": "Wink",
   "height": 0,
   "bandwidth": 0
  },
@@ -6888,10 +6888,10 @@
   "bandwidth": 0
  },
  "http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8": {
-  "ts": 1793922400,
-  "ua_key": "AndroidTV",
+  "ts": 1794175910,
+  "ua_key": "Wink",
   "height": 0,
-  "bandwidth": 6676000
+  "bandwidth": 6617000
  },
  "http://stream-msk-11.ott.tricolor.tv/dtv/id132_MSKSG-PVR-1--Shanson/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw": {
   "ts": 1794131491,
@@ -6978,8 +6978,8 @@
   "bandwidth": 2116649
  },
  "http://catchup.videoline.ru/shanson/index.m3u8": {
-  "ts": 1794175648,
-  "ua_key": "Wink",
+  "ts": 1794175910,
+  "ua_key": "Safari_Mac",
   "height": 576,
   "bandwidth": 3520000
  },
@@ -7074,8 +7074,8 @@
   "bandwidth": 2410000
  },
  "https://cdn-dvr.ntv.ru/Shef/index.m3u8": {
-  "ts": 1794175644,
-  "ua_key": "HlsWinkPlayer",
+  "ts": 1794175909,
+  "ua_key": "okhttp",
   "height": 720,
   "bandwidth": 2810000
  },
@@ -7098,10 +7098,10 @@
   "bandwidth": 0
  },
  "http://46.53.200.153:7777/play/Shanson_TV/index.m3u8": {
-  "ts": 1793922400,
-  "ua_key": "MXPlayer",
+  "ts": 1794175910,
+  "ua_key": "okhttp",
   "height": 0,
-  "bandwidth": 4635000
+  "bandwidth": 4676000
  },
  "http://playxapp.play-x.app:2095/0436/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
   "ts": 1793919836,
@@ -7182,8 +7182,8 @@
   "bandwidth": 0
  },
  "https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8": {
-  "ts": 1794044215,
-  "ua_key": "SmartTV",
+  "ts": 1794175909,
+  "ua_key": "VLC",
   "height": 0,
   "bandwidth": 0
  },
@@ -7212,8 +7212,8 @@
   "bandwidth": 0
  },
  "https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8": {
-  "ts": 1794044215,
-  "ua_key": "SmartTV",
+  "ts": 1794175909,
+  "ua_key": "Firefox",
   "height": 0,
   "bandwidth": 0
  },
@@ -7242,14 +7242,14 @@
   "bandwidth": 0
  },
  "https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8": {
-  "ts": 1794044215,
+  "ts": 1794175909,
   "ua_key": "SmartTV",
   "height": 0,
   "bandwidth": 0
  },
  "https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8": {
-  "ts": 1794175644,
-  "ua_key": "HlsWinkPlayer",
+  "ts": 1794175909,
+  "ua_key": "MXPlayer",
   "height": 720,
   "bandwidth": 2750000
  },
@@ -7344,8 +7344,8 @@
   "bandwidth": 400000
  },
  "https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8": {
-  "ts": 1794175643,
-  "ua_key": "SmartTV",
+  "ts": 1794175909,
+  "ua_key": "Firefox",
   "height": 0,
   "bandwidth": 0
  },
@@ -7410,7 +7410,7 @@
   "bandwidth": 0
  },
  "https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8": {
-  "ts": 1794175643,
+  "ts": 1794175909,
   "ua_key": "SmartTV",
   "height": 0,
   "bandwidth": 0
@@ -7422,7 +7422,7 @@
   "bandwidth": 1300000
  },
  "https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8": {
-  "ts": 1794175643,
+  "ts": 1794175909,
   "ua_key": "SmartTV",
   "height": 0,
   "bandwidth": 0
@@ -7644,10 +7644,10 @@
   "bandwidth": 3635032
  },
  "http://serv25.vintera.tv:8081/test/aris/playlist.m3u8": {
-  "ts": 1794175644,
-  "ua_key": "AndroidTV",
+  "ts": 1794175911,
+  "ua_key": "Wink",
   "height": 720,
-  "bandwidth": 3563718
+  "bandwidth": 3536289
  },
  "http://3.hls.gd/ch3854/mono.m3u8?token=rl_bbeckffat.v2_5gzhhKodkQAWre4ZAr6jgrcM26N3Sgx8obMG7KYdD6SXBZayjy8ZKvLzeRX2AQRr7R9YdTGYQbCX1wHRkpI": {
   "ts": 1794131521,
@@ -7656,8 +7656,8 @@
   "bandwidth": 0
  },
  "https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8": {
-  "ts": 1794044213,
-  "ua_key": "SmartTV",
+  "ts": 1794175909,
+  "ua_key": "ExoPlayer",
   "height": 0,
   "bandwidth": 0
  },
@@ -7866,10 +7866,10 @@
   "bandwidth": 0
  },
  "http://217.114.191.150/Solnce/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "okhttp",
+  "ts": 1794175910,
+  "ua_key": "Lavf",
   "height": 576,
-  "bandwidth": 1920000
+  "bandwidth": 1970000
  },
  "http://3.hls.gd/ch373/mono.m3u8?token=rl_bbeckffat.v2_fPFysPvOCHmT_f9G7Xrcp92-7iP-odaJ0s_Wx_36J5rQNz7nMIKf5DSI3cQR4J9Vu1P_aSrW03tSpR3l8A": {
   "ts": 1793925837,
@@ -7902,8 +7902,8 @@
   "bandwidth": 7004800
  },
  "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8": {
-  "ts": 1794175646,
-  "ua_key": "OTT",
+  "ts": 1794175911,
+  "ua_key": "Lavf",
   "height": 720,
   "bandwidth": 4360000
  },
@@ -7920,10 +7920,10 @@
   "bandwidth": 0
  },
  "http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8": {
-  "ts": 1794175647,
-  "ua_key": "Lavf",
+  "ts": 1794175910,
+  "ua_key": "okhttp",
   "height": 720,
-  "bandwidth": 2760986
+  "bandwidth": 2785319
  },
  "http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8?checkedby:iptvcat.com": {
   "ts": 1794131530,
@@ -12852,7 +12852,7 @@
   "bandwidth": 6800000
  },
  "http://178.124.179.122:8080/TRO/index.m3u8": {
-  "ts": 1794175642,
+  "ts": 1794175909,
   "ua_key": "Lavf",
   "height": 360,
   "bandwidth": 1180000
@@ -12948,8 +12948,8 @@
   "bandwidth": 0
  },
  "http://31.148.5.241/kanal_12/index.m3u8": {
-  "ts": 1793960604,
-  "ua_key": "TiviMate",
+  "ts": 1794175910,
+  "ua_key": "OTT",
   "height": 576,
   "bandwidth": 3110000
  },
@@ -13140,14 +13140,14 @@
   "bandwidth": 0
  },
  "https://live-3.otcnet.ru/sportivny/index.m3u8": {
-  "ts": 1794131533,
-  "ua_key": "Firefox",
+  "ts": 1794175909,
+  "ua_key": "SmartTV",
   "height": 1080,
-  "bandwidth": 3860000
+  "bandwidth": 3900000
  },
  "https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8": {
-  "ts": 1794175645,
-  "ua_key": "Lavf",
+  "ts": 1794175909,
+  "ua_key": "Kodi",
   "height": 0,
   "bandwidth": 0
  },
@@ -13242,7 +13242,7 @@
   "bandwidth": 0
  },
  "https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8": {
-  "ts": 1794175645,
+  "ts": 1794175906,
   "ua_key": "Lavf",
   "height": 0,
   "bandwidth": 0
@@ -13254,16 +13254,16 @@
   "bandwidth": 6800000
  },
  "http://31.148.5.241/kanal_13/index.m3u8": {
-  "ts": 1793960604,
-  "ua_key": "TiviMate",
+  "ts": 1794175906,
+  "ua_key": "Firefox",
   "height": 576,
   "bandwidth": 3150000
  },
  "http://176.118.197.101/CTC/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "OTT",
+  "ts": 1794175906,
+  "ua_key": "AndroidTV",
   "height": 576,
-  "bandwidth": 2620000
+  "bandwidth": 2830000
  },
  "http://3.hls.gd/ch2653/mono.m3u8?token=rl_bbeckffat.v2_R_WawtXuyYiS2zy_rjOFsprq-fCVhOKTw5yQHv4fYPJYwnPQEtIUKa7UoA36nntgkYx3M0axH6CUuXfOPHY": {
   "ts": 1794131510,
@@ -13290,8 +13290,8 @@
   "bandwidth": 6800000
  },
  "http://flussonic.linkintel.ru/sts/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Wink",
+  "ts": 1794175906,
+  "ua_key": "Kodi",
   "height": 576,
   "bandwidth": 1860000
  },
@@ -13320,10 +13320,10 @@
   "bandwidth": 2140000
  },
  "http://tshift-1.telecoma.tv/sts/index.m3u8": {
-  "ts": 1794175643,
-  "ua_key": "VLC",
+  "ts": 1794175907,
+  "ua_key": "HlsWinkPlayer",
   "height": 576,
-  "bandwidth": 2930000
+  "bandwidth": 2040000
  },
  "https://uhd.bear-tv.net/000132_KinoMarshrut/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
   "ts": 1793922282,
@@ -13398,10 +13398,10 @@
   "bandwidth": 0
  },
  "http://217.114.191.150/Subbota/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "okhttp",
+  "ts": 1794175906,
+  "ua_key": "Kodi",
   "height": 576,
-  "bandwidth": 1220000
+  "bandwidth": 1490000
  },
  "https://bl.rutube.ru/livestream/5e56eba895d87d84749e756720a71e73/index.m3u8?s=iNdPOE_nr8u6jbgOaAkY-A&e=2069285063&scheme=https": {
   "ts": 1794131548,
@@ -13434,10 +13434,10 @@
   "bandwidth": 2140000
  },
  "http://109.94.1.3:8080/132/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Lavf",
+  "ts": 1794175905,
+  "ua_key": "VLC",
   "height": 576,
-  "bandwidth": 2605855
+  "bandwidth": 2784765
  },
  "https://rta-tv.akamaized.net/live/SD/RTA-4/RTA/RTA-4.m3u8": {
   "ts": 1794131486,
@@ -13530,7 +13530,7 @@
   "bandwidth": 6800000
  },
  "https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https": {
-  "ts": 1794175648,
+  "ts": 1794175914,
   "ua_key": "okhttp",
   "height": 1080,
   "bandwidth": 6800000
@@ -13554,14 +13554,14 @@
   "bandwidth": 5772800
  },
  "http://178.134.1.158:8081/t24/index.m3u8": {
-  "ts": 1794175642,
+  "ts": 1794175906,
   "ua_key": "AndroidTV",
   "height": 576,
-  "bandwidth": 1920000
+  "bandwidth": 1860000
  },
  "http://88.212.15.50/live/test_telecafe_tv/playlist.m3u8": {
-  "ts": 1794175641,
-  "ua_key": "TiviMate",
+  "ts": 1794175905,
+  "ua_key": "VLC",
   "height": 0,
   "bandwidth": 0
  },
@@ -13698,8 +13698,8 @@
   "bandwidth": 0
  },
  "http://flussonic.linkintel.ru/tnt/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Wink",
+  "ts": 1794175906,
+  "ua_key": "ExoPlayer",
   "height": 576,
   "bandwidth": 3910000
  },
@@ -13782,10 +13782,10 @@
   "bandwidth": 4000000
  },
  "http://31.148.5.241/kanal_19/index.m3u8": {
-  "ts": 1793960606,
-  "ua_key": "TiviMate",
+  "ts": 1794175906,
+  "ua_key": "Lavf",
   "height": 576,
-  "bandwidth": 3200000
+  "bandwidth": 2590000
  },
  "http://3.hls.gd/ch014/mono.m3u8?token=rl_bbeckffat.v2_t-Vw0u2ddHD8UzSmtOo1Ir2i4tDEc6xONRSttjJba6WFxTV6LaEr_T4g8gZDTkeF89md0LCookVj1wWD": {
   "ts": 1794131533,
@@ -13794,10 +13794,10 @@
   "bandwidth": 0
  },
  "http://176.118.197.101/THT/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "OTT",
+  "ts": 1794175906,
+  "ua_key": "Firefox",
   "height": 576,
-  "bandwidth": 3010000
+  "bandwidth": 3100000
  },
  "http://playxapp.play-x.app:2095/0352/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
   "ts": 1793925829,
@@ -13878,10 +13878,10 @@
   "bandwidth": 0
  },
  "http://flussonic.linkintel.ru/tnt4/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Wink",
+  "ts": 1794175906,
+  "ua_key": "ExoPlayer",
   "height": 576,
-  "bandwidth": 3750000
+  "bandwidth": 3730000
  },
  "http://3.hls.gd/ch370/mono.m3u8?token=rl_bbeckffat.v2_WKIbvCJ4wXE0BdQT19u9bR8OVsYvHf9LKbg2jQsErKOHnCJTVkJCUkBHyeQTd-FS2ij_eNast1HiJPnSRg": {
   "ts": 1794131533,
@@ -14250,7 +14250,7 @@
   "bandwidth": 3690000
  },
  "https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8": {
-  "ts": 1794175642,
+  "ts": 1794175907,
   "ua_key": "Lavf",
   "height": 720,
   "bandwidth": 2128000
@@ -14334,8 +14334,8 @@
   "bandwidth": 1440000
  },
  "https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv": {
-  "ts": 1794175643,
-  "ua_key": "Chrome_Win",
+  "ts": 1794175906,
+  "ua_key": "VLC",
   "height": 0,
   "bandwidth": 0
  },
@@ -14376,14 +14376,14 @@
   "bandwidth": 6800000
  },
  "https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https": {
-  "ts": 1794175648,
-  "ua_key": "okhttp",
+  "ts": 1794175914,
+  "ua_key": "OTT",
   "height": 1080,
   "bandwidth": 6800000
  },
  "http://flussonic.linkintel.ru/tvc/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Wink",
+  "ts": 1794175906,
+  "ua_key": "TiviMate",
   "height": 576,
   "bandwidth": 3920000
  },
@@ -14394,10 +14394,10 @@
   "bandwidth": 5135848
  },
  "http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8": {
-  "ts": 1794175643,
-  "ua_key": "TiviMate",
+  "ts": 1794175908,
+  "ua_key": "Wink",
   "height": 1080,
-  "bandwidth": 2340000
+  "bandwidth": 2880000
  },
  "http://95.47.155.244:8001/play/a003": {
   "ts": 1794131557,
@@ -14418,10 +14418,10 @@
   "bandwidth": 6800000
  },
  "http://31.148.5.241/kanal_10/index.m3u8": {
-  "ts": 1793960607,
-  "ua_key": "TiviMate",
+  "ts": 1794175906,
+  "ua_key": "VLC",
   "height": 576,
-  "bandwidth": 2500000
+  "bandwidth": 1980000
  },
  "https://bl.rutube.ru/livestream/695f0fdefc96b6f7f2b4a311b71f596b/index.m3u8?s=DKfTUeZM2MkuNDcek-qgvg&e=2069285065&scheme=https": {
   "ts": 1794131555,
@@ -14490,8 +14490,8 @@
   "bandwidth": 0
  },
  "http://rtmp.tvpro-online.ru/hls/ch1.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "VLC",
+  "ts": 1794175908,
+  "ua_key": "Kodi",
   "height": 0,
   "bandwidth": 0
  },
@@ -14514,10 +14514,10 @@
   "bandwidth": 6310000
  },
  "http://flussonic.linkintel.ru/tv-3/index.m3u8": {
-  "ts": 1794175642,
+  "ts": 1794175906,
   "ua_key": "Wink",
   "height": 576,
-  "bandwidth": 3920000
+  "bandwidth": 3930000
  },
  "http://3.hls.gd/ch1268/mono.m3u8?token=rl_bbeckffat.v2_u80JhUbv-8-tQIo3Mto_IQbQ9mZvssHLn22zxxCnaLC9vQK6pgPN_7OdQkfwf-4wJKu2I29mcNYXACtKpto": {
   "ts": 1793960687,
@@ -14544,10 +14544,10 @@
   "bandwidth": 4000000
  },
  "http://176.118.197.101/TB3/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "OTT",
+  "ts": 1794175906,
+  "ua_key": "Lavf",
   "height": 576,
-  "bandwidth": 3300000
+  "bandwidth": 3040000
  },
  "http://3.hls.gd/ch1242/mono.m3u8?token=rl_bbeckffat.v2_M1K22vGDnZgpY6HugPBCykWc1I-jJKGqaCvJNnB3BOyvYeERIT7NYjzAVZDlpRkuSZO-xb8hL7a5EE8HbQc": {
   "ts": 1793960684,
@@ -14610,10 +14610,10 @@
   "bandwidth": 6800000
  },
  "http://31.148.5.241/kanal_15/index.m3u8": {
-  "ts": 1793960607,
-  "ua_key": "TiviMate",
+  "ts": 1794175906,
+  "ua_key": "OTT",
   "height": 576,
-  "bandwidth": 2890000
+  "bandwidth": 3060000
  },
  "https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=8zIg7oO2dj7zRXDm3VJ-mw&e=2068506945&scheme=https": {
   "ts": 1794131556,
@@ -14664,10 +14664,10 @@
   "bandwidth": 0
  },
  "http://178.134.1.158:8081/U/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "AndroidTV",
+  "ts": 1794175906,
+  "ua_key": "Kodi",
   "height": 576,
-  "bandwidth": 3580000
+  "bandwidth": 2350000
  },
  "http://flussonic.mkpnet.ru/tv-b9ddf7deb3d25757/video.m3u8": {
   "ts": 1794131556,
@@ -14682,7 +14682,7 @@
   "bandwidth": 0
  },
  "https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https": {
-  "ts": 1794175648,
+  "ts": 1794175914,
   "ua_key": "okhttp",
   "height": 720,
   "bandwidth": 4000000
@@ -15030,8 +15030,8 @@
   "bandwidth": 1580000
  },
  "http://176.118.197.101/START_AIR/index.m3u8": {
-  "ts": 1794175643,
-  "ua_key": "OTT",
+  "ts": 1794175906,
+  "ua_key": "okhttp",
   "height": 1080,
   "bandwidth": 3950000
  },
@@ -15402,8 +15402,8 @@
   "bandwidth": 1900000
  },
  "http://178.124.179.122:8080/HistoryHD/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Lavf",
+  "ts": 1794175921,
+  "ua_key": "OTT",
   "height": 432,
   "bandwidth": 1900000
  },
@@ -15468,10 +15468,10 @@
   "bandwidth": 0
  },
  "http://46.53.200.153:7777/play/a01i/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "MXPlayer",
+  "ts": 1794175906,
+  "ua_key": "okhttp",
   "height": 0,
-  "bandwidth": 2400000
+  "bandwidth": 2660000
  },
  "http://3.hls.gd/ch386/mono.m3u8?token=rl_bbeckffat.v2_Bvbq4A32LDtApim-DeM2wm86WGu4Yl8hCzEMYNANzg_AHgQ7f-_mVw3dmbG1BRoMrHGjtQ4DXCC5N05p3g": {
   "ts": 1794131561,
@@ -15492,8 +15492,8 @@
   "bandwidth": 4420000
  },
  "https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "SmartTV",
+  "ts": 1794175907,
+  "ua_key": "VLC",
   "height": 0,
   "bandwidth": 0
  },
@@ -15510,10 +15510,10 @@
   "bandwidth": 8560000
  },
  "http://46.53.200.153:7777/play/a01j/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "MXPlayer",
+  "ts": 1794175922,
+  "ua_key": "Chrome_Win",
   "height": 0,
-  "bandwidth": 2350000
+  "bandwidth": 2459000
  },
  "http://3.hls.gd/ch398/mono.m3u8?token=rl_bbeckffat.v2_th3vDp6W0D6lmjyAl4tlZFDi5gKSl4Od5SYI5QyklCn1We11b8jdoaTA36gCMIuhlOiM2q7fhFIDDGeWRA": {
   "ts": 1794131562,
@@ -15732,10 +15732,10 @@
   "bandwidth": 960000
  },
  "http://46.53.200.153:7777/play/a01k/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "MXPlayer",
+  "ts": 1794175922,
+  "ua_key": "okhttp",
   "height": 0,
-  "bandwidth": 2367000
+  "bandwidth": 2399000
  },
  "https://cityeden.catcast.tv/content/46421/index.m3u8?password=loganet": {
   "ts": 1794131501,
@@ -15786,10 +15786,10 @@
   "bandwidth": 0
  },
  "http://46.53.200.153:7777/play/TV_1000/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "MXPlayer",
+  "ts": 1794175922,
+  "ua_key": "okhttp",
   "height": 0,
-  "bandwidth": 2370000
+  "bandwidth": 2399000
  },
  "http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8": {
   "ts": 1794131564,
@@ -15846,8 +15846,8 @@
   "bandwidth": 0
  },
  "http://194.143.148.28:8080/Mir24/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "HlsWinkPlayer",
+  "ts": 1794175906,
+  "ua_key": "VLC",
   "height": 576,
   "bandwidth": 1760000
  },
@@ -15882,10 +15882,10 @@
   "bandwidth": 3490000
  },
  "http://46.53.200.153:7777/play/a01h/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "MXPlayer",
+  "ts": 1794175922,
+  "ua_key": "Safari_Mac",
   "height": 0,
-  "bandwidth": 2395000
+  "bandwidth": 2423000
  },
  "http://62.32.84.50:18000/play/a0lg/index.m3u8": {
   "ts": 1793922323,
@@ -15954,10 +15954,10 @@
   "bandwidth": 0
  },
  "http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "MXPlayer",
+  "ts": 1794175906,
+  "ua_key": "Safari_Mac",
   "height": 0,
-  "bandwidth": 2452000
+  "bandwidth": 2420000
  },
  "http://185.46.16.239:8000/VIP_Megahit": {
   "ts": 1794131540,
@@ -16026,10 +16026,10 @@
   "bandwidth": 0
  },
  "http://46.53.200.153:7777/play/Viju_Drama/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "MXPlayer",
+  "ts": 1794175906,
+  "ua_key": "VLC",
   "height": 0,
-  "bandwidth": 3853000
+  "bandwidth": 3753000
  },
  "http://3.hls.gd/ch1276/mono.m3u8?token=rl_bbeckffat.v2_Q5w23kX54ezlV6GtI9g3sGHEWmgJ48kKwDi9ybH_JoR-4Dgq3pCbYC1yvr5LXxAH8D8ZQnn_QjxjlBC3IEE": {
   "ts": 1794131506,
@@ -16098,10 +16098,10 @@
   "bandwidth": 0
  },
  "http://31.148.5.241/Viasat_Sport/index.m3u8": {
-  "ts": 1793960613,
-  "ua_key": "TiviMate",
+  "ts": 1794175906,
+  "ua_key": "okhttp",
   "height": 576,
-  "bandwidth": 4460000
+  "bandwidth": 3260000
  },
  "https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8": {
   "ts": 1794131540,
@@ -16110,10 +16110,10 @@
   "bandwidth": 4260000
  },
  "http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "MXPlayer",
+  "ts": 1794175906,
+  "ua_key": "Chrome_Win",
   "height": 0,
-  "bandwidth": 7710000
+  "bandwidth": 7739000
  },
  "http://flus1.stream4k.biz:2095/skazki_sssr_2/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
   "ts": 1793919914,
@@ -16140,10 +16140,10 @@
   "bandwidth": 0
  },
  "http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8": {
-  "ts": 1794175642,
+  "ts": 1794175906,
   "ua_key": "MXPlayer",
   "height": 0,
-  "bandwidth": 7998000
+  "bandwidth": 8056000
  },
  "http://3.hls.gd/ch395/mono.m3u8?token=rl_bbeckffat.v2_6vRqAVxuszxVmywhgAkzA0SRGB_AvUPmbReniPvdlZ9YsPzTqSavV81WQ5ENLH9IZkWQT4BpiSi2NnOZeQ": {
   "ts": 1794131566,
@@ -16170,10 +16170,10 @@
   "bandwidth": 0
  },
  "http://178.134.1.158:8081/vkus/index.m3u8": {
-  "ts": 1794175642,
+  "ts": 1794175906,
   "ua_key": "AndroidTV",
   "height": 576,
-  "bandwidth": 2320000
+  "bandwidth": 2200000
  },
  "https://uhd.bear-tv.net/000220_KinoMayak/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb": {
   "ts": 1793922291,
@@ -16188,10 +16188,10 @@
   "bandwidth": 1250000
  },
  "http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "MXPlayer",
+  "ts": 1794175906,
+  "ua_key": "Wink",
   "height": 0,
-  "bandwidth": 7991000
+  "bandwidth": 7857000
  },
  "https://bl.rutube.ru/livestream/1932f750f00f3a742a1d90c62d0076ad/index.m3u8?s=U5DSRBBg_pjtJorY1-iT7A&e=2081939599&scheme=https": {
   "ts": 1794131510,
@@ -16218,8 +16218,8 @@
   "bandwidth": 0
  },
  "http://88.212.15.50/live/test_vremya/playlist.m3u8": {
-  "ts": 1794175641,
-  "ua_key": "TiviMate",
+  "ts": 1794175905,
+  "ua_key": "OTT",
   "height": 0,
   "bandwidth": 0
  },
@@ -16254,10 +16254,10 @@
   "bandwidth": 0
  },
  "http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "MXPlayer",
+  "ts": 1794175906,
+  "ua_key": "Chrome_Win",
   "height": 0,
-  "bandwidth": 9089000
+  "bandwidth": 9366000
  },
  "https://stream2.somon.tv/vipserial/index.m3u8": {
   "ts": 1794131541,
@@ -16278,16 +16278,16 @@
   "bandwidth": 0
  },
  "http://46.53.200.153:7777/play/Viasat_Sport/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "MXPlayer",
+  "ts": 1794175906,
+  "ua_key": "HlsWinkPlayer",
   "height": 0,
-  "bandwidth": 4287000
+  "bandwidth": 4278000
  },
  "http://46.53.200.153:7777/play/a01l/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "MXPlayer",
+  "ts": 1794175906,
+  "ua_key": "VLC",
   "height": 0,
-  "bandwidth": 7911000
+  "bandwidth": 7889000
  },
  "http://62.32.84.50:18000/play/a0lx/index.m3u8": {
   "ts": 1793922400,
@@ -16380,10 +16380,10 @@
   "bandwidth": 1399923
  },
  "http://185.57.68.33/40/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Firefox",
+  "ts": 1794175906,
+  "ua_key": "okhttp",
   "height": 576,
-  "bandwidth": 1770000
+  "bandwidth": 1750000
  },
  "http://3.hls.gd/ch3355/mono.m3u8?token=rl_bbeckffat.v2_pQwY2PM2DhjSyrEeCsbmOnxYi_mzTYCGxJxIsfO1mHZRvEbdj9TUqwfeqdrG0Xy8YhkADVAriyDftGXyfjM": {
   "ts": 1794131517,
@@ -16542,10 +16542,10 @@
   "bandwidth": 0
  },
  "https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8": {
-  "ts": 1794175646,
-  "ua_key": "OTT",
+  "ts": 1794175911,
+  "ua_key": "okhttp",
   "height": 1080,
-  "bandwidth": 6470000
+  "bandwidth": 6460000
  },
  "http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8": {
   "ts": 1794131564,
@@ -16674,8 +16674,8 @@
   "bandwidth": 0
  },
  "https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8": {
-  "ts": 1794175645,
-  "ua_key": "VLC",
+  "ts": 1794175907,
+  "ua_key": "Chrome_Win",
   "height": 0,
   "bandwidth": 0
  },
@@ -16974,10 +16974,10 @@
   "bandwidth": 0
  },
  "http://46.53.200.153:7777/play/Bug_TV_HD/index.m3u8": {
-  "ts": 1793925795,
-  "ua_key": "MXPlayer",
+  "ts": 1794175906,
+  "ua_key": "AndroidTV",
   "height": 0,
-  "bandwidth": 439000
+  "bandwidth": 437000
  },
  "http://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8": {
   "ts": 1794131513,
@@ -17004,8 +17004,8 @@
   "bandwidth": 3128000
  },
  "https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8": {
-  "ts": 1794175645,
-  "ua_key": "Lavf",
+  "ts": 1794175906,
+  "ua_key": "okhttp",
   "height": 0,
   "bandwidth": 0
  },
@@ -17058,10 +17058,10 @@
   "bandwidth": 0
  },
  "http://46.53.200.153:7777/play/a00h/index.m3u8": {
-  "ts": 1793922284,
-  "ua_key": "Safari_Mac",
+  "ts": 1794175907,
+  "ua_key": "Chrome_Win",
   "height": 0,
-  "bandwidth": 412000
+  "bandwidth": 3164000
  },
  "http://stream-msk-06.ott.tricolor.tv/dtv/id513_MSKSG-PVR-1--Komediinoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw": {
   "ts": 1794131518,
@@ -17106,10 +17106,10 @@
   "bandwidth": 3500000
  },
  "https://contact.gostreaming.tv/Con-11/index.m3u8": {
-  "ts": 1794175646,
-  "ua_key": "VLC",
+  "ts": 1794175909,
+  "ua_key": "okhttp",
   "height": 1080,
-  "bandwidth": 3930000
+  "bandwidth": 3770000
  },
  "http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8": {
   "ts": 1794131505,
@@ -17184,8 +17184,8 @@
   "bandwidth": 6280000
  },
  "https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8": {
-  "ts": 1794175646,
-  "ua_key": "Kodi",
+  "ts": 1794175907,
+  "ua_key": "Wink",
   "height": 576,
   "bandwidth": 3784000
  },
@@ -17304,8 +17304,8 @@
   "bandwidth": 7612000
  },
  "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8": {
-  "ts": 1794175646,
-  "ua_key": "Lavf",
+  "ts": 1794175908,
+  "ua_key": "AndroidTV",
   "height": 0,
   "bandwidth": 0
  },
@@ -17316,8 +17316,8 @@
   "bandwidth": 30000
  },
  "https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8": {
-  "ts": 1794175645,
-  "ua_key": "Kodi",
+  "ts": 1794175908,
+  "ua_key": "okhttp",
   "height": 1080,
   "bandwidth": 3374800
  },
@@ -17412,14 +17412,14 @@
   "bandwidth": 6800000
  },
  "http://rtmp.one.by:1300": {
-  "ts": 1794175645,
-  "ua_key": "Safari_Mac",
+  "ts": 1794175908,
+  "ua_key": "AndroidTV",
   "height": 0,
   "bandwidth": 0
  },
  "https://dash4.antik.sk/live/test_uatv/playlist.m3u8": {
-  "ts": 1794175645,
-  "ua_key": "ExoPlayer",
+  "ts": 1794175908,
+  "ua_key": "Kodi",
   "height": 0,
   "bandwidth": 0
  },
@@ -17436,8 +17436,8 @@
   "bandwidth": 30000
  },
  "https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8": {
-  "ts": 1794175645,
-  "ua_key": "HlsWinkPlayer",
+  "ts": 1794175909,
+  "ua_key": "OTT",
   "height": 720,
   "bandwidth": 3782415
  },
@@ -17490,10 +17490,10 @@
   "bandwidth": 2500000
  },
  "http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8": {
-  "ts": 1794044235,
-  "ua_key": "OTT",
+  "ts": 1794175909,
+  "ua_key": "VLC",
   "height": 576,
-  "bandwidth": 950000
+  "bandwidth": 1140000
  },
  "https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=KgUQY8NuGlqWz49RmBMtcA&e=2081939578&scheme=https": {
   "ts": 1794131513,
@@ -17508,8 +17508,8 @@
   "bandwidth": 2500000
  },
  "https://video.govoritmoskva.ru/rufm/index.m3u8": {
-  "ts": 1794175646,
-  "ua_key": "TiviMate",
+  "ts": 1794175909,
+  "ua_key": "VLC",
   "height": 720,
   "bandwidth": 1600000
  },
@@ -17538,8 +17538,8 @@
   "bandwidth": 0
  },
  "https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8": {
-  "ts": 1794175645,
-  "ua_key": "SmartTV",
+  "ts": 1794175907,
+  "ua_key": "Wink",
   "height": 0,
   "bandwidth": 0
  },
@@ -17586,8 +17586,8 @@
   "bandwidth": 0
  },
  "https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8": {
-  "ts": 1794175646,
-  "ua_key": "Lavf",
+  "ts": 1794175909,
+  "ua_key": "VLC",
   "height": 1080,
   "bandwidth": 4963014
  },
@@ -17664,10 +17664,10 @@
   "bandwidth": 16890000
  },
  "https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8": {
-  "ts": 1794175647,
+  "ts": 1794175912,
   "ua_key": "Lavf",
   "height": 1080,
-  "bandwidth": 2540000
+  "bandwidth": 2900000
  },
  "http://pl.online24.pm/play/50044/F6E1DD42544DD10/video.m3u8": {
   "ts": 1794131555,
@@ -17898,10 +17898,10 @@
   "bandwidth": 3300000
  },
  "https://sb.err.ee/live/etvpluss.m3u8": {
-  "ts": 1794175649,
+  "ts": 1794175913,
   "ua_key": "MXPlayer",
   "height": 0,
-  "bandwidth": 1500000
+  "bandwidth": 800000
  },
  "http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8": {
   "ts": 1794175646,
@@ -17988,10 +17988,10 @@
   "bandwidth": 993091
  },
  "http://89.218.30.37/ktklive/live.hq/playlist.m3u8": {
-  "ts": 1794175643,
-  "ua_key": "Kodi",
+  "ts": 1794175906,
+  "ua_key": "Lavf",
   "height": 720,
-  "bandwidth": 3263228
+  "bandwidth": 3263379
  },
  "http://www.gorodfm.ru/hls/test.m3u8": {
   "ts": 1794131538,
@@ -18030,7 +18030,7 @@
   "bandwidth": 2410000
  },
  "https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8": {
-  "ts": 1794175646,
+  "ts": 1794175907,
   "ua_key": "Kodi",
   "height": 576,
   "bandwidth": 3720000
@@ -18612,10 +18612,10 @@
   "bandwidth": 10347000
  },
  "http://176.118.197.101/1HD/index.m3u8": {
-  "ts": 1794175642,
+  "ts": 1794175906,
   "ua_key": "OTT",
   "height": 1080,
-  "bandwidth": 2330000
+  "bandwidth": 2420000
  },
  "http://bde.online24.pm/play/7995/855C055F42798FB/video.m3u8": {
   "ts": 1794131528,
@@ -19092,10 +19092,10 @@
   "bandwidth": 298178
  },
  "http://176.118.197.101/Illuzion+/index.m3u8": {
-  "ts": 1794175642,
+  "ts": 1794175906,
   "ua_key": "OTT",
   "height": 576,
-  "bandwidth": 1690000
+  "bandwidth": 1760000
  },
  "http://pl.online24.pm/play/50049/F6E1DD42544DD10/video.m3u8": {
   "ts": 1794131556,
@@ -19140,8 +19140,8 @@
   "bandwidth": 1590000
  },
  "https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8": {
-  "ts": 1794175645,
-  "ua_key": "Lavf",
+  "ts": 1794175907,
+  "ua_key": "okhttp",
   "height": 1080,
   "bandwidth": 5530000
  },
@@ -19224,10 +19224,10 @@
   "bandwidth": 6800000
  },
  "http://188.113.190.12/329/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Lavf",
+  "ts": 1794175905,
+  "ua_key": "HlsWinkPlayer",
   "height": 576,
-  "bandwidth": 2590000
+  "bandwidth": 2460000
  },
  "http://3.hls.gd/ch3911/mono.m3u8?token=rl_bbeckffat.v2_Lp28ARUK7P-GzQqhz1ZyLDsnsreLprDxg1NIeAx27f8-RTiymTPEVlz23BB4H4fjq3mqiDQPAlGmM5QevWU": {
   "ts": 1794131500,
@@ -19512,8 +19512,8 @@
   "bandwidth": 0
  },
  "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8": {
-  "ts": 1794175645,
-  "ua_key": "Lavf",
+  "ts": 1794175907,
+  "ua_key": "Kodi",
   "height": 720,
   "bandwidth": 4250000
  },
@@ -19560,14 +19560,14 @@
   "bandwidth": 6800000
  },
  "http://176.118.197.101/KHL/index.m3u8": {
-  "ts": 1794175642,
+  "ts": 1794175906,
   "ua_key": "OTT",
   "height": 576,
-  "bandwidth": 4980000
+  "bandwidth": 4060000
  },
  "http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8": {
-  "ts": 1793919969,
-  "ua_key": "Safari_Mac",
+  "ts": 1794175905,
+  "ua_key": "Chrome_Win",
   "height": 0,
   "bandwidth": 0
  },
@@ -19650,10 +19650,10 @@
   "bandwidth": 6800000
  },
  "http://176.118.197.101/KinoTvHD/playlist.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "OTT",
+  "ts": 1794175906,
+  "ua_key": "VLC",
   "height": 1080,
-  "bandwidth": 6310000
+  "bandwidth": 6410000
  },
  "https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=k1UNcutEXItTgOgKpBfp3g&e=2066519932&scheme=https": {
   "ts": 1794131498,
@@ -19716,10 +19716,10 @@
   "bandwidth": 6800000
  },
  "https://istoki.tv/live/stream1/playlist.m3u8": {
-  "ts": 1793960603,
-  "ua_key": "okhttp",
+  "ts": 1794175907,
+  "ua_key": "Safari_Mac",
   "height": 576,
-  "bandwidth": 2582819
+  "bandwidth": 1648684
  },
  "http://3.hls.gd/ch3764/mono.m3u8?token=rl_bbeckffat.v2_lgCfcCIuvU57H8r-v2JIIKJz5cAEE3Hj9FbYygAvtem4X0jSZaGxQnqrda2pNGoNblDH3dTmnMGtoKVe7-o": {
   "ts": 1793960659,
@@ -19728,10 +19728,10 @@
   "bandwidth": 0
  },
  "http://flussonic.linkintel.ru/kino-tv/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Wink",
+  "ts": 1794175906,
+  "ua_key": "Lavf",
   "height": 1080,
-  "bandwidth": 6180000
+  "bandwidth": 6470000
  },
  "https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=-Ge3KoY0yqREXgiHvRO2ZQ&e=2069500952&scheme=https": {
   "ts": 1794131507,
@@ -19800,10 +19800,10 @@
   "bandwidth": 298178
  },
  "http://93.170.254.17/Kinomiks/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Kodi",
+  "ts": 1794175911,
+  "ua_key": "Lavf",
   "height": 576,
-  "bandwidth": 2750000
+  "bandwidth": 3060000
  },
  "https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8": {
   "ts": 1794131512,
@@ -19866,14 +19866,14 @@
   "bandwidth": 0
  },
  "https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv": {
-  "ts": 1794175643,
-  "ua_key": "Chrome_Win",
+  "ts": 1794175911,
+  "ua_key": "VLC",
   "height": 0,
   "bandwidth": 0
  },
  "https://cdn.ntv.ru/th_style/playlist.m3u8": {
-  "ts": 1794175645,
-  "ua_key": "Chrome_Win",
+  "ts": 1794175908,
+  "ua_key": "VLC",
   "height": 576,
   "bandwidth": 1760000
  },
@@ -19902,10 +19902,10 @@
   "bandwidth": 0
  },
  "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Lavf",
+  "ts": 1794175906,
+  "ua_key": "okhttp",
   "height": 576,
-  "bandwidth": 3602036
+  "bandwidth": 3616216
  },
  "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0": {
   "ts": 1794131534,
@@ -19932,7 +19932,7 @@
   "bandwidth": 0
  },
  "https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8": {
-  "ts": 1794175645,
+  "ts": 1794175907,
   "ua_key": "Lavf",
   "height": 720,
   "bandwidth": 5000000
@@ -19980,10 +19980,10 @@
   "bandwidth": 0
  },
  "http://176.118.197.101/Komediya/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "OTT",
+  "ts": 1794175906,
+  "ua_key": "TiviMate",
   "height": 576,
-  "bandwidth": 2590000
+  "bandwidth": 2560000
  },
  "http://pl.online24.pm/play/50098/F6E1DD42544DD10/video.m3u8": {
   "ts": 1793922360,
@@ -20004,10 +20004,10 @@
   "bandwidth": 6580000
  },
  "https://live-3.otcnet.ru/congresstv/index.m3u8": {
-  "ts": 1793925748,
-  "ua_key": "Firefox",
+  "ts": 1794175907,
+  "ua_key": "HlsWinkPlayer",
   "height": 1080,
-  "bandwidth": 7470000
+  "bandwidth": 7450000
  },
  "http://bde.online24.pm/play/8847/855C055F42798FB/video.m3u8": {
   "ts": 1793925764,
@@ -20166,8 +20166,8 @@
   "bandwidth": 4000000
  },
  "https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv": {
-  "ts": 1794175643,
-  "ua_key": "Chrome_Win",
+  "ts": 1794175906,
+  "ua_key": "VLC",
   "height": 0,
   "bandwidth": 0
  },
@@ -20268,8 +20268,8 @@
   "bandwidth": 0
  },
  "http://178.124.179.122:8080/KVN-TV/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Lavf",
+  "ts": 1794175906,
+  "ua_key": "okhttp",
   "height": 576,
   "bandwidth": 3710000
  },
@@ -20532,10 +20532,10 @@
   "bandwidth": 6800000
  },
  "https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8": {
-  "ts": 1794175649,
-  "ua_key": "okhttp",
-  "height": 1080,
-  "bandwidth": 5160000
+  "ts": 1794175913,
+  "ua_key": "Safari_Mac",
+  "height": 720,
+  "bandwidth": 1460000
  },
  "http://video03.logicahost.com.br/rssports4/rssports4/playlist.m3u8": {
   "ts": 1794131536,
@@ -20556,10 +20556,10 @@
   "bandwidth": 0
  },
  "https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8": {
-  "ts": 1794175646,
-  "ua_key": "Lavf",
+  "ts": 1794175909,
+  "ua_key": "Kodi",
   "height": 720,
-  "bandwidth": 3275511
+  "bandwidth": 3328830
  },
  "https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=QVPvtJzh4etbV2-GgF8gUw&e=2066519829&scheme=https": {
   "ts": 1794131509,
@@ -20634,10 +20634,10 @@
   "bandwidth": 2980190
  },
  "https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8": {
-  "ts": 1794175646,
+  "ts": 1794175908,
   "ua_key": "TiviMate",
   "height": 960,
-  "bandwidth": 1910000
+  "bandwidth": 1850000
  },
  "http://3.hls.gd/ch1301/mono.m3u8?token=rl_bbeckffat.v2_exzEBf96ji5lbSAM8j0bJ275CMafQ5mxRu8X4uxZT3o-oDqQRGPFsFRaRZb2JJ87N1SvXPOzd2FAMOyqdIs": {
   "ts": 1794131547,
@@ -20712,8 +20712,8 @@
   "bandwidth": 0
  },
  "http://flussonic.linkintel.ru/mama/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Wink",
+  "ts": 1794175906,
+  "ua_key": "OTT",
   "height": 576,
   "bandwidth": 2660000
  },
@@ -20772,16 +20772,16 @@
   "bandwidth": 0
  },
  "https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8": {
-  "ts": 1794175645,
-  "ua_key": "Kodi",
+  "ts": 1794175907,
+  "ua_key": "HlsWinkPlayer",
   "height": 576,
-  "bandwidth": 3880000
+  "bandwidth": 3630000
  },
  "https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8": {
-  "ts": 1794175646,
-  "ua_key": "Lavf",
+  "ts": 1794175909,
+  "ua_key": "MXPlayer",
   "height": 720,
-  "bandwidth": 4280000
+  "bandwidth": 4350000
  },
  "https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8": {
   "ts": 1794131504,
@@ -20838,10 +20838,10 @@
   "bandwidth": 0
  },
  "http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "MXPlayer",
+  "ts": 1794175906,
+  "ua_key": "okhttp",
   "height": 576,
-  "bandwidth": 4970000
+  "bandwidth": 5120000
  },
  "https://s07.watcher.uz/175/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8": {
   "ts": 1794131494,
@@ -20886,8 +20886,8 @@
   "bandwidth": 0
  },
  "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8": {
-  "ts": 1794175647,
-  "ua_key": "Kodi",
+  "ts": 1794175910,
+  "ua_key": "okhttp",
   "height": 1080,
   "bandwidth": 7273216
  },
@@ -21000,14 +21000,14 @@
   "bandwidth": 0
  },
  "http://flussonic.linkintel.ru/match/index.m3u8": {
-  "ts": 1794175643,
-  "ua_key": "Wink",
+  "ts": 1794175906,
+  "ua_key": "Lavf",
   "height": 576,
-  "bandwidth": 3950000
+  "bandwidth": 3900000
  },
  "http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8": {
-  "ts": 1794175649,
-  "ua_key": "SmartTV",
+  "ts": 1794175914,
+  "ua_key": "okhttp",
   "height": 0,
   "bandwidth": 5242880
  },
@@ -21096,10 +21096,10 @@
   "bandwidth": 6800000
  },
  "http://45.132.87.69:8080/match/index.m3u8": {
-  "ts": 1794175643,
-  "ua_key": "SmartTV",
+  "ts": 1794175906,
+  "ua_key": "Chrome_Win",
   "height": 576,
-  "bandwidth": 1850000
+  "bandwidth": 3530000
  },
  "https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8?token=test": {
   "ts": 1794131487,
@@ -21138,10 +21138,10 @@
   "bandwidth": 4550000
  },
  "http://31.148.5.241/kanal_3/index.m3u8": {
-  "ts": 1793960600,
-  "ua_key": "TiviMate",
+  "ts": 1794175906,
+  "ua_key": "SmartTV",
   "height": 1080,
-  "bandwidth": 6140000
+  "bandwidth": 8040000
  },
  "https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8": {
   "ts": 1794175648,
@@ -21252,10 +21252,10 @@
   "bandwidth": 0
  },
  "http://45.153.24.78/MIR/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "HlsWinkPlayer",
+  "ts": 1794175906,
+  "ua_key": "Firefox",
   "height": 576,
-  "bandwidth": 1520000
+  "bandwidth": 1490000
  },
  "http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8": {
   "ts": 1794131496,
@@ -21282,16 +21282,16 @@
   "bandwidth": 0
  },
  "http://31.148.5.241/kanal_18/index.m3u8": {
-  "ts": 1793960601,
-  "ua_key": "TiviMate",
+  "ts": 1794175906,
+  "ua_key": "VLC",
   "height": 576,
-  "bandwidth": 3100000
+  "bandwidth": 3180000
  },
  "http://176.118.197.101/MirSeriala/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "OTT",
+  "ts": 1794175906,
+  "ua_key": "Safari_Mac",
   "height": 576,
-  "bandwidth": 1490000
+  "bandwidth": 2710000
  },
  "https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8": {
   "ts": 1794131502,
@@ -21360,8 +21360,8 @@
   "bandwidth": 30000
  },
  "https://cdn4.skygo.mn/live/disk1/MIR/HLSv3-FTA/MIR.m3u8": {
-  "ts": 1794175645,
-  "ua_key": "HlsWinkPlayer",
+  "ts": 1794175909,
+  "ua_key": "okhttp",
   "height": 576,
   "bandwidth": 1589067
  },
@@ -21912,8 +21912,8 @@
   "bandwidth": 0
  },
  "https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8": {
-  "ts": 1794175647,
-  "ua_key": "AndroidTV",
+  "ts": 1794175909,
+  "ua_key": "okhttp",
   "height": 1080,
   "bandwidth": 5389207
  },
@@ -22086,10 +22086,10 @@
   "bandwidth": 2850000
  },
  "http://31.148.5.241/kanal_20/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "TiviMate",
+  "ts": 1794175906,
+  "ua_key": "okhttp",
   "height": 576,
-  "bandwidth": 2770000
+  "bandwidth": 3120000
  },
  "http://188.237.212.16:8888/live/cameraFeed.m3u8": {
   "ts": 1794131507,
@@ -22176,8 +22176,8 @@
   "bandwidth": 6800000
  },
  "http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8": {
-  "ts": 1794175641,
-  "ua_key": "TiviMate",
+  "ts": 1794175905,
+  "ua_key": "okhttp",
   "height": 0,
   "bandwidth": 0
  },
@@ -22368,10 +22368,10 @@
   "bandwidth": 2350000
  },
  "http://185.23.80.23:8080/NANO_HD/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "MXPlayer",
+  "ts": 1794175906,
+  "ua_key": "okhttp",
   "height": 1080,
-  "bandwidth": 3150000
+  "bandwidth": 3010000
  },
  "http://178.134.1.158:8081/nano/index.m3u8": {
   "ts": 1794131487,
@@ -22824,10 +22824,10 @@
   "bandwidth": 6128079
  },
  "http://176.118.197.101/Nostalgiya/index.m3u8": {
-  "ts": 1794175643,
-  "ua_key": "OTT",
+  "ts": 1794175906,
+  "ua_key": "Firefox",
   "height": 576,
-  "bandwidth": 910000
+  "bandwidth": 1030000
  },
  "http://185.177.104.228:8598/Delta-Music_HD(+0)/index.m3u8": {
   "ts": 1793925831,
@@ -22884,8 +22884,8 @@
   "bandwidth": 6324320
  },
  "http://flussonic.linkintel.ru/Mult/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "Wink",
+  "ts": 1794175906,
+  "ua_key": "AndroidTV",
   "height": 576,
   "bandwidth": 3300000
  },
@@ -23454,8 +23454,8 @@
   "bandwidth": 0
  },
  "https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8": {
-  "ts": 1794175644,
-  "ua_key": "HlsWinkPlayer",
+  "ts": 1794175908,
+  "ua_key": "OTT",
   "height": 720,
   "bandwidth": 2770000
  },
@@ -23538,8 +23538,8 @@
   "bandwidth": 0
  },
  "https://api.alpaca.t62a.com/hls/9110/stream0.m3u8": {
-  "ts": 1794175646,
-  "ua_key": "okhttp",
+  "ts": 1794175908,
+  "ua_key": "AndroidTV",
   "height": 0,
   "bandwidth": 0
  },
@@ -25164,10 +25164,10 @@
   "bandwidth": 30000
  },
  "http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8": {
-  "ts": 1794175642,
-  "ua_key": "MXPlayer",
+  "ts": 1794175906,
+  "ua_key": "VLC",
   "height": 0,
-  "bandwidth": 10997000
+  "bandwidth": 10807000
  },
  "http://62.32.84.50:18000/play/a0m2/index.m3u8": {
   "ts": 1793922400,
@@ -25498,5 +25498,29 @@
   "ua_key": "OTT",
   "height": 576,
   "bandwidth": 2096000
+ },
+ "http://46.53.200.153:7777/play/Live_music_channel/index.m3u8": {
+  "ts": 1794175906,
+  "ua_key": "MXPlayer",
+  "height": 0,
+  "bandwidth": 7883000
+ },
+ "https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8": {
+  "ts": 1794175907,
+  "ua_key": "MXPlayer",
+  "height": 1080,
+  "bandwidth": 7390000
+ },
+ "http://31.131.141.195:8000/play/a006/index.m3u8": {
+  "ts": 1794175908,
+  "ua_key": "VLC",
+  "height": 0,
+  "bandwidth": 3071000
+ },
+ "https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8": {
+  "ts": 1794175909,
+  "ua_key": "AndroidTV",
+  "height": 1080,
+  "bandwidth": 1252979
  }
 }

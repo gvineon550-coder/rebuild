@@ -71,6 +71,7 @@
 <channel id="kvartal-tv"><display-name /><display-name /><display-name /><display-name /><display-name /><icon /></channel>
 <channel id="kvn-tv"><display-name /><display-name /><icon /></channel>
 <channel id="kxl"><display-name /><display-name /><display-name /><icon /></channel>
+<channel id="kxl-hd"><display-name /><display-name /><icon /></channel>
 <channel id="lapki-live"><display-name /><icon /></channel>
 <channel id="ldpr-tv"><display-name /><icon /></channel>
 <channel id="legendarny24"><display-name /><display-name /><icon /></channel>
@@ -21908,6 +21909,176 @@
 <programme start="20261109132500 +0300" stop="20261109142500 +0300" channel="kxl"><title /></programme>
 <programme start="20261109142500 +0300" stop="20261109164500 +0300" channel="kxl"><title /></programme>
 <programme start="20261109164500 +0300" stop="20261109190500 +0300" channel="kxl"><title /></programme>
+<programme start="20261101020000 +0300" stop="20261101025000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261101025000 +0300" stop="20261101030500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261101030500 +0300" stop="20261101035000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261101035000 +0300" stop="20261101060000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261101060000 +0300" stop="20261101081000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261101081000 +0300" stop="20261101081500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261101081500 +0300" stop="20261101083000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261101083000 +0300" stop="20261101084500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261101084500 +0300" stop="20261101093500 +0300" channel="kxl-hd"><title /></programme><programme start="20261101093500 +0300" stop="20261101095000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261101095000 +0300" stop="20261101123500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261101123500 +0300" stop="20261101130000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261101130000 +0300" stop="20261101135000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261101135000 +0300" stop="20261101163500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261101163500 +0300" stop="20261101165000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261101165000 +0300" stop="20261101194000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261101194000 +0300" stop="20261101201500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261101201500 +0300" stop="20261101222500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261101222500 +0300" stop="20261101224000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261101224000 +0300" stop="20261101234000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261102060000 +0300" stop="20261102081000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261102081000 +0300" stop="20261102102000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261102102000 +0300" stop="20261102102500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261102102500 +0300" stop="20261102110000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261102110000 +0300" stop="20261102111500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261102111500 +0300" stop="20261102133000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261102133000 +0300" stop="20261102135500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261102135500 +0300" stop="20261102160500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261102160500 +0300" stop="20261102162000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261102162000 +0300" stop="20261102183500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261102183500 +0300" stop="20261102185000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261102185000 +0300" stop="20261102213000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261102213000 +0300" stop="20261102214500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261102214500 +0300" stop="20261102220000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261102220000 +0300" stop="20261103001500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261103001500 +0300" stop="20261103005000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261103005000 +0300" stop="20261103030000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261103030000 +0300" stop="20261103031500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261103031500 +0300" stop="20261103033000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261103033000 +0300" stop="20261103054000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261103054000 +0300" stop="20261103060000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261103060000 +0300" stop="20261103082500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261103082500 +0300" stop="20261103104000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261103104000 +0300" stop="20261103104500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261103104500 +0300" stop="20261103110000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261103110000 +0300" stop="20261103111500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261103111500 +0300" stop="20261103120000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261103120000 +0300" stop="20261103123500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261103123500 +0300" stop="20261103125000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261103125000 +0300" stop="20261103150500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261103150500 +0300" stop="20261103155000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261103155000 +0300" stop="20261103163500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261103163500 +0300" stop="20261103165000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261103165000 +0300" stop="20261103192000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261103192000 +0300" stop="20261103220000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261103220000 +0300" stop="20261103222000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261103222000 +0300" stop="20261103230500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261103230500 +0300" stop="20261104012000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261104012000 +0300" stop="20261104033000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261104033000 +0300" stop="20261104035000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261104035000 +0300" stop="20261104060000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261104060000 +0300" stop="20261104081500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261104081500 +0300" stop="20261104085500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261104085500 +0300" stop="20261104091000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261104091000 +0300" stop="20261104091500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261104091500 +0300" stop="20261104093500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261104093500 +0300" stop="20261104095000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261104095000 +0300" stop="20261104123500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261104123500 +0300" stop="20261104125000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261104125000 +0300" stop="20261104130500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261104130500 +0300" stop="20261104135000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261104135000 +0300" stop="20261104163500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261104163500 +0300" stop="20261104165000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261104165000 +0300" stop="20261104193000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261104193000 +0300" stop="20261104195500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261104195500 +0300" stop="20261104221000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261104221000 +0300" stop="20261104222500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261104222500 +0300" stop="20261105003500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261105003500 +0300" stop="20261105011000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261105011000 +0300" stop="20261105013500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261105013500 +0300" stop="20261105034500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261105034500 +0300" stop="20261105060000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261105060000 +0300" stop="20261105081500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261105081500 +0300" stop="20261105103000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261105103000 +0300" stop="20261105103500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261105103500 +0300" stop="20261105110000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261105110000 +0300" stop="20261105111500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261105111500 +0300" stop="20261105133000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261105133000 +0300" stop="20261105135000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261105135000 +0300" stop="20261105160500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261105160500 +0300" stop="20261105162000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261105162000 +0300" stop="20261105190000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261105190000 +0300" stop="20261105192000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261105192000 +0300" stop="20261105220000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261105220000 +0300" stop="20261105222000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261105222000 +0300" stop="20261105225500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261105225500 +0300" stop="20261106011000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261106011000 +0300" stop="20261106032500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261106032500 +0300" stop="20261106034500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261106034500 +0300" stop="20261106060000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261106060000 +0300" stop="20261106081500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261106081500 +0300" stop="20261106103500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261106103500 +0300" stop="20261106104000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261106104000 +0300" stop="20261106110000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261106110000 +0300" stop="20261106111500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261106111500 +0300" stop="20261106113500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261106113500 +0300" stop="20261106115000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261106115000 +0300" stop="20261106143000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261106143000 +0300" stop="20261106144500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261106144500 +0300" stop="20261106153500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261106153500 +0300" stop="20261106155000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261106155000 +0300" stop="20261106163500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261106163500 +0300" stop="20261106165000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261106165000 +0300" stop="20261106192000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261106192000 +0300" stop="20261106220000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261106220000 +0300" stop="20261106223000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261106223000 +0300" stop="20261107004500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261107004500 +0300" stop="20261107011000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261107011000 +0300" stop="20261107032000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261107032000 +0300" stop="20261107035000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261107035000 +0300" stop="20261107060000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261107060000 +0300" stop="20261107081500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261107081500 +0300" stop="20261107090500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261107090500 +0300" stop="20261107091000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261107091000 +0300" stop="20261107094000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261107094000 +0300" stop="20261107095500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261107095500 +0300" stop="20261107122000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261107122000 +0300" stop="20261107123500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261107123500 +0300" stop="20261107125000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261107125000 +0300" stop="20261107135000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261107135000 +0300" stop="20261107163500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261107163500 +0300" stop="20261107165000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261107165000 +0300" stop="20261107193000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261107193000 +0300" stop="20261107194500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261107194500 +0300" stop="20261107203500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261107203500 +0300" stop="20261107225000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261107225000 +0300" stop="20261107233500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261107233500 +0300" stop="20261108015000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261108015000 +0300" stop="20261108020500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261108020500 +0300" stop="20261108030000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261108030000 +0300" stop="20261108051000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261108051000 +0300" stop="20261108060000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261108060000 +0300" stop="20261108081500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261108081500 +0300" stop="20261108083000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261108083000 +0300" stop="20261108091500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261108091500 +0300" stop="20261108092000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261108092000 +0300" stop="20261108093500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261108093500 +0300" stop="20261108095000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261108095000 +0300" stop="20261108123000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261108123000 +0300" stop="20261108132500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261108132500 +0300" stop="20261108135000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261108135000 +0300" stop="20261108163500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261108163500 +0300" stop="20261108165000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261108165000 +0300" stop="20261108193000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261108193000 +0300" stop="20261108195000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261108195000 +0300" stop="20261108220500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261108220500 +0300" stop="20261108230000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261108230000 +0300" stop="20261109011500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261109011500 +0300" stop="20261109013500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261109013500 +0300" stop="20261109034500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261109034500 +0300" stop="20261109060000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261109060000 +0300" stop="20261109081000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261109081000 +0300" stop="20261109102000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261109102000 +0300" stop="20261109102500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261109102500 +0300" stop="20261109110000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261109110000 +0300" stop="20261109111500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261109111500 +0300" stop="20261109133000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261109133000 +0300" stop="20261109135500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261109135500 +0300" stop="20261109160500 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261109160500 +0300" stop="20261109162000 +0300" channel="kxl-hd"><title /></programme>
+<programme start="20261109162000 +0300" stop="20261109183500 +0300" channel="kxl-hd"><title /></programme>
 <programme start="20261101000000 +0300" stop="20261101010000 +0300" channel="lapki-live"><title /></programme>
 <programme start="20261101010000 +0300" stop="20261101010500 +0300" channel="lapki-live"><title /></programme>
 <programme start="20261101010500 +0300" stop="20261101015000 +0300" channel="lapki-live"><title /></programme>
@@ -64545,6 +64716,8 @@
 	<display-name /><display-name /><display-name /><display-name /><display-name /><icon /></channel>
 <channel id="2278">
 	<display-name /><display-name /><icon /></channel>
+<channel id="5825">
+	<display-name /><display-name /><icon /></channel>
 <channel id="4830">
 	<display-name /><display-name /><icon /></channel>
 <channel id="11782">
@@ -69101,6 +69274,535 @@
 	<title /><rating /></programme>
 <programme start="20261115224000 +0300" stop="20261116034000 +0300" channel="2278">
 	<title /><rating /></programme>
+<programme start="20261101215500 +0300" stop="20261102010000 +0300" channel="5825">
+	<title /></programme>
+<programme start="20261102010000 +0300" stop="20261102020000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102020000 +0300" stop="20261102025500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102025500 +0300" stop="20261102030000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102030000 +0300" stop="20261102035500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102035500 +0300" stop="20261102040000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102040000 +0300" stop="20261102045500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102045500 +0300" stop="20261102050000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102050000 +0300" stop="20261102060000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102060000 +0300" stop="20261102070000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102070000 +0300" stop="20261102075500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102075500 +0300" stop="20261102080000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102080000 +0300" stop="20261102090000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102090000 +0300" stop="20261102100000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102100000 +0300" stop="20261102110000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102110000 +0300" stop="20261102115500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102115500 +0300" stop="20261102120000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102120000 +0300" stop="20261102130000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102130000 +0300" stop="20261102140000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102140000 +0300" stop="20261102150000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102150000 +0300" stop="20261102153000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102153000 +0300" stop="20261102154000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102154000 +0300" stop="20261102160000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102160000 +0300" stop="20261102165000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102165000 +0300" stop="20261102170000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102170000 +0300" stop="20261102175000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102175000 +0300" stop="20261102180000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102180000 +0300" stop="20261102181500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102181500 +0300" stop="20261102190000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102190000 +0300" stop="20261102195000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102195000 +0300" stop="20261102200000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102200000 +0300" stop="20261102201500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102201500 +0300" stop="20261102210000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102210000 +0300" stop="20261102215500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102215500 +0300" stop="20261102220000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261102220000 +0300" stop="20261103010000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103010000 +0300" stop="20261103020000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103020000 +0300" stop="20261103025500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103025500 +0300" stop="20261103030000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103030000 +0300" stop="20261103035500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103035500 +0300" stop="20261103040000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103040000 +0300" stop="20261103045500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103045500 +0300" stop="20261103050000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103050000 +0300" stop="20261103060000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103060000 +0300" stop="20261103070000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103070000 +0300" stop="20261103075500 +0300" channel="5825">
+	<title /><desc /></programme><programme start="20261103075500 +0300" stop="20261103080000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103080000 +0300" stop="20261103090000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103090000 +0300" stop="20261103100000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103100000 +0300" stop="20261103110000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103110000 +0300" stop="20261103115500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103115500 +0300" stop="20261103120000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103120000 +0300" stop="20261103130000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103130000 +0300" stop="20261103140000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103140000 +0300" stop="20261103141500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103141500 +0300" stop="20261103150000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103150000 +0300" stop="20261103153000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103153000 +0300" stop="20261103155000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103155000 +0300" stop="20261103160000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103160000 +0300" stop="20261103165000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103165000 +0300" stop="20261103170000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103170000 +0300" stop="20261103175000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103175000 +0300" stop="20261103180000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103180000 +0300" stop="20261103183000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103183000 +0300" stop="20261103190000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103190000 +0300" stop="20261103195000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103195000 +0300" stop="20261103200000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103200000 +0300" stop="20261103203000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103203000 +0300" stop="20261103210000 +0300" channel="5825">
+	<title /><desc /></programme><programme start="20261103210000 +0300" stop="20261103215500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103215500 +0300" stop="20261103220000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261103220000 +0300" stop="20261104010000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104010000 +0300" stop="20261104020000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104020000 +0300" stop="20261104025500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104025500 +0300" stop="20261104030000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104030000 +0300" stop="20261104035500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104035500 +0300" stop="20261104040000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104040000 +0300" stop="20261104045500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104045500 +0300" stop="20261104050000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104050000 +0300" stop="20261104060000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104060000 +0300" stop="20261104070000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104070000 +0300" stop="20261104075500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104075500 +0300" stop="20261104080000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104080000 +0300" stop="20261104090000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104090000 +0300" stop="20261104100000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104100000 +0300" stop="20261104110000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104110000 +0300" stop="20261104115500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104115500 +0300" stop="20261104120000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104120000 +0300" stop="20261104130000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104130000 +0300" stop="20261104140000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104140000 +0300" stop="20261104143000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104143000 +0300" stop="20261104153000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104153000 +0300" stop="20261104155000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104155000 +0300" stop="20261104160000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104160000 +0300" stop="20261104165000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104165000 +0300" stop="20261104170000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104170000 +0300" stop="20261104175000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104175000 +0300" stop="20261104180000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104180000 +0300" stop="20261104183000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104183000 +0300" stop="20261104190000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104190000 +0300" stop="20261104195000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104195000 +0300" stop="20261104200000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104200000 +0300" stop="20261104210000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104210000 +0300" stop="20261104215500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104215500 +0300" stop="20261104220000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261104220000 +0300" stop="20261105010000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105010000 +0300" stop="20261105020000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105020000 +0300" stop="20261105025500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105025500 +0300" stop="20261105030000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105030000 +0300" stop="20261105035500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105035500 +0300" stop="20261105040000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105040000 +0300" stop="20261105045500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105045500 +0300" stop="20261105050000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105050000 +0300" stop="20261105060000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105060000 +0300" stop="20261105070000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105070000 +0300" stop="20261105075500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105075500 +0300" stop="20261105080000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105080000 +0300" stop="20261105090000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105090000 +0300" stop="20261105100000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105100000 +0300" stop="20261105110000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105110000 +0300" stop="20261105115500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105115500 +0300" stop="20261105120000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105120000 +0300" stop="20261105130000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105130000 +0300" stop="20261105140000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105140000 +0300" stop="20261105143000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105143000 +0300" stop="20261105153000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105153000 +0300" stop="20261105155000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105155000 +0300" stop="20261105160000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105160000 +0300" stop="20261105165000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105165000 +0300" stop="20261105170000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105170000 +0300" stop="20261105175000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105175000 +0300" stop="20261105180000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105180000 +0300" stop="20261105183000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105183000 +0300" stop="20261105190000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105190000 +0300" stop="20261105195000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105195000 +0300" stop="20261105200000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105200000 +0300" stop="20261105210000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105210000 +0300" stop="20261105215500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105215500 +0300" stop="20261105220000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261105220000 +0300" stop="20261106010000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106010000 +0300" stop="20261106020000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106020000 +0300" stop="20261106025500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106025500 +0300" stop="20261106030000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106030000 +0300" stop="20261106035500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106035500 +0300" stop="20261106040000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106040000 +0300" stop="20261106045500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106045500 +0300" stop="20261106050000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106050000 +0300" stop="20261106060000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106060000 +0300" stop="20261106070000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106070000 +0300" stop="20261106075500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106075500 +0300" stop="20261106080000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106080000 +0300" stop="20261106090000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106090000 +0300" stop="20261106100000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106100000 +0300" stop="20261106110000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106110000 +0300" stop="20261106115500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106115500 +0300" stop="20261106120000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106120000 +0300" stop="20261106130000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106130000 +0300" stop="20261106140000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106140000 +0300" stop="20261106143000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106143000 +0300" stop="20261106153000 +0300" channel="5825">
+	<title /><desc /></programme><programme start="20261106153000 +0300" stop="20261106155000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106155000 +0300" stop="20261106160000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106160000 +0300" stop="20261106165000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106165000 +0300" stop="20261106170000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106170000 +0300" stop="20261106175000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106175000 +0300" stop="20261106180000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106180000 +0300" stop="20261106183000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106183000 +0300" stop="20261106190000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106190000 +0300" stop="20261106195000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106195000 +0300" stop="20261106200000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106200000 +0300" stop="20261106210000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106210000 +0300" stop="20261106215500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106215500 +0300" stop="20261106220000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261106220000 +0300" stop="20261107010000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107010000 +0300" stop="20261107020000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107020000 +0300" stop="20261107025500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107025500 +0300" stop="20261107030000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107030000 +0300" stop="20261107035500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107035500 +0300" stop="20261107040000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107040000 +0300" stop="20261107045500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107045500 +0300" stop="20261107050000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107050000 +0300" stop="20261107060000 +0300" channel="5825">
+	<title /><desc /></programme><programme start="20261107060000 +0300" stop="20261107070000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107070000 +0300" stop="20261107075500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107075500 +0300" stop="20261107080000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107080000 +0300" stop="20261107090000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107090000 +0300" stop="20261107100000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107100000 +0300" stop="20261107110000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107110000 +0300" stop="20261107115500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107115500 +0300" stop="20261107120000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107120000 +0300" stop="20261107130000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107130000 +0300" stop="20261107140000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107140000 +0300" stop="20261107145000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107145000 +0300" stop="20261107150000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107150000 +0300" stop="20261107160000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107160000 +0300" stop="20261107165000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107165000 +0300" stop="20261107170000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107170000 +0300" stop="20261107175000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107175000 +0300" stop="20261107180000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107180000 +0300" stop="20261107183000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107183000 +0300" stop="20261107190000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107190000 +0300" stop="20261107195000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107195000 +0300" stop="20261107200000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107200000 +0300" stop="20261107203000 +0300" channel="5825">
+	<title /><desc /></programme><programme start="20261107203000 +0300" stop="20261107210000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107210000 +0300" stop="20261107215500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107215500 +0300" stop="20261107220000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261107220000 +0300" stop="20261108010000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108010000 +0300" stop="20261108020000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108020000 +0300" stop="20261108025500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108025500 +0300" stop="20261108030000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108030000 +0300" stop="20261108035500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108035500 +0300" stop="20261108040000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108040000 +0300" stop="20261108045500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108045500 +0300" stop="20261108050000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108050000 +0300" stop="20261108060000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108060000 +0300" stop="20261108070000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108070000 +0300" stop="20261108075500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108075500 +0300" stop="20261108080000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108080000 +0300" stop="20261108090000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108090000 +0300" stop="20261108100000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108100000 +0300" stop="20261108110000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108110000 +0300" stop="20261108115500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108115500 +0300" stop="20261108120000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108120000 +0300" stop="20261108130000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108130000 +0300" stop="20261108140000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108140000 +0300" stop="20261108145000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108145000 +0300" stop="20261108150000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108150000 +0300" stop="20261108160000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108160000 +0300" stop="20261108165000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108165000 +0300" stop="20261108170000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108170000 +0300" stop="20261108175000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108175000 +0300" stop="20261108180000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108180000 +0300" stop="20261108183000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108183000 +0300" stop="20261108190000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108190000 +0300" stop="20261108195000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108195000 +0300" stop="20261108200000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108200000 +0300" stop="20261108203000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108203000 +0300" stop="20261108210000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108210000 +0300" stop="20261108215500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261108215500 +0300" stop="20261109010000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109010000 +0300" stop="20261109020000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109020000 +0300" stop="20261109025500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109025500 +0300" stop="20261109030000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109030000 +0300" stop="20261109035500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109035500 +0300" stop="20261109040000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109040000 +0300" stop="20261109045500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109045500 +0300" stop="20261109050000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109050000 +0300" stop="20261109060000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109060000 +0300" stop="20261109070000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109070000 +0300" stop="20261109075500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109075500 +0300" stop="20261109080000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109080000 +0300" stop="20261109090000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109090000 +0300" stop="20261109100000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109100000 +0300" stop="20261109110000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109110000 +0300" stop="20261109115500 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109115500 +0300" stop="20261109120000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109120000 +0300" stop="20261109130000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109130000 +0300" stop="20261109140000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109140000 +0300" stop="20261109150000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109150000 +0300" stop="20261109153000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109153000 +0300" stop="20261109154000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109154000 +0300" stop="20261109160000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109160000 +0300" stop="20261109165000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109165000 +0300" stop="20261109170000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109170000 +0300" stop="20261109175000 +0300" channel="5825">
+	<title /><desc /></programme>
+<programme start="20261109175000 +0300" stop="20261109180000 +0300" channel="5825">
+	<title /><desc /></programme>
 <programme start="20261101230000 +0300" stop="20261102001000 +0300" channel="4830">
 	<title /></programme>
 <programme start="20261102001000 +0300" stop="20261102004500 +0300" channel="4830">
@@ -74894,927 +75596,4 @@
 	<title /><rating /></programme>
 <programme start="20261115111500 +0300" stop="20261115170000 +0300" channel="3021">
 	<title /><desc /><rating /></programme>
-<programme start="20261031234700 +0300" stop="20261101000500 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101000500 +0300" stop="20261101002400 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101002400 +0300" stop="20261101004500 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101004500 +0300" stop="20261101010100 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101010100 +0300" stop="20261101011500 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101011500 +0300" stop="20261101022000 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101022000 +0300" stop="20261101024500 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101024500 +0300" stop="20261101025900 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101025900 +0300" stop="20261101030500 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101030500 +0300" stop="20261101031200 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101031200 +0300" stop="20261101031900 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101031900 +0300" stop="20261101032600 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101032600 +0300" stop="20261101033200 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101033200 +0300" stop="20261101034000 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101034000 +0300" stop="20261101035500 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101035500 +0300" stop="20261101040700 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101040700 +0300" stop="20261101042000 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101042000 +0300" stop="20261101043200 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101043200 +0300" stop="20261101044400 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101044400 +0300" stop="20261101050000 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101050000 +0300" stop="20261101050700 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101050700 +0300" stop="20261101052000 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101052000 +0300" stop="20261101052100 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101052100 +0300" stop="20261101052200 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101052200 +0300" stop="20261101053000 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101053000 +0300" stop="20261101053500 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101053500 +0300" stop="20261101054000 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101054000 +0300" stop="20261101054500 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101054500 +0300" stop="20261101054700 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101054700 +0300" stop="20261101055000 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101055000 +0300" stop="20261101060500 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101060500 +0300" stop="20261101062400 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101062400 +0300" stop="20261101064500 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101064500 +0300" stop="20261101070100 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101070100 +0300" stop="20261101071500 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101071500 +0300" stop="20261101082000 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101082000 +0300" stop="20261101084500 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101084500 +0300" stop="20261101085900 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101085900 +0300" stop="20261101090500 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101090500 +0300" stop="20261101091200 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101091200 +0300" stop="20261101091900 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101091900 +0300" stop="20261101092500 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101092500 +0300" stop="20261101093200 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101093200 +0300" stop="20261101094000 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101094000 +0300" stop="20261101095500 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101095500 +0300" stop="20261101100700 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101100700 +0300" stop="20261101102000 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101102000 +0300" stop="20261101103200 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101103200 +0300" stop="20261101104400 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101104400 +0300" stop="20261101110000 +0300" channel="2442">
-	<title /></programme>
-<programme start="20261101110000 +0300" stop="20261101110700 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101110700 +0300" stop="20261101111900 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101111900 +0300" stop="20261101112100 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101112100 +0300" stop="20261101112200 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101112200 +0300" stop="20261101113000 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101113000 +0300" stop="20261101113500 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101113500 +0300" stop="20261101114000 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101114000 +0300" stop="20261101114500 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101114500 +0300" stop="20261101114700 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101114700 +0300" stop="20261101115000 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101115000 +0300" stop="20261101120500 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101120500 +0300" stop="20261101122400 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101122400 +0300" stop="20261101124500 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101124500 +0300" stop="20261101130100 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101130100 +0300" stop="20261101131500 +0300" channel="2442">
-	<title /><desc /></programme><programme start="20261101131500 +0300" stop="20261101142000 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101142000 +0300" stop="20261101144500 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101144500 +0300" stop="20261101145900 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101145900 +0300" stop="20261101150500 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101150500 +0300" stop="20261101151200 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101151200 +0300" stop="20261101151900 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101151900 +0300" stop="20261101152500 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101152500 +0300" stop="20261101153200 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101153200 +0300" stop="20261101154000 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101154000 +0300" stop="20261101155500 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101155500 +0300" stop="20261101160700 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101160700 +0300" stop="20261101161900 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101161900 +0300" stop="20261101163200 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101163200 +0300" stop="20261101164400 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101164400 +0300" stop="20261101170000 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101170000 +0300" stop="20261101170700 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101170700 +0300" stop="20261101171900 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101171900 +0300" stop="20261101172100 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101172100 +0300" stop="20261101172200 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101172200 +0300" stop="20261101173000 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101173000 +0300" stop="20261101173500 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101173500 +0300" stop="20261101174000 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101174000 +0300" stop="20261101174500 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101174500 +0300" stop="20261101174700 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101174700 +0300" stop="20261101175000 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101175000 +0300" stop="20261101180500 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101180500 +0300" stop="20261101182400 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101182400 +0300" stop="20261101184500 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101184500 +0300" stop="20261101190100 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101190100 +0300" stop="20261101191500 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101191500 +0300" stop="20261101202000 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101202000 +0300" stop="20261101204500 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101204500 +0300" stop="20261101205900 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101205900 +0300" stop="20261101210500 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101210500 +0300" stop="20261101211200 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101211200 +0300" stop="20261101211900 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101211900 +0300" stop="20261101212500 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101212500 +0300" stop="20261101213200 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101213200 +0300" stop="20261101214000 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101214000 +0300" stop="20261101215500 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101215500 +0300" stop="20261101220700 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101220700 +0300" stop="20261101221900 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101221900 +0300" stop="20261101223200 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101223200 +0300" stop="20261101224400 +0300" channel="2442">
-	<title /><desc />
-</programme>
-<programme start="20261101224400 +0300" stop="20261101230000 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101230000 +0300" stop="20261101230700 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101230700 +0300" stop="20261101231900 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101231900 +0300" stop="20261101232100 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101232100 +0300" stop="20261101232200 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101232200 +0300" stop="20261101233000 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101233000 +0300" stop="20261101233500 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101233500 +0300" stop="20261101233900 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101233900 +0300" stop="20261101234500 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101234500 +0300" stop="20261101234700 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261101234700 +0300" stop="20261101235000 +0300" channel="2442">
-	<title /><desc /></programme>
-<programme start="20261114052300 +0300" stop="20261114053000 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114053400 +0300" stop="20261114053600 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114053600 +0300" stop="20261114053800 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114054700 +0300" stop="20261114055400 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114055400 +0300" stop="20261114060000 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114061400 +0300" stop="20261114061800 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114061800 +0300" stop="20261114062500 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114064100 +0300" stop="20261114070100 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114070100 +0300" stop="20261114073500 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114074900 +0300" stop="20261114080100 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114080100 +0300" stop="20261114081500 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114090700 +0300" stop="20261114091300 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114091300 +0300" stop="20261114092000 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114092700 +0300" stop="20261114093400 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114093400 +0300" stop="20261114094000 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114100700 +0300" stop="20261114102000 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114103200 +0300" stop="20261114104400 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114104400 +0300" stop="20261114112000 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114112300 +0300" stop="20261114113000 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114113400 +0300" stop="20261114113600 +0300" channel="2442">
-	<title /><rating /></programme><programme start="20261114113600 +0300" stop="20261114113800 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114114700 +0300" stop="20261114115400 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114115400 +0300" stop="20261114120000 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114121400 +0300" stop="20261114121800 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114121800 +0300" stop="20261114122500 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114124100 +0300" stop="20261114130100 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114130100 +0300" stop="20261114133500 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114134900 +0300" stop="20261114140100 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114140100 +0300" stop="20261114141500 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114150700 +0300" stop="20261114151300 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114151300 +0300" stop="20261114152000 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114152700 +0300" stop="20261114153400 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114153400 +0300" stop="20261114154000 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114160700 +0300" stop="20261114162000 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114163200 +0300" stop="20261114164400 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114164400 +0300" stop="20261114172100 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114172100 +0300" stop="20261114172200 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114172200 +0300" stop="20261114172300 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114172300 +0300" stop="20261114173000 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114173400 +0300" stop="20261114173600 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114173600 +0300" stop="20261114173800 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114174700 +0300" stop="20261114175400 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114175400 +0300" stop="20261114180000 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114181400 +0300" stop="20261114181800 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114181800 +0300" stop="20261114182500 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114184100 +0300" stop="20261114190000 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114194900 +0300" stop="20261114200100 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114200100 +0300" stop="20261114201500 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114210700 +0300" stop="20261114211300 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114211300 +0300" stop="20261114212000 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114212700 +0300" stop="20261114213400 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114213400 +0300" stop="20261114214000 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114220700 +0300" stop="20261114222000 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114223200 +0300" stop="20261114224400 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114224400 +0300" stop="20261114232000 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114232300 +0300" stop="20261114233000 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114233400 +0300" stop="20261114233600 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114233600 +0300" stop="20261114233800 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114234700 +0300" stop="20261114235400 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261114235400 +0300" stop="20261115000000 +0300" channel="2442">
-	<title /><rating /></programme>
-<programme start="20261031223000 +0300" stop="20261101011000 +0300" channel="2278">
-	<title /><rating /></programme>
-<programme start="20261101011000 +0300" stop="20261101040000 +0300" channel="2278">
-	<title /><rating /></programme>
-<programme start="20261101040000 +0300" stop="20261101062500 +0300" channel="2278">
-	<title /><rating /></programme>
-<programme start="20261101062500 +0300" stop="20261101072000 +0300" channel="2278">
-	<title /><rating /></programme>
-<programme start="20261101072000 +0300" stop="20261101080500 +0300" channel="2278">
-	<title /><rating /></programme>
-<programme start="20261101080500 +0300" stop="20261101091000 +0300" channel="2278">
-	<title /><rating /></programme>
-<programme start="20261101091000 +0300" stop="20261101102500 +0300" channel="2278">
-	<title /><rating /></programme>
-<programme start="20261101102500 +0300" stop="20261101115500 +0300" channel="2278">
-	<title /><rating /></programme>
-<programme start="20261101115500 +0300" stop="20261101140000 +0300" channel="2278">
-	<title /><rating /></programme>
-<programme start="20261101140000 +0300" stop="20261101150000 +0300" channel="2278">
-	<title /><rating /></programme>
-<programme start="20261101150000 +0300" stop="20261101155500 +0300" channel="2278">
-	<title /><rating /></programme>
-<programme start="20261101155500 +0300" stop="20261101191500 +0300" channel="2278">
-	<title /><rating /></programme>
-<programme start="20261101191500 +0300" stop="20261101203500 +0300" channel="2278">
-	<title /><rating /></programme>
-<programme start="20261101203500 +0300" stop="20261101214000 +0300" channel="2278">
-	<title /><rating /></programme>
-<programme start="20261101214000 +0300" stop="20261101225000 +0300" channel="2278">
-	<title /><rating /></programme>
-<programme start="20261101225000 +0300" stop="20261101235000 +0300" channel="2278">
-	<title /><rating /></programme>
-<programme start="20261031234500 +0300" stop="20261101021000 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261101021000 +0300" stop="20261101024500 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261101024500 +0300" stop="20261101032000 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261101032000 +0300" stop="20261101040000 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261101040000 +0300" stop="20261101043500 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261101043500 +0300" stop="20261101051000 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261101051000 +0300" stop="20261101054500 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261101054500 +0300" stop="20261101060000 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261101060000 +0300" stop="20261101071000 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261101071000 +0300" stop="20261101074500 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261101074500 +0300" stop="20261101081000 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261101081000 +0300" stop="20261101090500 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261101090500 +0300" stop="20261101094500 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261101094500 +0300" stop="20261101100000 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261101100000 +0300" stop="20261101101500 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261101101500 +0300" stop="20261101111000 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261101111000 +0300" stop="20261101120000 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261101120000 +0300" stop="20261101121500 +0300" channel="4830">
-	<title /><desc /></programme>
-<programme start="20261101121500 +0300" stop="20261101130000 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261101130000 +0300" stop="20261101143000 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261101143000 +0300" stop="20261101152500 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261101152500 +0300" stop="20261101165500 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261101165500 +0300" stop="20261101180000 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261101180000 +0300" stop="20261101190000 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261101190000 +0300" stop="20261101210000 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261101210000 +0300" stop="20261101230000 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261109060000 +0300" stop="20261109061000 +0300" channel="4830">
-	<title /><desc /></programme>
-<programme start="20261109061000 +0300" stop="20261109063000 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261109063000 +0300" stop="20261109073000 +0300" channel="4830">
-	<title /></programme>
-<programme start="20261031230000 +0300" stop="20261101000000 +0300" channel="11782">
-	<title /></programme>
-<programme start="20261101000000 +0300" stop="20261101003000 +0300" channel="11782">
-	<title /></programme>
-<programme start="20261101003000 +0300" stop="20261101010000 +0300" channel="11782">
-	<title /></programme>
-<programme start="20261101010000 +0300" stop="20261101013000 +0300" channel="11782">
-	<title /></programme>
-<programme start="20261101013000 +0300" stop="20261101020000 +0300" channel="11782">
-	<title /></programme>
-<programme start="20261101020000 +0300" stop="20261101023000 +0300" channel="11782">
-	<title /></programme>
-<programme start="20261101023000 +0300" stop="20261101030000 +0300" channel="11782">
-	<title /></programme>
-<programme start="20261101030000 +0300" stop="20261101033000 +0300" channel="11782">
-	<title /></programme>
-<programme start="20261101033000 +0300" stop="20261101040000 +0300" channel="11782">
-	<title /></programme>
-<programme start="20261101040000 +0300" stop="20261101043000 +0300" channel="11782">
-	<title /></programme>
-<programme start="20261101043000 +0300" stop="20261101053500 +0300" channel="11782">
-	<title /></programme>
-<programme start="20261101053500 +0300" stop="20261101054500 +0300" channel="11782">
-	<title /></programme>
-<programme start="20261101054500 +0300" stop="20261101060000 +0300" channel="11782">
-	<title /></programme>
-<programme start="20261101060000 +0300" stop="20261101070000 +0300" channel="11782">
-	<title /></programme>
-<programme start="20261101070000 +0300" stop="20261101073000 +0300" channel="11782">
-	<title /></programme>
-<programme start="20261101073000 +0300" stop="20261101074000 +0300" channel="11782">
-	<title /></programme>
-<programme start="20261101074000 +0300" stop="20261101075000 +0300" channel="11782">
-	<title /></programme>
-<programme start="20261101075000 +0300" stop="20261101083500 +0300" channel="11782">
-	<title /></programme>
-<programme start="20261101083500 +0300" stop="20261101084500 +0300" channel="11782">
-	<title /></programme>
-<programme start="20261101084500 +0300" stop="20261101090000 +0300" channel="11782">
-	<title /></programme>
-<programme start="20261101090000 +0300" stop="20261101091000 +0300" channel="11782">
-	<title /></programme>
-<programme start="20261101091000 +0300" stop="20261101095000 +0300" channel="11782">
-	<title /></programme><programme start="20261101095000 +0300" stop="20261101100000 +0300" channel="11782">
-	<title /></programme>
-<programme start="20261101100000 +0300" stop="20261101103500 +0300" channel="11782">
-	<title /></programme>
-<programme start="20261101103500 +0300" stop="20261101110000 +0300" channel="11782">
-	<title /></programme>
-<programme start="20261101110000 +0300" stop="20261101112000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101112000 +0300" stop="20261101113000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101113000 +0300" stop="20261101115000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101115000 +0300" stop="20261101120000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101120000 +0300" stop="20261101130000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101130000 +0300" stop="20261101132000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101132000 +0300" stop="20261101133000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101133000 +0300" stop="20261101135000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101135000 +0300" stop="20261101140000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101140000 +0300" stop="20261101163500 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101163500 +0300" stop="20261101170000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101170000 +0300" stop="20261101171000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101171000 +0300" stop="20261101172000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101172000 +0300" stop="20261101173500 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101173500 +0300" stop="20261101174000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101174000 +0300" stop="20261101175000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101175000 +0300" stop="20261101180000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101180000 +0300" stop="20261101181500 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101181500 +0300" stop="20261101183500 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101183500 +0300" stop="20261101190000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101190000 +0300" stop="20261101193000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101193000 +0300" stop="20261101193500 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101193500 +0300" stop="20261101194000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101194000 +0300" stop="20261101194500 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101194500 +0300" stop="20261101195000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101195000 +0300" stop="20261101200000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101200000 +0300" stop="20261101210000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101210000 +0300" stop="20261101211000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101211000 +0300" stop="20261101212000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101212000 +0300" stop="20261101213500 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101213500 +0300" stop="20261101214500 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101214500 +0300" stop="20261101220000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101220000 +0300" stop="20261101221000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101221000 +0300" stop="20261101222000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101222000 +0300" stop="20261101223000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101223000 +0300" stop="20261101224000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101224000 +0300" stop="20261101225000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261101225000 +0300" stop="20261101230000 +0300" channel="11782">
-	<title /><desc /></programme>
-<programme start="20261031220000 +0300" stop="20261101001000 +0300" channel="935">
-	<title /></programme>
-<programme start="20261101001000 +0300" stop="20261101014500 +0300" channel="935">
-	<title /></programme>
-<programme start="20261101014500 +0300" stop="20261101032000 +0300" channel="935">
-	<title /></programme>
-<programme start="20261101032000 +0300" stop="20261101051000 +0300" channel="935">
-	<title /></programme>
-<programme start="20261101051000 +0300" stop="20261101053500 +0300" channel="935">
-	<title /></programme>
-<programme start="20261101053500 +0300" stop="20261101060000 +0300" channel="935">
-	<title /></programme>
-<programme start="20261101060000 +0300" stop="20261101062000 +0300" channel="935">
-	<title /></programme>
-<programme start="20261101062000 +0300" stop="20261101064500 +0300" channel="935">
-	<title /></programme>
-<programme start="20261101064500 +0300" stop="20261101070500 +0300" channel="935">
-	<title /></programme>
-<programme start="20261101070500 +0300" stop="20261101073000 +0300" channel="935">
-	<title /></programme>
-<programme start="20261101073000 +0300" stop="20261101092500 +0300" channel="935">
-	<title /></programme>
-<programme start="20261101092500 +0300" stop="20261101114000 +0300" channel="935">
-	<title /></programme>
-<programme start="20261101114000 +0300" stop="20261101134500 +0300" channel="935">
-	<title /><desc /></programme>
-<programme start="20261101134500 +0300" stop="20261101152500 +0300" channel="935">
-	<title /><desc /></programme>
-<programme start="20261101152500 +0300" stop="20261101170500 +0300" channel="935">
-	<title /><desc /></programme>
-<programme start="20261101170500 +0300" stop="20261101184500 +0300" channel="935">
-	<title /><desc /></programme>
-<programme start="20261101184500 +0300" stop="20261101202000 +0300" channel="935">
-	<title /><desc /></programme>
-<programme start="20261101202000 +0300" stop="20261101220000 +0300" channel="935">
-	<title /><desc /></programme>
-<programme start="20261101220000 +0300" stop="20261101232500 +0300" channel="935">
-	<title /><desc /></programme>
-<programme start="20261031194000 +0300" stop="20261101020000 +0300" channel="7879">
-	<title /></programme>
-<programme start="20261101020000 +0300" stop="20261101023000 +0300" channel="7879">
-	<title /></programme>
-<programme start="20261101023000 +0300" stop="20261101033000 +0300" channel="7879">
-	<title /></programme>
-<programme start="20261101033000 +0300" stop="20261101040000 +0300" channel="7879">
-	<title /></programme>
-<programme start="20261101040000 +0300" stop="20261101043000 +0300" channel="7879">
-	<title /></programme>
-<programme start="20261101043000 +0300" stop="20261101045500 +0300" channel="7879">
-	<title /></programme>
-<programme start="20261101045500 +0300" stop="20261101052500 +0300" channel="7879">
-	<title /></programme>
-<programme start="20261101052500 +0300" stop="20261101055500 +0300" channel="7879">
-	<title /></programme>
-<programme start="20261101055500 +0300" stop="20261101060000 +0300" channel="7879">
-	<title /></programme>
-<programme start="20261101060000 +0300" stop="20261101061500 +0300" channel="7879">
-	<title /></programme>
-<programme start="20261101061500 +0300" stop="20261101063000 +0300" channel="7879">
-	<title /></programme>
-<programme start="20261101063000 +0300" stop="20261101070000 +0300" channel="7879">
-	<title /></programme>
-<programme start="20261101070000 +0300" stop="20261101075000 +0300" channel="7879">
-	<title /></programme>
-<programme start="20261101075000 +0300" stop="20261101080000 +0300" channel="7879">
-	<title /></programme>
-<programme start="20261101080000 +0300" stop="20261101083000 +0300" channel="7879">
-	<title /></programme>
-<programme start="20261101083000 +0300" stop="20261101090000 +0300" channel="7879">
-	<title /></programme>
-<programme start="20261101090000 +0300" stop="20261101100000 +0300" channel="7879">
-	<title /></programme>
-<programme start="20261101100000 +0300" stop="20261101103000 +0300" channel="7879">
-	<title /></programme>
-<programme start="20261101103000 +0300" stop="20261101110000 +0300" channel="7879">
-	<title /></programme>
-<programme start="20261101110000 +0300" stop="20261101120000 +0300" channel="7879">
-	<title /><desc /></programme>
-<programme start="20261101120000 +0300" stop="20261101130000 +0300" channel="7879">
-	<title /><desc /></programme>
-<programme start="20261101130000 +0300" stop="20261101133000 +0300" channel="7879">
-	<title /><desc /></programme>
-<programme start="20261101133000 +0300" stop="20261101140000 +0300" channel="7879">
-	<title /><desc /></programme>
-<programme start="20261101140000 +0300" stop="20261101150000 +0300" channel="7879">
-	<title /><desc /></programme>
-<programme start="20261101150000 +0300" stop="20261101152500 +0300" channel="7879">
-	<title /><desc /></programme>
-<programme start="20261101152500 +0300" stop="20261101153000 +0300" channel="7879">
-	<title /><desc /></programme>
-<programme start="20261101153000 +0300" stop="20261101160000 +0300" channel="7879">
-	<title /><desc /></programme>
-<programme start="20261101160000 +0300" stop="20261101170000 +0300" channel="7879">
-	<title /><desc /></programme>
-<programme start="20261101170000 +0300" stop="20261101181500 +0300" channel="7879">
-	<title /><desc /></programme>
-<programme start="20261101181500 +0300" stop="20261101184500 +0300" channel="7879">
-	<title /><desc /></programme>
-<programme start="20261101184500 +0300" stop="20261101202500 +0300" channel="7879">
-	<title /><desc /></programme>
-<programme start="20261031213000 +0300" stop="20261101064000 +0300" channel="2547">
-	<title /></programme>
-<programme start="20261101064000 +0300" stop="20261101101500 +0300" channel="2547">
-	<title /></programme>
-<programme start="20261101101500 +0300" stop="20261101110000 +0300" channel="2547">
-	<title /></programme>
-<programme start="20261101110000 +0300" stop="20261101113000 +0300" channel="2547">
-	<title /><desc /></programme>
-<programme start="20261101113000 +0300" stop="20261101114000 +0300" channel="2547">
-	<title /><desc /></programme>
-<programme start="20261101114000 +0300" stop="20261101124500 +0300" channel="2547">
-	<title /><desc /></programme>
-<programme start="20261101124500 +0300" stop="20261101140000 +0300" channel="2547">
-	<title /><desc /></programme>
-<programme start="20261101140000 +0300" stop="20261101145500 +0300" channel="2547">
-	<title /><desc /></programme>
-<programme start="20261101145500 +0300" stop="20261101170000 +0300" channel="2547">
-	<title /><desc /></programme>
-<programme start="20261101170000 +0300" stop="20261101175000 +0300" channel="2547">
-	<title /><desc /></programme>
-<programme start="20261101175000 +0300" stop="20261101200000 +0300" channel="2547">
-	<title /><desc /></programme>
-<programme start="20261101200000 +0300" stop="20261101210000 +0300" channel="2547">
-	<title /><desc /></programme>
-<programme start="20261101210000 +0300" stop="20261101220000 +0300" channel="2547">
-	<title /><desc /></programme>
-<programme start="20261101220000 +0300" stop="20261101225500 +0300" channel="2547">
-	<title /><desc /></programme>
-<programme start="20261101225500 +0300" stop="20261101232500 +0300" channel="2547">
-	<title /><desc /></programme>
-<programme start="20261031215000 +0300" stop="20261101003000 +0300" channel="6760">
-	<title /></programme>
-<programme start="20261101003000 +0300" stop="20261101012000 +0300" channel="6760">
-	<title /></programme>
-<programme start="20261101012000 +0300" stop="20261101020500 +0300" channel="6760">
-	<title /></programme>
-<programme start="20261101020500 +0300" stop="20261101023500 +0300" channel="6760">
-	<title /></programme>
-<programme start="20261101023500 +0300" stop="20261101032000 +0300" channel="6760">
-	<title /></programme>
-<programme start="20261101032000 +0300" stop="20261101041000 +0300" channel="6760">
-	<title /></programme>
-<programme start="20261101041000 +0300" stop="20261101050000 +0300" channel="6760">
-	<title /></programme>
-<programme start="20261101050000 +0300" stop="20261101070000 +0300" channel="6760">
-	<title /></programme>
-<programme start="20261101070000 +0300" stop="20261101073000 +0300" channel="6760">
-	<title /></programme>
-<programme start="20261101073000 +0300" stop="20261101080000 +0300" channel="6760">
-	<title /></programme>
-<programme start="20261101080000 +0300" stop="20261101083000 +0300" channel="6760">
-	<title /></programme>
-<programme start="20261101083000 +0300" stop="20261101090000 +0300" channel="6760">
-	<title /></programme>
-<programme start="20261101090000 +0300" stop="20261101091500 +0300" channel="6760">
-	<title /></programme>
-<programme start="20261101091500 +0300" stop="20261101095000 +0300" channel="6760">
-	<title /></programme>
-<programme start="20261101095000 +0300" stop="20261101101000 +0300" channel="6760">
-	<title /></programme>
-<programme start="20261101101000 +0300" stop="20261101103000 +0300" channel="6760">
-	<title /></programme>
-<programme start="20261101103000 +0300" stop="20261101110000 +0300" channel="6760">
-	<title /></programme>
-<programme start="20261101110000 +0300" stop="20261101123000 +0300" channel="6760">
-	<title /><desc /></programme>
-<programme start="20261101123000 +0300" stop="20261101141000 +0300" channel="6760">
-	<title /><desc /></programme>
-<programme start="20261101141000 +0300" stop="20261101150000 +0300" channel="6760">
-	<title /><desc /></programme>
-<programme start="20261101150000 +0300" stop="20261101180000 +0300" channel="6760">
-	<title /><desc /></programme>
-<programme start="20261101180000 +0300" stop="20261101192000 +0300" channel="6760">
-	<title /><desc /></programme>
-<programme start="20261101192000 +0300" stop="20261101200000 +0300" channel="6760">
-	<title /><desc /></programme>
-<programme start="20261101200000 +0300" stop="20261101202000 +0300" channel="6760">
-	<title /><desc /></programme>
-<programme start="20261101202000 +0300" stop="20261101215000 +0300" channel="6760">
-	<title /><desc /></programme>
-<programme start="20261031231500 +0300" stop="20261101000000 +0300" channel="2326">
-	<title /><rating /></programme>
-<programme start="20261101000000 +0300" stop="20261101024500 +0300" channel="2326">
-	<title /><rating /></programme>
-<programme start="20261101024500 +0300" stop="20261101032000 +0300" channel="2326">
-	<title /><rating /></programme>
-<programme start="20261101032000 +0300" stop="20261101035500 +0300" channel="2326">
-	<title /><rating /></programme>
-<programme start="20261101035500 +0300" stop="20261101074500 +0300" channel="2326">
-	<title /><rating /></programme>
-<programme start="20261101074500 +0300" stop="20261101081000 +0300" channel="2326">
-	<title /><desc /><rating /></programme>
-<programme start="20261101081000 +0300" stop="20261101114500 +0300" channel="2326">
-	<title /><rating /></programme>
-<programme start="20261101114500 +0300" stop="20261101154000 +0300" channel="2326">
-	<title /><rating /></programme>
-<programme start="20261101154000 +0300" stop="20261101160000 +0300" channel="2326">
-	<title /><desc /><rating /></programme>
-<programme start="20261101160000 +0300" stop="20261101194500 +0300" channel="2326">
-	<title /><rating /></programme>
-<programme start="20261101194500 +0300" stop="20261101201500 +0300" channel="2326">
-	<title /><rating /></programme>
-<programme start="20261101201500 +0300" stop="20261101232500 +0300" channel="2326">
-	<title /><rating /></programme>
-<programme start="20261101232500 +0300" stop="20261101234000 +0300" channel="2326">
-	<title /><rating /></programme>
-<programme start="20261031212000 +0300" stop="20261031235000 +0300" channel="3019">
-	<title /></programme>
-<programme start="20261031235000 +0300" stop="20261101013000 +0300" channel="3019">
-	<title /></programme>
-<programme start="20261101013000 +0300" stop="20261101024500 +0300" channel="3019">
-	<title /></programme>
-<programme start="20261101024500 +0300" stop="20261101030000 +0300" channel="3019">
-	<title /></programme>
-<programme start="20261101030000 +0300" stop="20261101041000 +0300" channel="3019">
-	<title /></programme>
-<programme start="20261101041000 +0300" stop="20261101050500 +0300" channel="3019">
-	<title /></programme>
-<programme start="20261101050500 +0300" stop="20261101053500 +0300" channel="3019">
-	<title /></programme>
-<programme start="20261101053500 +0300" stop="20261101061000 +0300" channel="3019">
-	<title /></programme>
-<programme start="20261101061000 +0300" stop="20261101064000 +0300" channel="3019">
-	<title /></programme>
-<programme start="20261101064000 +0300" stop="20261101080000 +0300" channel="3019">
-	<title /></programme>
-<programme start="20261101080000 +0300" stop="20261101081000 +0300" channel="3019">
-	<title /></programme>
-<programme start="20261101081000 +0300" stop="20261101084000 +0300" channel="3019">
-	<title /></programme><programme start="20261101084000 +0300" stop="20261101101000 +0300" channel="3019">
-	<title /></programme>
-<programme start="20261101101000 +0300" stop="20261101110000 +0300" channel="3019">
-	<title /><desc /></programme>
-<programme start="20261101110000 +0300" stop="20261101111500 +0300" channel="3019">
-	<title /><desc /></programme>
-<programme start="20261101111500 +0300" stop="20261101122000 +0300" channel="3019">
-	<title /><desc /></programme>
-<programme start="20261101122000 +0300" stop="20261101141500 +0300" channel="3019">
-	<title /><desc /></programme>
-<programme start="20261101141500 +0300" stop="20261101155500 +0300" channel="3019">
-	<title /><desc /></programme>
-<programme start="20261101155500 +0300" stop="20261101160000 +0300" channel="3019">
-	<title /><desc /></programme>
-<programme start="20261101160000 +0300" stop="20261101161500 +0300" channel="3019">
-	<title /><desc /></programme>
-<programme start="20261101161500 +0300" stop="20261101182000 +0300" channel="3019">
-	<title /><desc /></programme>
-<programme start="20261101182000 +0300" stop="20261101191500 +0300" channel="3019">
-	<title /><desc /></programme>
-<programme start="20261101191500 +0300" stop="20261101201000 +0300" channel="3019">
-	<title /><desc /></programme>
-<programme start="20261101201000 +0300" stop="20261101210500 +0300" channel="3019">
-	<title /><desc /></programme>
-<programme start="20261031192000 +0300" stop="20261031215000 +0300" channel="3020">
-	<title /></programme>
-<programme start="20261031215000 +0300" stop="20261031233000 +0300" channel="3020">
-	<title /></programme>
-<programme start="20261031233000 +0300" stop="20261101004500 +0300" channel="3020">
-	<title /></programme>
-<programme start="20261101004500 +0300" stop="20261101010000 +0300" channel="3020">
-	<title /></programme>
-<programme start="20261101010000 +0300" stop="20261101021000 +0300" channel="3020">
-	<title /></programme>
-<programme start="20261101021000 +0300" stop="20261101030500 +0300" channel="3020">
-	<title /></programme>
-<programme start="20261101030500 +0300" stop="20261101033500 +0300" channel="3020">
-	<title /></programme>
-<programme start="20261101033500 +0300" stop="20261101041000 +0300" channel="3020">
-	<title /></programme>
-<programme start="20261101041000 +0300" stop="20261101044000 +0300" channel="3020">
-	<title /></programme>
-<programme start="20261101044000 +0300" stop="20261101060000 +0300" channel="3020">
-	<title /></programme>
-<programme start="20261101060000 +0300" stop="20261101061000 +0300" channel="3020">
-	<title /></programme>
-<programme start="20261101061000 +0300" stop="20261101064000 +0300" channel="3020">
-	<title /></programme>
-<programme start="20261101064000 +0300" stop="20261101081000 +0300" channel="3020">
-	<title /></programme>
-<programme start="20261101081000 +0300" stop="20261101090000 +0300" channel="3020">
-	<title /><desc /></programme>
-<programme start="20261101090000 +0300" stop="20261101091500 +0300" channel="3020">
-	<title /><desc /></programme>
-<programme start="20261101091500 +0300" stop="20261101102000 +0300" channel="3020">
-	<title /><desc /></programme>
-<programme start="20261101102000 +0300" stop="20261101121500 +0300" channel="3020">
-	<title /><desc /></programme>
-<programme start="20261101121500 +0300" stop="20261101135500 +0300" channel="3020">
-	<title /><desc /></programme>
-<programme start="20261101135500 +0300" stop="20261101140000 +0300" channel="3020">
-	<title /><desc /></programme>
-<programme start="20261101140000 +0300" stop="20261101141500 +0300" channel="3020">
-	<title /><desc /></programme>
-<programme start="20261101141500 +0300" stop="20261101162000 +0300" channel="3020">
-	<title /><desc /></programme>
-<programme start="20261101162000 +0300" stop="20261101171500 +0300" channel="3020">
-	<title /><desc /></programme>
-<programme start="20261101171500 +0300" stop="20261101181000 +0300" channel="3020">
-	<title /><desc /></programme>
-<programme start="20261101181000 +0300" stop="20261101190500 +0300" channel="3020">
-	<title /><desc /></programme>
-<programme start="20261031162000 +0300" stop="20261031185000 +0300" channel="3021">
-	<title /></programme>
-<programme start="20261031185000 +0300" stop="20261031203000 +0300" channel="3021">
-	<title /></programme>
-<programme start="20261031203000 +0300" stop="20261031214500 +0300" channel="3021">
-	<title /></programme>
-<programme start="20261031214500 +0300" stop="20261031220000 +0300" channel="3021">
-	<title /></programme>
-<programme start="20261031220000 +0300" stop="20261031231000 +0300" channel="3021">
-	<title /></programme>
-<programme start="20261031231000 +0300" stop="20261101000500 +0300" channel="3021">
-	<title /></programme>
-<programme start="20261101000500 +0300" stop="20261101003500 +0300" channel="3021">
-	<title /></programme>
-<programme start="20261101003500 +0300" stop="20261101011000 +0300" channel="3021">
-	<title /></programme>
-<programme start="20261101011000 +0300" stop="20261101014000 +0300" channel="3021">
-	<title /></programme>
-<programme start="20261101014000 +0300" stop="20261101030000 +0300" channel="3021">
-	<title /></programme>
-<programme start="20261101030000 +0300" stop="20261101031000 +0300" channel="3021">
-	<title /></programme>
-<programme start="20261101031000 +0300" stop="20261101034000 +0300" channel="3021">
-	<title /></programme>
-<programme start="20261101034000 +0300" stop="20261101051000 +0300" channel="3021">
-	<title /></programme>
-<programme start="20261101051000 +0300" stop="20261101060000 +0300" channel="3021">
-	<title /><desc /></programme>
-<programme start="20261101060000 +0300" stop="20261101061500 +0300" channel="3021">
-	<title /><desc /></programme>
-<programme start="20261101061500 +0300" stop="20261101072000 +0300" channel="3021">
-	<title /><desc /></programme>
-<programme start="20261101072000 +0300" stop="20261101091500 +0300" channel="3021">
-	<title /><desc /></programme>
-<programme start="20261101091500 +0300" stop="20261101105500 +0300" channel="3021">
-	<title /><desc /></programme>
-<programme start="20261101105500 +0300" stop="20261101110000 +0300" channel="3021">
-	<title /><desc /></programme>
-<programme start="20261101110000 +0300" stop="20261101111500 +0300" channel="3021">
-	<title /><desc /></programme>
-<programme start="20261101111500 +0300" stop="20261101132000 +0300" channel="3021">
-	<title /><desc /></programme>
-<programme start="20261101132000 +0300" stop="20261101141500 +0300" channel="3021">
-	<title /><desc /></programme>
-<programme start="20261101141500 +0300" stop="20261101151000 +0300" channel="3021">
-	<title /><desc /></programme>
-<programme start="20261101151000 +0300" stop="20261101160500 +0300" channel="3021">
-	<title /><desc /></programme>
 </tv>
