@@ -10,7 +10,7 @@
   "okhttp": 6,
   "OTT": 2,
   "Lavf": 2,
-  "Wink": 2
+  "Wink": 18
  },
  "91.186.196.185": {
   "Kodi": 12
@@ -81,7 +81,7 @@
   "SmartTV": 2,
   "ExoPlayer": 2,
   "AndroidTV": 110,
-  "MXPlayer": 2
+  "MXPlayer": 4
  },
  "3.hls.gd": {
   "HlsWinkPlayer": -4,
@@ -106,10 +106,10 @@
  "89.104.114.24": {
   "Firefox": 2,
   "Lavf": 24,
-  "okhttp": 2
+  "okhttp": 4
  },
  "185.23.80.23": {
-  "MXPlayer": 86,
+  "MXPlayer": 98,
   "okhttp": 6,
   "Chrome_Win": 4
  },
@@ -154,7 +154,7 @@
   "TiviMate": -6,
   "Chrome_Win": -5,
   "Wink": -5,
-  "Firefox": -2,
+  "Firefox": 0,
   "AndroidTV": -4,
   "Safari_Mac": -4,
   "MXPlayer": -4
@@ -174,7 +174,7 @@
   "Safari_Mac": 2,
   "OTT": 2,
   "Wink": 2,
-  "VLC": 2
+  "VLC": 20
  },
  "dcur8bjarl5c2.cloudfront.net": {
   "SmartTV": 12
@@ -184,7 +184,7 @@
  },
  "178.217.49.7": {
   "SmartTV": 14,
-  "Wink": 2
+  "Wink": 4
  },
  "178.124.153.123": {
   "HlsWinkPlayer": 2,
@@ -208,7 +208,7 @@
   "OTT": 2,
   "HlsWinkPlayer": 46,
   "ExoPlayer": 2,
-  "VLC": 2
+  "VLC": 8
  },
  "185.121.1.163": {
   "okhttp": 180
@@ -220,7 +220,7 @@
   "OTT": 10,
   "Lavf": 4,
   "VLC": 6,
-  "okhttp": 6,
+  "okhttp": 40,
   "SmartTV": 2
  },
  "193.169.178.29": {
@@ -231,7 +231,7 @@
   "Safari_Mac": 5,
   "OTT": 548,
   "Lavf": 0,
-  "okhttp": 2,
+  "okhttp": 38,
   "Kodi": -2,
   "SmartTV": -1,
   "TiviMate": 1,
@@ -287,7 +287,7 @@
   "ExoPlayer": -1,
   "Safari_Mac": -1,
   "Kodi": -2,
-  "okhttp": 4
+  "okhttp": 6
  },
  "217.174.225.146": {
   "Wink": 48
@@ -315,7 +315,7 @@
   "HlsWinkPlayer": 6,
   "Firefox": 4,
   "okhttp": 8,
-  "MXPlayer": 16,
+  "MXPlayer": 18,
   "VLC": 10,
   "Kodi": 8,
   "AndroidTV": 6,
@@ -345,7 +345,7 @@
  },
  "185.37.150.46": {
   "Wink": 14,
-  "MXPlayer": 2
+  "MXPlayer": 4
  },
  "d18ufyp3q60j7u.cloudfront.net": {
   "AndroidTV": 2,
@@ -427,12 +427,12 @@
   "Chrome_Win": 2,
   "SmartTV": 2,
   "Kodi": 286,
-  "okhttp": 2
+  "okhttp": 4
  },
  "fs.uplink.kz": {
   "MXPlayer": -78,
   "AndroidTV": -69,
-  "VLC": -75,
+  "VLC": -65,
   "Kodi": -77,
   "SmartTV": -84,
   "Chrome_Win": -102,
@@ -483,7 +483,7 @@
  },
  "live2-aisttv.cdnvideo.ru": {
   "SmartTV": 14,
-  "ExoPlayer": 2
+  "ExoPlayer": 4
  },
  "ms2.mx-cd.net": {
   "VLC": 2,
@@ -553,7 +553,7 @@
   "TiviMate": 2,
   "ExoPlayer": 2,
   "HlsWinkPlayer": 2,
-  "okhttp": 2
+  "okhttp": 8
  },
  "radio538.prd1.talpatvcdn.nl": {
   "HlsWinkPlayer": 12
@@ -607,7 +607,7 @@
  },
  "stream.afontovo.ru": {
   "okhttp": 14,
-  "Firefox": 2
+  "Firefox": 4
  },
  "31.192.249.68": {
   "SmartTV": -1,
@@ -626,7 +626,7 @@
   "VLC": -3,
   "OTT": -1,
   "HlsWinkPlayer": 2,
-  "SmartTV": 2
+  "SmartTV": 6
  },
  "1927901613.rsc.cdn77.org": {
   "Wink": 12
@@ -688,7 +688,7 @@
   "Safari_Mac": 0,
   "TiviMate": 201,
   "SmartTV": 1,
-  "okhttp": 2,
+  "okhttp": 6,
   "Chrome_Win": 1,
   "ExoPlayer": 3,
   "Kodi": 1,
@@ -779,7 +779,7 @@
   "Wink": -1,
   "Lavf": -1,
   "Safari_Mac": -1,
-  "okhttp": 4,
+  "okhttp": 20,
   "TiviMate": 4,
   "MXPlayer": 2
  },
@@ -811,7 +811,7 @@
   "Wink": 2,
   "AndroidTV": 2,
   "Firefox": 200,
-  "okhttp": 2
+  "okhttp": 4
  },
  "edge-tv-ll.facecast.io": {
   "HlsWinkPlayer": 28
@@ -847,7 +847,7 @@
  },
  "flussonic.linkintel.ru": {
   "OTT": 8,
-  "Chrome_Win": 6,
+  "Chrome_Win": 42,
   "Lavf": 7,
   "Wink": 247,
   "SmartTV": -1,
@@ -940,14 +940,14 @@
  "31.131.139.253": {
   "MXPlayer": 28,
   "okhttp": 2,
-  "OTT": 2
+  "OTT": 6
  },
  "unlimited1-us.dps.live": {
   "Kodi": 36
  },
  "stream.smotrim.ru": {
   "Firefox": 5,
-  "SmartTV": 283,
+  "SmartTV": 299,
   "HlsWinkPlayer": -1,
   "Wink": -2,
   "Lavf": -2,
@@ -980,14 +980,14 @@
   "SmartTV": -1,
   "OTT": -1,
   "Wink": 26,
-  "Safari_Mac": 2
+  "Safari_Mac": 4
  },
  "pb-jc9emctsujawo.akamaized.net": {
   "Firefox": 12
  },
  "streaming.astrakhan.ru": {
   "HlsWinkPlayer": 8,
-  "okhttp": 4,
+  "okhttp": 10,
   "Kodi": 2,
   "OTT": 130,
   "Lavf": 2
@@ -1136,7 +1136,7 @@
  },
  "cdn-01.bonus-tv.ru": {
   "okhttp": 112,
-  "TiviMate": 2
+  "TiviMate": 4
  },
  "s03.watcher.uz": {
   "OTT": 13,
@@ -1165,7 +1165,7 @@
   "Lavf": 70,
   "okhttp": 2,
   "AndroidTV": 2,
-  "OTT": 2
+  "OTT": 10
  },
  "stream-msk-09.ott.tricolor.tv": {
   "Safari_Mac": 60
@@ -1213,7 +1213,7 @@
  },
  "91.224.16.9": {
   "VLC": 14,
-  "Lavf": 2
+  "Lavf": 4
  },
  "46.46.143.222": {
   "TiviMate": 44,
@@ -1237,7 +1237,7 @@
   "Chrome_Win": 186
  },
  "bl.rutube.ru": {
-  "okhttp": 4619,
+  "okhttp": 4633,
   "HlsWinkPlayer": 16,
   "TiviMate": 1,
   "Safari_Mac": 0,
@@ -1399,7 +1399,7 @@
   "Chrome_Win": -1
  },
  "fashionlive.mediacdn.ru": {
-  "okhttp": 28
+  "okhttp": 30
  },
  "fl1004.bozztv.com": {
   "OTT": 48
@@ -1422,7 +1422,7 @@
   "OTT": 2,
   "Safari_Mac": 4,
   "HlsWinkPlayer": 2,
-  "Chrome_Win": 344,
+  "Chrome_Win": 350,
   "VLC": 2
  },
  "plbl.m9.lfstrm.tv": {
@@ -1437,7 +1437,7 @@
  },
  "tvzvezda.bonus-tv.ru": {
   "Safari_Mac": 88,
-  "Lavf": 2
+  "Lavf": 4
  },
  "live.france24.com": {
   "VLC": 2,
@@ -1455,7 +1455,7 @@
  },
  "serv25.vintera.tv": {
   "AndroidTV": 112,
-  "Wink": 2
+  "Wink": 4
  },
  "cdn2.ntv.ru": {
   "MXPlayer": 2,
@@ -1577,7 +1577,7 @@
  "dmi3y-tv.online": {
   "SmartTV": 38,
   "Lavf": -1,
-  "okhttp": 2
+  "okhttp": 4
  },
  "s91030.cdn.ngenix.net": {
   "OTT": 60
@@ -1698,7 +1698,7 @@
  },
  "live-saha.cdnvideo.ru": {
   "TiviMate": 40,
-  "Wink": 2
+  "Wink": 4
  },
  "tvchannelstream1.tvzvezda.ru": {
   "Kodi": 2,
@@ -1707,7 +1707,7 @@
   "okhttp": 2,
   "Safari_Mac": 2,
   "Lavf": 88,
-  "TiviMate": 2
+  "TiviMate": 4
  },
  "indiatodaylive.akamaized.net": {
   "Safari_Mac": 2,
@@ -1741,7 +1741,7 @@
  "live1.1tvcrimea.ru": {
   "okhttp": 2,
   "HlsWinkPlayer": 38,
-  "OTT": 2
+  "OTT": 4
  },
  "rt-ural-tum-htlive.cdn.ngenix.net": {
   "MXPlayer": 12
@@ -1822,7 +1822,7 @@
   "TiviMate": 24
  },
  "212.5.144.156": {
-  "OTT": 5,
+  "OTT": 7,
   "Lavf": -1,
   "AndroidTV": -1,
   "HlsWinkPlayer": -1,
@@ -1901,7 +1901,7 @@
  },
  "5f05e059699ae.streamlock.net": {
   "VLC": 28,
-  "TiviMate": 2
+  "TiviMate": 4
  },
  "radm.mediacdn.ru": {
   "OTT": 2,
@@ -1955,7 +1955,7 @@
   "Lavf": -2,
   "okhttp": -1,
   "Kodi": -1,
-  "OTT": 1,
+  "OTT": 5,
   "Chrome_Win": 2
  },
  "ocko-live.ssl.cdn.cra.cz": {
@@ -2050,7 +2050,7 @@
  "46.53.200.153": {
   "VLC": 40,
   "HlsWinkPlayer": 4,
-  "okhttp": 7,
+  "okhttp": 47,
   "Lavf": -1,
   "SmartTV": -1,
   "OTT": -1,
@@ -2070,16 +2070,22 @@
   "Wink": 72
  },
  "176.126.166.43": {
-  "ExoPlayer": 2,
+  "ExoPlayer": 1,
   "OTT": 26,
   "Chrome_Win": 2,
-  "VLC": 2
+  "VLC": 0,
+  "Lavf": -1,
+  "okhttp": -2,
+  "MXPlayer": -1,
+  "Kodi": -1,
+  "AndroidTV": -1,
+  "Safari_Mac": -1
  },
  "168.196.127.137": {
   "AndroidTV": 1,
   "Lavf": -1,
   "VLC": 2,
-  "okhttp": 2
+  "okhttp": 4
  },
  "212.112.106.117": {
   "okhttp": -1,
@@ -2105,7 +2111,7 @@
   "Kodi": 12
  },
  "sitv.ru": {
-  "OTT": 40
+  "OTT": 42
  },
  "edge.kuzeykibrissmart.tv": {
   "Kodi": 70
@@ -2138,7 +2144,7 @@
  },
  "213.91.179.28": {
   "MXPlayer": 14,
-  "Wink": 2
+  "Wink": 4
  },
  "stream0.tv41.ru": {
   "Lavf": 4
@@ -2203,7 +2209,7 @@
  },
  "31.131.141.195": {
   "HlsWinkPlayer": -2,
-  "VLC": 1,
+  "VLC": 3,
   "Lavf": -7,
   "okhttp": -4,
   "Firefox": -2,
@@ -2296,7 +2302,7 @@
  "217.114.191.150": {
   "okhttp": 28,
   "Kodi": 2,
-  "Lavf": 2
+  "Lavf": 6
  },
  "live.mediacdn.ru": {
   "MXPlayer": 14
@@ -2319,7 +2325,7 @@
  "serv30.vintera.tv": {
   "SmartTV": 2,
   "Lavf": 50,
-  "okhttp": 2
+  "okhttp": 4
  },
  "pbc.furrera.ps": {
   "Lavf": 12
@@ -2723,7 +2729,7 @@
  },
  "rtmp.one.by": {
   "Safari_Mac": 50,
-  "AndroidTV": 2
+  "AndroidTV": 4
  },
  "stream.ecable.tv": {
   "VLC": 2,
@@ -3090,7 +3096,7 @@
  "188.113.190.12": {
   "Firefox": 2,
   "Lavf": 36,
-  "HlsWinkPlayer": 2
+  "HlsWinkPlayer": 4
  },
  "mumbai-edge.smartplaytv.in": {
   "Wink": 19,
@@ -3239,7 +3245,7 @@
  },
  "93.170.254.17": {
   "Kodi": 26,
-  "Lavf": 2
+  "Lavf": 4
  },
  "rr3.tvdosug.net": {
   "Chrome_Win": 2,
@@ -3361,7 +3367,7 @@
  },
  "contact.gostreaming.tv": {
   "VLC": 26,
-  "okhttp": 2
+  "okhttp": 4
  },
  "11c1368ec8294a8d8c7c079248909db4.mediatailor.us-east-2.amazonaws.com": {
   "SmartTV": -1,
@@ -3379,7 +3385,7 @@
   "HlsWinkPlayer": 2,
   "Lavf": 42,
   "okhttp": 2,
-  "Kodi": 2
+  "Kodi": 8
  },
  "tvspas.mediacdn.ru": {
   "SmartTV": 14
@@ -3431,7 +3437,7 @@
  },
  "109.94.1.3": {
   "Lavf": 14,
-  "VLC": 2
+  "VLC": 4
  },
  "tv3v.live-kd.com": {
   "OTT": 12
@@ -3479,7 +3485,7 @@
   "AndroidTV": 32
  },
  "user91229.clients-cdnnow.ru": {
-  "Lavf": 16
+  "Lavf": 18
  },
  "188.208.197.173": {
   "okhttp": 12
@@ -3495,7 +3501,7 @@
  },
  "rtmp.tvpro-online.ru": {
   "VLC": 14,
-  "Kodi": 2
+  "Kodi": 4
  },
  "bzm3mfjq.velstraso.top": {
   "okhttp": -1,
@@ -3585,7 +3591,7 @@
  },
  "iam-profi.ru": {
   "SmartTV": 14,
-  "VLC": 2
+  "VLC": 4
  },
  "zouglacam-mdc-secure.akamaized.net": {
   "okhttp": 12
@@ -3607,7 +3613,7 @@
  },
  "live-maidantv.cdnvideo.ru": {
   "Lavf": 26,
-  "MXPlayer": 2
+  "MXPlayer": 4
  },
  "rt-vlg-yola-htlive.cdn.ngenix.net": {
   "MXPlayer": 4
@@ -3713,7 +3719,7 @@
  },
  "belnovosti.cdn.easyhoster.ru": {
   "VLC": 14,
-  "Chrome_Win": 2
+  "Chrome_Win": 4
  },
  "live-ugratv.cdnvideo.ru": {
   "Safari_Mac": 14
@@ -3771,7 +3777,7 @@
   "Lavf": -1,
   "HlsWinkPlayer": 56,
   "okhttp": 2,
-  "OTT": 2
+  "OTT": 6
  },
  "serv24.vintera.tv": {
   "Lavf": 14
@@ -3805,7 +3811,7 @@
   "VLC": -1,
   "Lavf": -1,
   "SmartTV": 14,
-  "Wink": 2
+  "Wink": 4
  },
  "stream.realitatea.net": {
   "Lavf": -3,
@@ -3820,7 +3826,7 @@
  "bsttv.bonus-tv.ru": {
   "Kodi": 44,
   "Wink": 2,
-  "HlsWinkPlayer": 2
+  "HlsWinkPlayer": 8
  },
  "88.99.215.227": {
   "Safari_Mac": -2,
@@ -3854,7 +3860,7 @@
  "12channel.bonus-tv.ru": {
   "Firefox": 2,
   "Kodi": 24,
-  "okhttp": 2
+  "okhttp": 4
  },
  "flash2.xdevel.com": {
   "Safari_Mac": 10
@@ -3865,7 +3871,7 @@
  },
  "infochh.trkeurasia.ru": {
   "Lavf": 14,
-  "AndroidTV": 2
+  "AndroidTV": 4
  },
  "45.159.94.49": {
   "okhttp": -6,
@@ -3895,7 +3901,7 @@
  },
  "dash4.antik.sk": {
   "ExoPlayer": 14,
-  "Kodi": 2
+  "Kodi": 4
  },
  "104.143.4.5": {
   "SmartTV": 12
@@ -3926,19 +3932,19 @@
   "OTT": 9,
   "Lavf": -1,
   "TiviMate": -1,
-  "VLC": 1,
+  "VLC": 3,
   "Safari_Mac": -1
  },
  "video.govoritmoskva.ru": {
   "TiviMate": 14,
-  "VLC": 2
+  "VLC": 4
  },
  "cdn2.ujjina.com": {
   "Lavf": 12
  },
  "hitfm.nfthost.net": {
   "Lavf": 14,
-  "VLC": 2
+  "VLC": 4
  },
  "donmedia.bonus-tv.ru": {
   "Kodi": -1,
@@ -3965,7 +3971,7 @@
   "Firefox": 12
  },
  "stream.qazcdn.net": {
-  "Lavf": 30
+  "Lavf": 32
  },
  "78.62.9.23": {
   "Firefox": -1,
@@ -4002,7 +4008,7 @@
   "SmartTV": 10
  },
  "sb.err.ee": {
-  "MXPlayer": 16
+  "MXPlayer": 18
  },
  "timeshift.arpinet.am": {
   "okhttp": 48
@@ -4015,7 +4021,7 @@
  },
  "89.218.30.37": {
   "Kodi": 14,
-  "Lavf": 2
+  "Lavf": 4
  },
  "www.gorodfm.ru": {
   "Chrome_Win": 12
@@ -4044,7 +4050,7 @@
  },
  "hlspackager.akamaized.net": {
   "AndroidTV": 26,
-  "okhttp": 2
+  "okhttp": 4
  },
  "chemnitz.iptv-playoutcenter.de": {
   "okhttp": 12
@@ -4211,7 +4217,7 @@
  },
  "live-rian.cdnvideo.ru": {
   "Lavf": 14,
-  "okhttp": 2
+  "okhttp": 4
  },
  "stream.rtvmaastricht.nl": {
   "Lavf": 12
@@ -4261,7 +4267,7 @@
  },
  "live-ntm13.cdnvideo.ru": {
   "Lavf": 14,
-  "Kodi": 2
+  "Kodi": 4
  },
  "kdlive.duhnet.tv": {
   "SmartTV": 12
@@ -4271,7 +4277,7 @@
  },
  "istoki.tv": {
   "okhttp": 8,
-  "Safari_Mac": 2
+  "Safari_Mac": 4
  },
  "rpprod.hbbtv.cdn.cra.cz": {
   "Lavf": 8,
@@ -4317,10 +4323,10 @@
  },
  "91.194.79.46": {
   "Lavf": 14,
-  "okhttp": 2
+  "okhttp": 4
  },
  "jz2lo90hnpy.a.trbcdn.net": {
-  "Lavf": 16
+  "Lavf": 18
  },
  "rt-sth-vkaz-htlive.cdn.ngenix.net": {
   "okhttp": 12
@@ -4330,7 +4336,7 @@
   "OTT": -1,
   "VLC": -1,
   "Kodi": -1,
-  "MXPlayer": 2
+  "MXPlayer": 4
  },
  "181.205.130.194": {
   "Kodi": 12
@@ -4361,17 +4367,17 @@
  },
  "ngtrk.dc.beltelecom.by": {
   "okhttp": 14,
-  "Safari_Mac": 2
+  "Safari_Mac": 4
  },
  "cdn15.live-tv.cloud": {
   "Lavf": 14,
-  "Kodi": 2
+  "Kodi": 4
  },
  "stream1.dc.beltelecom.by": {
   "OTT": 14
  },
  "live-rikatv.cdnvideo.ru": {
-  "TiviMate": 28
+  "TiviMate": 30
  },
  "mts1.iptv-playoutcenter.de": {
   "VLC": 12
@@ -4425,7 +4431,7 @@
  },
  "45.132.87.69": {
   "SmartTV": 14,
-  "Chrome_Win": 2
+  "Chrome_Win": 4
  },
  "rt-nw-novg-htlive.cdn.ngenix.net": {
   "OTT": 14
@@ -4506,7 +4512,7 @@
   "OTT": -1,
   "Firefox": -1,
   "SmartTV": -1,
-  "AndroidTV": 2
+  "AndroidTV": 4
  },
  "k20.usastreams.com": {
   "Lavf": 36
@@ -4645,7 +4651,7 @@
  "api.alpaca.t62a.com": {
   "Lavf": -1,
   "okhttp": 14,
-  "AndroidTV": 2
+  "AndroidTV": 4
  },
  "rt-sth-krdar-htlive.cdn.ngenix.net": {
   "Lavf": -1,

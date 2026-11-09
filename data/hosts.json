@@ -4,7 +4,7 @@
   "fail": 1
  },
  "88.212.15.50": {
-  "ok": 64,
+  "ok": 72,
   "fail": 0
  },
  "91.186.196.185": {
@@ -28,7 +28,7 @@
   "fail": 0
  },
  "live-vgtrksmotrim.cdnvideo.ru": {
-  "ok": 60,
+  "ok": 61,
   "fail": 5
  },
  "3.hls.gd": {
@@ -40,11 +40,11 @@
   "fail": 0
  },
  "89.104.114.24": {
-  "ok": 14,
+  "ok": 15,
   "fail": 0
  },
  "185.23.80.23": {
-  "ok": 48,
+  "ok": 54,
   "fail": 0
  },
  "static.am.mediaoutcast.com": {
@@ -60,7 +60,7 @@
   "fail": 1
  },
  "45.153.24.78": {
-  "ok": 9,
+  "ok": 10,
   "fail": 8
  },
  "media.rtvnoord.nl": {
@@ -72,7 +72,7 @@
   "fail": 0
  },
  "178.134.1.158": {
-  "ok": 234,
+  "ok": 243,
   "fail": 1
  },
  "dcur8bjarl5c2.cloudfront.net": {
@@ -84,7 +84,7 @@
   "fail": 0
  },
  "178.217.49.7": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "178.124.153.123": {
@@ -108,7 +108,7 @@
   "fail": 0
  },
  "194.143.148.28": {
-  "ok": 26,
+  "ok": 29,
   "fail": 1
  },
  "185.121.1.163": {
@@ -116,7 +116,7 @@
   "fail": 0
  },
  "31.148.5.241": {
-  "ok": 95,
+  "ok": 112,
   "fail": 17
  },
  "193.169.178.29": {
@@ -124,7 +124,7 @@
   "fail": 0
  },
  "176.118.197.101": {
-  "ok": 288,
+  "ok": 306,
   "fail": 2
  },
  "cdnstack.internetmultimediaonline.org": {
@@ -144,7 +144,7 @@
   "fail": 0
  },
  "45.11.139.43": {
-  "ok": 24,
+  "ok": 25,
   "fail": 4
  },
  "217.174.225.146": {
@@ -156,7 +156,7 @@
   "fail": 4
  },
  "flussonic.mkpnet.ru": {
-  "ok": 1046,
+  "ok": 1047,
   "fail": 0
  },
  "prokazov.ottolok.net": {
@@ -168,7 +168,7 @@
   "fail": 68
  },
  "185.37.150.46": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "d18ufyp3q60j7u.cloudfront.net": {
@@ -228,7 +228,7 @@
   "fail": 0
  },
  "stitch.teletarget.ru": {
-  "ok": 146,
+  "ok": 147,
   "fail": 0
  },
  "svs.itworkscdn.net": {
@@ -240,7 +240,7 @@
   "fail": 0
  },
  "fs.uplink.kz": {
-  "ok": 52,
+  "ok": 57,
   "fail": 246
  },
  "05cea6e8.ucomist.net": {
@@ -284,7 +284,7 @@
   "fail": 1
  },
  "live2-aisttv.cdnvideo.ru": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "ms2.mx-cd.net": {
@@ -320,7 +320,7 @@
   "fail": 0
  },
  "tshift-1.telecoma.tv": {
-  "ok": 31,
+  "ok": 34,
   "fail": 1
  },
  "radio538.prd1.talpatvcdn.nl": {
@@ -360,11 +360,11 @@
   "fail": 0
  },
  "stream.afontovo.ru": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "live-3.otcnet.ru": {
-  "ok": 40,
+  "ok": 42,
   "fail": 7
  },
  "1927901613.rsc.cdn77.org": {
@@ -404,7 +404,7 @@
   "fail": 0
  },
  "v4.proofix.ru": {
-  "ok": 112,
+  "ok": 114,
   "fail": 2
  },
  "cloudfront44.lexanetwork.com": {
@@ -456,7 +456,7 @@
   "fail": 0
  },
  "cdn-dvr.ntv.ru": {
-  "ok": 171,
+  "ok": 179,
   "fail": 3
  },
  "5b33b873179a2.streamlock.net": {
@@ -488,7 +488,7 @@
   "fail": 0
  },
  "185.57.68.33": {
-  "ok": 104,
+  "ok": 105,
   "fail": 0
  },
  "edge-tv-ll.facecast.io": {
@@ -524,7 +524,7 @@
   "fail": 0
  },
  "flussonic.linkintel.ru": {
-  "ok": 144,
+  "ok": 162,
   "fail": 2
  },
  "watcher.uz": {
@@ -576,7 +576,7 @@
   "fail": 1
  },
  "31.131.139.253": {
-  "ok": 16,
+  "ok": 18,
   "fail": 0
  },
  "unlimited1-us.dps.live": {
@@ -584,7 +584,7 @@
   "fail": 0
  },
  "stream.smotrim.ru": {
-  "ok": 149,
+  "ok": 157,
   "fail": 22
  },
  "51.158.144.33": {
@@ -612,7 +612,7 @@
   "fail": 0
  },
  "streaming.astrakhan.ru": {
-  "ok": 73,
+  "ok": 76,
   "fail": 1
  },
  "streamcdnb4-3177cee185284d2990021eccc8b06ae6.msvdn.net": {
@@ -708,7 +708,7 @@
   "fail": 0
  },
  "catchup.videoline.ru": {
-  "ok": 14,
+  "ok": 15,
   "fail": 2
  },
  "live.salto.nl": {
@@ -756,7 +756,7 @@
   "fail": 1
  },
  "cdn-01.bonus-tv.ru": {
-  "ok": 57,
+  "ok": 58,
   "fail": 1
  },
  "s03.watcher.uz": {
@@ -772,7 +772,7 @@
   "fail": 0
  },
  "178.124.179.122": {
-  "ok": 38,
+  "ok": 42,
   "fail": 0
  },
  "stream-msk-09.ott.tricolor.tv": {
@@ -800,7 +800,7 @@
   "fail": 0
  },
  "91.224.16.9": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "46.46.143.222": {
@@ -820,7 +820,7 @@
   "fail": 0
  },
  "bl.rutube.ru": {
-  "ok": 2348,
+  "ok": 2355,
   "fail": 13
  },
  "streaming03.zas.media": {
@@ -932,7 +932,7 @@
   "fail": 1
  },
  "fashionlive.mediacdn.ru": {
-  "ok": 14,
+  "ok": 15,
   "fail": 0
  },
  "fl1004.bozztv.com": {
@@ -952,7 +952,7 @@
   "fail": 0
  },
  "cdn.ntv.ru": {
-  "ok": 180,
+  "ok": 183,
   "fail": 0
  },
  "plbl.m9.lfstrm.tv": {
@@ -964,7 +964,7 @@
   "fail": 0
  },
  "tvzvezda.bonus-tv.ru": {
-  "ok": 45,
+  "ok": 46,
   "fail": 1
  },
  "live.france24.com": {
@@ -976,7 +976,7 @@
   "fail": 4
  },
  "serv25.vintera.tv": {
-  "ok": 57,
+  "ok": 58,
   "fail": 1
  },
  "cdn2.ntv.ru": {
@@ -1092,7 +1092,7 @@
   "fail": 0
  },
  "dmi3y-tv.online": {
-  "ok": 20,
+  "ok": 21,
   "fail": 0
  },
  "s91030.cdn.ngenix.net": {
@@ -1152,11 +1152,11 @@
   "fail": 1
  },
  "live-saha.cdnvideo.ru": {
-  "ok": 21,
+  "ok": 22,
   "fail": 1
  },
  "tvchannelstream1.tvzvezda.ru": {
-  "ok": 50,
+  "ok": 51,
   "fail": 0
  },
  "fl.biztv.media": {
@@ -1176,7 +1176,7 @@
   "fail": 0
  },
  "live1.1tvcrimea.ru": {
-  "ok": 21,
+  "ok": 22,
   "fail": 1
  },
  "rt-ural-tum-htlive.cdn.ngenix.net": {
@@ -1220,7 +1220,7 @@
   "fail": 0
  },
  "212.5.144.156": {
-  "ok": 3,
+  "ok": 4,
   "fail": 1
  },
  "rt-arb.rttv.com": {
@@ -1256,7 +1256,7 @@
   "fail": 1
  },
  "5f05e059699ae.streamlock.net": {
-  "ok": 15,
+  "ok": 16,
   "fail": 1
  },
  "15.204.246.24": {
@@ -1284,7 +1284,7 @@
   "fail": 3
  },
  "85.238.112.40": {
-  "ok": 4,
+  "ok": 6,
   "fail": 2
  },
  "ocko-live.ssl.cdn.cra.cz": {
@@ -1364,7 +1364,7 @@
   "fail": 1
  },
  "46.53.200.153": {
-  "ok": 129,
+  "ok": 149,
   "fail": 6
  },
  "rt-glb.rttv.com": {
@@ -1373,10 +1373,10 @@
  },
  "176.126.166.43": {
   "ok": 16,
-  "fail": 0
+  "fail": 2
  },
  "168.196.127.137": {
-  "ok": 3,
+  "ok": 4,
   "fail": 1
  },
  "live.chechensoft.ru": {
@@ -1392,7 +1392,7 @@
   "fail": 2
  },
  "sitv.ru": {
-  "ok": 20,
+  "ok": 21,
   "fail": 3
  },
  "edge.kuzeykibrissmart.tv": {
@@ -1412,7 +1412,7 @@
   "fail": 4
  },
  "213.91.179.28": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "stream0.tv41.ru": {
@@ -1544,7 +1544,7 @@
   "fail": 1
  },
  "217.114.191.150": {
-  "ok": 16,
+  "ok": 18,
   "fail": 0
  },
  "live.mediacdn.ru": {
@@ -1556,7 +1556,7 @@
   "fail": 1
  },
  "serv30.vintera.tv": {
-  "ok": 27,
+  "ok": 28,
   "fail": 1
  },
  "pbc.furrera.ps": {
@@ -1896,7 +1896,7 @@
   "fail": 0
  },
  "rtmp.one.by": {
-  "ok": 26,
+  "ok": 27,
   "fail": 0
  },
  "stream.ecable.tv": {
@@ -2192,7 +2192,7 @@
   "fail": 0
  },
  "188.113.190.12": {
-  "ok": 20,
+  "ok": 21,
   "fail": 0
  },
  "mumbai-edge.smartplaytv.in": {
@@ -2304,7 +2304,7 @@
   "fail": 1
  },
  "93.170.254.17": {
-  "ok": 14,
+  "ok": 15,
   "fail": 0
  },
  "rr3.tvdosug.net": {
@@ -2436,7 +2436,7 @@
   "fail": 1
  },
  "contact.gostreaming.tv": {
-  "ok": 14,
+  "ok": 15,
   "fail": 0
  },
  "91.228.35.249": {
@@ -2456,7 +2456,7 @@
   "fail": 0
  },
  "dash2.antik.sk": {
-  "ok": 24,
+  "ok": 27,
   "fail": 0
  },
  "tvspas.mediacdn.ru": {
@@ -2484,7 +2484,7 @@
   "fail": 0
  },
  "109.94.1.3": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "tv3v.live-kd.com": {
@@ -2500,7 +2500,7 @@
   "fail": 4
  },
  "31.131.141.195": {
-  "ok": 1,
+  "ok": 2,
   "fail": 13
  },
  "live-stream-01.ott.tricolor.tv": {
@@ -2556,7 +2556,7 @@
   "fail": 0
  },
  "user91229.clients-cdnnow.ru": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "live-bigradio.cdnvideo.ru": {
@@ -2580,7 +2580,7 @@
   "fail": 1
  },
  "rtmp.tvpro-online.ru": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "hls127.freeott.top": {
@@ -2692,7 +2692,7 @@
   "fail": 1
  },
  "iam-profi.ru": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "zouglacam-mdc-secure.akamaized.net": {
@@ -2708,7 +2708,7 @@
   "fail": 1
  },
  "live-maidantv.cdnvideo.ru": {
-  "ok": 14,
+  "ok": 15,
   "fail": 0
  },
  "st2.mediabay.tv": {
@@ -2824,7 +2824,7 @@
   "fail": 1
  },
  "belnovosti.cdn.easyhoster.ru": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "live-ugratv.cdnvideo.ru": {
@@ -2904,7 +2904,7 @@
   "fail": 6
  },
  "bsttv.bonus-tv.ru": {
-  "ok": 24,
+  "ok": 27,
   "fail": 0
  },
  "tv.cdn.xsg.ge": {
@@ -2916,7 +2916,7 @@
   "fail": 0
  },
  "12channel.bonus-tv.ru": {
-  "ok": 14,
+  "ok": 15,
   "fail": 0
  },
  "flash2.xdevel.com": {
@@ -2924,7 +2924,7 @@
   "fail": 1
  },
  "infochh.trkeurasia.ru": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "stream.realitatea.net": {
@@ -2936,7 +2936,7 @@
   "fail": 0
  },
  "dash4.antik.sk": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "104.143.4.5": {
@@ -2948,7 +2948,7 @@
   "fail": 2
  },
  "cdn4.skygo.mn": {
-  "ok": 30,
+  "ok": 32,
   "fail": 2
  },
  "radio.rtrs.tv": {
@@ -2960,11 +2960,11 @@
   "fail": 1
  },
  "live.guberniatv.cdnvideo.ru": {
-  "ok": 6,
+  "ok": 7,
   "fail": 1
  },
  "video.govoritmoskva.ru": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "cdn2.ujjina.com": {
@@ -2972,11 +2972,11 @@
   "fail": 0
  },
  "ext.cdn.nashnet.tv": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "hitfm.nfthost.net": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "1hskrdto.rocketcdn.com": {
@@ -3004,7 +3004,7 @@
   "fail": 0
  },
  "stream.qazcdn.net": {
-  "ok": 15,
+  "ok": 16,
   "fail": 1
  },
  "lightning-tracesport-samsungau.amagi.tv": {
@@ -3040,7 +3040,7 @@
   "fail": 1
  },
  "sb.err.ee": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "timeshift.arpinet.am": {
@@ -3064,7 +3064,7 @@
   "fail": 0
  },
  "89.218.30.37": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "www.gorodfm.ru": {
@@ -3088,7 +3088,7 @@
   "fail": 0
  },
  "hlspackager.akamaized.net": {
-  "ok": 14,
+  "ok": 15,
   "fail": 0
  },
  "chemnitz.iptv-playoutcenter.de": {
@@ -3252,7 +3252,7 @@
   "fail": 0
  },
  "live-rian.cdnvideo.ru": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "stream.rtvmaastricht.nl": {
@@ -3296,7 +3296,7 @@
   "fail": 0
  },
  "live-ntm13.cdnvideo.ru": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "str2.yodacdn.net": {
@@ -3312,7 +3312,7 @@
   "fail": 0
  },
  "istoki.tv": {
-  "ok": 5,
+  "ok": 6,
   "fail": 1
  },
  "stream.kaztrk.kz": {
@@ -3352,11 +3352,11 @@
   "fail": 2
  },
  "91.194.79.46": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "jz2lo90hnpy.a.trbcdn.net": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "rt-sth-vkaz-htlive.cdn.ngenix.net": {
@@ -3392,11 +3392,11 @@
   "fail": 0
  },
  "ngtrk.dc.beltelecom.by": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "cdn15.live-tv.cloud": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "stream1.dc.beltelecom.by": {
@@ -3404,7 +3404,7 @@
   "fail": 1
  },
  "live-rikatv.cdnvideo.ru": {
-  "ok": 14,
+  "ok": 15,
   "fail": 0
  },
  "void.greenhosting.ru": {
@@ -3444,7 +3444,7 @@
   "fail": 2
  },
  "45.132.87.69": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "rt-nw-novg-htlive.cdn.ngenix.net": {
@@ -3488,7 +3488,7 @@
   "fail": 0
  },
  "peqk71plnjy.a.trbcdn.net": {
-  "ok": 1,
+  "ok": 2,
   "fail": 1
  },
  "k20.usastreams.com": {
@@ -3716,7 +3716,7 @@
   "fail": 0
  },
  "api.alpaca.t62a.com": {
-  "ok": 8,
+  "ok": 9,
   "fail": 0
  },
  "200.10.30.241": {
@@ -3864,7 +3864,7 @@
   "fail": 0
  },
  "tv.samaragis.ru": {
-  "ok": 1,
+  "ok": 2,
   "fail": 1
  },
  "tb-simplex-cdn-live.akamaized.net": {

@@ -8282,5 +8282,13 @@
  "http://31.148.48.15/Zhivi/index.m3u8": {
   "fails": 1,
   "ts": 1794175934
+ },
+ "http://176.126.166.43:1935/live/312kino/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1794221581
+ },
+ "http://176.126.166.43:1935/live/312musik/playlist.m3u8": {
+  "fails": 1,
+  "ts": 1794221581
  }
 }
