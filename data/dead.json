@@ -8394,5 +8394,17 @@
  "http://flussonic.linkintel.ru/ntv/index.m3u8": {
   "fails": 1,
   "ts": 1794649797
+ },
+ "http://31.131.139.253:9002/oplot_hd/index.m3u8": {
+  "fails": 1,
+  "ts": 1794738264
+ },
+ "http://31.131.139.253:9002/novoros/index.m3u8": {
+  "fails": 1,
+  "ts": 1794738264
+ },
+ "http://168.196.127.137:6001/play/a0a9/index.m3u8": {
+  "fails": 1,
+  "ts": 1794738266
  }
 }
