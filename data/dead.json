@@ -8406,5 +8406,81 @@
  "http://168.196.127.137:6001/play/a0a9/index.m3u8": {
   "fails": 1,
   "ts": 1794738266
+ },
+ "http://178.134.1.158:8081/red/index.m3u8": {
+  "fails": 1,
+  "ts": 1794825506
+ },
+ "http://31.148.5.241/kanal_10/index.m3u8": {
+  "fails": 1,
+  "ts": 1794825508
+ },
+ "http://31.148.5.241/kanal_15/index.m3u8": {
+  "fails": 1,
+  "ts": 1794825508
+ },
+ "http://31.148.5.241/kanal_11/index.m3u8": {
+  "fails": 1,
+  "ts": 1794825508
+ },
+ "http://31.148.5.241/kanal_3/index.m3u8": {
+  "fails": 1,
+  "ts": 1794825508
+ },
+ "http://31.148.5.241/kanal_18/index.m3u8": {
+  "fails": 1,
+  "ts": 1794825508
+ },
+ "http://31.148.5.241/kanal_17/index.m3u8": {
+  "fails": 1,
+  "ts": 1794825508
+ },
+ "http://31.148.5.241/kanal_12/index.m3u8": {
+  "fails": 1,
+  "ts": 1794825508
+ },
+ "http://31.148.5.241/kanal_13/index.m3u8": {
+  "fails": 1,
+  "ts": 1794825508
+ },
+ "http://31.148.5.241/kanal_4/index.m3u8": {
+  "fails": 1,
+  "ts": 1794825508
+ },
+ "http://31.148.5.241/kanal_19/index.m3u8": {
+  "fails": 1,
+  "ts": 1794825508
+ },
+ "http://31.148.5.241/kanal_9/index.m3u8": {
+  "fails": 1,
+  "ts": 1794825508
+ },
+ "http://31.148.5.241/kanal_5/index.m3u8": {
+  "fails": 1,
+  "ts": 1794825508
+ },
+ "http://31.148.5.241/kanal_20/index.m3u8": {
+  "fails": 1,
+  "ts": 1794825508
+ },
+ "http://31.148.5.241/kanal_1/index.m3u8": {
+  "fails": 1,
+  "ts": 1794825508
+ },
+ "http://31.148.5.241/kanal_16/index.m3u8": {
+  "fails": 1,
+  "ts": 1794825508
+ },
+ "http://31.148.5.241/kanal_14/index.m3u8": {
+  "fails": 1,
+  "ts": 1794825508
+ },
+ "http://31.148.5.241/Viasat_Sport/index.m3u8": {
+  "fails": 1,
+  "ts": 1794825509
+ },
+ "https://live-3.otcnet.ru/congresstv/index.m3u8": {
+  "fails": 1,
+  "ts": 1794825514
  }
 }
