@@ -8482,5 +8482,53 @@
  "https://live-3.otcnet.ru/congresstv/index.m3u8": {
   "fails": 1,
   "ts": 1794825514
+ },
+ "http://178.124.179.122:8080/Setanta1/index.m3u8": {
+  "fails": 1,
+  "ts": 1795000095
+ },
+ "http://178.124.179.122:8080/TRO/index.m3u8": {
+  "fails": 1,
+  "ts": 1795000095
+ },
+ "http://178.124.179.122:8080/HistoryHD/index.m3u8": {
+  "fails": 1,
+  "ts": 1795000095
+ },
+ "http://178.124.179.122:8080/KVN-TV/index.m3u8": {
+  "fails": 1,
+  "ts": 1795000095
+ },
+ "http://178.134.1.158:8081/babytime/index.m3u8": {
+  "fails": 1,
+  "ts": 1795000095
+ },
+ "http://178.134.1.158:8081/U/index.m3u8": {
+  "fails": 1,
+  "ts": 1795000095
+ },
+ "http://178.134.1.158:8081/BRIDGE/index.m3u8": {
+  "fails": 1,
+  "ts": 1795000095
+ },
+ "http://178.134.1.158:8081/BRIDGEROCK/index.m3u8": {
+  "fails": 1,
+  "ts": 1795000095
+ },
+ "http://178.134.1.158:8081/doktor/index.m3u8": {
+  "fails": 1,
+  "ts": 1795000095
+ },
+ "http://178.134.1.158:8081/vkus/index.m3u8": {
+  "fails": 1,
+  "ts": 1795000095
+ },
+ "http://178.134.1.158:8081/t24/index.m3u8": {
+  "fails": 1,
+  "ts": 1795000095
+ },
+ "http://178.134.1.158:8081/ntvhit/index.m3u8": {
+  "fails": 1,
+  "ts": 1795000095
  }
 }
