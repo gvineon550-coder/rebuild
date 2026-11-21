@@ -1,560 +1,578 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/gvineon550-coder/rebuild/main/epg.xml" tvg-shift="0"
-#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" group-title="📡 Федеральные",Telecafe (1080p)
-#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
-http://88.212.15.50/live/test_telecafe_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Poehali.ru@SD" tvg-logo="https://i.imgur.com/ZNCpbII.png" group-title="🎭 Развлекательные",Poehali! (1080p)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://88.212.15.50/live/test_poehali/playlist.m3u8
-#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua@SD" tvg-logo="https://i.imgur.com/jFP50g2.png" group-title="📰 Новостные",Obshchestvennoe Nezavisimoe Televidenie (576p)
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux; Android 11)
-http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1 tvg-id="bobior" tvg-logo="https://i.imgur.com/clWWhB8.png" group-title="📦 Разное",Бобер
-#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
-http://88.212.15.50/live/test_bober/playlist.m3u8
-#EXTINF:-1 tvg-id="muzyka-pervogo" tvg-logo="https://i.imgur.com/U0vKj3P.png" group-title="🎵 Музыкальные",Музыка Первого
-#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
-http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8
-#EXTINF:-1 tvg-id="domkino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="🎬 Кино",Дом кино
-#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
-http://88.212.15.50/live/test_dom_kino/playlist.m3u8
-#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://i.imgur.com/rJpQtvK.png" group-title="🎬 Кино",Дом кино Премиум HD
-#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
-http://88.212.15.50/live/test_dom_kino_premium/playlist.m3u8
 #EXTINF:-1 tvg-id="100NEWS.ua@SD" tvg-logo="https://i.imgur.com/bSXKdK5.png" group-title="📰 Новостные",100% NEWS (576p)
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux; Android 11)
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 tvg-id="rentv" tvg-logo="https://iks-online.net/storage/2018/07/REN-TV-HD.png" group-title="📡 Федеральные",Рен ТВ
-#EXTVLCOPT:http-user-agent=MXPlayer/1.71.6 (Linux; Android 11)
-http://185.23.80.23:8080/REN/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="domkino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="🎬 Кино",Дом кино
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://88.212.15.50/live/test_dom_kino/playlist.m3u8
+#EXTINF:-1 tvg-id="muzyka-pervogo" tvg-logo="https://i.imgur.com/U0vKj3P.png" group-title="🎵 Музыкальные",Музыка Первого
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8
+#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua@SD" tvg-logo="https://i.imgur.com/jFP50g2.png" group-title="📰 Новостные",Obshchestvennoe Nezavisimoe Televidenie (576p)
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux; Android 11)
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://i.imgur.com/rJpQtvK.png" group-title="🎬 Кино",Дом кино Премиум HD
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://88.212.15.50/live/test_dom_kino_premium/playlist.m3u8
+#EXTINF:-1 tvg-id="bobior" tvg-logo="https://i.imgur.com/clWWhB8.png" group-title="📦 Разное",Бобер
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://88.212.15.50/live/test_bober/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" group-title="📡 Федеральные",Telecafe (1080p)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://88.212.15.50/live/test_telecafe_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="malysh" tvg-logo="https://i.imgur.com/c0zZUR1.png" group-title="📦 Разное",Супергерои
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://109.94.1.3:8080/132/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Carousel.ru@Plus4" tvg-logo="https://i.imgur.com/4wmnx1W.png" group-title="📦 Разное",Carousel (720p)
-#EXTVLCOPT:http-user-agent=MXPlayer/1.71.6 (Linux; Android 11)
-http://185.37.150.46/Karusel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Carousel.ru@Plus4" tvg-logo="https://i.imgur.com/4wmnx1W.png" group-title="📦 Разное",Carousel (720p) [Зеркало 2]
-#EXTVLCOPT:http-user-agent=MXPlayer/1.71.6 (Linux; Android 11)
-http://88.212.15.50/live/test_karusel/playlist.m3u8
-#EXTINF:-1 tvg-id="art-tv" tvg-logo="https://optim.tildacdn.com/tild3134-3836-4338-a138-666666653363/-/format/webp/__.png.webp" group-title="🎭 Культура",Арт
-#EXTVLCOPT:http-user-agent=MXPlayer/1.71.6 (Linux; Android 11)
-http://185.23.80.23:8080/ART/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="art-tv" tvg-logo="https://optim.tildacdn.com/tild3134-3836-4338-a138-666666653363/-/format/webp/__.png.webp" group-title="🎭 Культура",Арт [Зеркало 2]
-#EXTVLCOPT:http-user-agent=MXPlayer/1.71.6 (Linux; Android 11)
-http://89.104.114.24:8080/art/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MatchPremier.ru@SD" tvg-logo="https://avatars.mds.yandex.net/i?id=0e4bdacd44c114798f7334dae02683d5b0336bd2-13079178-images-thumbs&n=13" group-title="⚽ Спорт",Match! Premier (576p)
 #EXTVLCOPT:http-user-agent=MXPlayer/1.71.6 (Linux; Android 11)
 http://185.23.80.23:8080/MATCH_PREMIER/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="dumatv" tvg-logo="https://i.imgur.com/JvlO3PU.png" group-title="📦 Разное",ДумаТВ
-#EXTVLCOPT:http-user-agent=MXPlayer/1.71.6 (Linux; Android 11)
-http://185.23.80.23:8080/DumaTV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="nano-hd" tvg-logo="https://i.imgur.com/dYj3XDa.png" group-title="🎥 Документальные",Nano HD (1080p)
 #EXTVLCOPT:http-user-agent=MXPlayer/1.71.6 (Linux; Android 11)
 http://185.23.80.23:8080/NANO_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="art-tv" tvg-logo="https://optim.tildacdn.com/tild3134-3836-4338-a138-666666653363/-/format/webp/__.png.webp" group-title="🎭 Культура",Арт
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://89.104.114.24:8080/art/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="art-tv" tvg-logo="https://optim.tildacdn.com/tild3134-3836-4338-a138-666666653363/-/format/webp/__.png.webp" group-title="🎭 Культура",Арт [Зеркало 2]
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://185.23.80.23:8080/ART/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="dumatv" tvg-logo="https://i.imgur.com/JvlO3PU.png" group-title="📦 Разное",ДумаТВ
+#EXTVLCOPT:http-user-agent=MXPlayer/1.71.6 (Linux; Android 11)
+http://185.23.80.23:8080/DumaTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="rentv" tvg-logo="https://iks-online.net/storage/2018/07/REN-TV-HD.png" group-title="📡 Федеральные",Рен ТВ
+#EXTVLCOPT:http-user-agent=MXPlayer/1.71.6 (Linux; Android 11)
+http://185.23.80.23:8080/REN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Kinomix.ru@SD" tvg-logo="https://i.imgur.com/D4q2XUT.png" group-title="🎬 Кино",Kinomix (576p)
 #EXTVLCOPT:http-user-agent=Lavf/60.16.100
 http://93.170.254.17/Kinomiks/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Carousel.ru@Plus4" tvg-logo="https://i.imgur.com/4wmnx1W.png" group-title="📦 Разное",Carousel (720p)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://88.212.15.50/live/test_karusel/playlist.m3u8
+#EXTINF:-1 tvg-id="Carousel.ru@Plus4" tvg-logo="https://i.imgur.com/4wmnx1W.png" group-title="📦 Разное",Carousel (720p) [Зеркало 2]
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://185.37.150.46/Karusel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-logo="https://i.imgur.com/RoYd5pz.png" group-title="📦 Разное",Загородная жизнь
 #EXTVLCOPT:http-user-agent=okhttp/4.9.3
 http://185.57.68.33/40/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="dacha" tvg-logo="https://i.imgur.com/xq6p9BZ.png" group-title="📦 Разное",Дача
-#EXTVLCOPT:http-user-agent=Kodi/20.5 (Windows NT 10.0; Win64; x64) App_Bitness/64 Version/20.5
-https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmUADrama.ua@SD" tvg-logo="https://i.imgur.com/Hnwsh5d.png" group-title="🎬 Кино",FilmUADrama
-#EXTVLCOPT:http-user-agent=Kodi/20.5 (Windows NT 10.0; Win64; x64) App_Bitness/64 Version/20.5
-https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="star-cinema" tvg-logo="https://i.imgur.com/5sis895.png" group-title="🎬 Кино",Star Cinema Россия
-#EXTVLCOPT:http-user-agent=Kodi/20.5 (Windows NT 10.0; Win64; x64) App_Bitness/64 Version/20.5
-https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="star-family" tvg-logo="https://i.imgur.com/eGuGHnZ.png" group-title="🎬 Кино",Star Family Россия
-#EXTVLCOPT:http-user-agent=Kodi/20.5 (Windows NT 10.0; Win64; x64) App_Bitness/64 Version/20.5
-https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="OTVPrim.ru@SD" tvg-logo="https://i.imgur.com/2zd8trG.png" group-title="🎭 Развлекательные",OTV-Prim (720p)
-#EXTVLCOPT:http-user-agent=Lavf/60.16.100
-https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/b4bba93043130c05431ae0d6a26fdae6--livemaster--0584djinra_rtmptest--tracks-v1a1--mono.m3u8?hls_proxy_host=a50406e9ee2e2c2a49995681145b0350
-#EXTINF:-1 tvg-id="BugTV.by@SD" tvg-logo="https://i.imgur.com/KqB7YdO.png" group-title="📡 Федеральные",Bug-TV (1080p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://46.53.200.153:7777/play/Bug_TV_HD/83558121.m3u8
-#EXTINF:-1 tvg-id="Solnce.ru@SD" tvg-logo="https://i.imgur.com/HCefxaK.png" group-title="📦 Разное",Solnce (576p)
-#EXTVLCOPT:http-user-agent=Lavf/60.16.100
-http://217.114.191.150/Solnce/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://i.imgur.com/8BPZ18l.png" group-title="🎥 Документальные",viju Nature (576p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://46.53.200.153:7777/play/a01k/82674847.m3u8
-#EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://www.cableman.ru/sites/default/files/viju_TV1000_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0_color_rgb_02%20%281%29.png" group-title="🎬 Кино",viju TV1000 Новелла HD
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://46.53.200.153:7777/play/VIJU_TV_1000_novella/79685542.m3u8
-#EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://i.imgur.com/oIQNddV.png" group-title="🎬 Кино",viju+ Megahit HD (1080p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://46.53.200.153:7777/play/Viju_Megahit_HD/31964694.m3u8
 #EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="⚽ Спорт",Match! Ultra (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://45.132.87.69:8080/match/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://i.imgur.com/FqWkeXb.png" group-title="🎥 Документальные",viju History (576p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://46.53.200.153:7777/play/a01j/76888726.m3u8
-#EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-logo="https://rnnxdki1nv.a.trbcdn.net/viasat/production/tvchannels/dc243048-c5ad-4ccc-86c6-3a480874ec29/logos/flo59mr6lh1jf68g3021urgwtd5k" group-title="📺 Сериалы",viju TV1000 romantica HD (1080p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://46.53.200.153:7777/play/Viju_Drama/50233217.m3u8
-#EXTINF:-1 tvg-id="rtg-hd" tvg-logo="https://i.imgur.com/ZMKPAho.png" group-title="🌍 Путешествия",RTG TV HD (1080p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://46.53.200.153:7777/play/a00u/63416640.m3u8
-#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://i.imgur.com/EGIpLPu.png" group-title="🎥 Документальные",viju Explore (576p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://46.53.200.153:7777/play/a01i/41863851.m3u8
-#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://i.imgur.com/TMmyuzh.png" group-title="🎬 Кино",viju TV1000 action (576p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://46.53.200.153:7777/play/a01h/14893068.m3u8
-#EXTINF:-1 tvg-id="Saphire.ru@SD" tvg-logo="https://i.imgur.com/NMOBvle.png" group-title="📺 Сериалы",Saphire (1080p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://46.53.200.153:7777/play/Sapfir_HD/35878634.m3u8
-#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://i.imgur.com/ZMsyjSr.png" group-title="🎬 Кино",viju TV1000 (576p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://46.53.200.153:7777/play/TV_1000/91910999.m3u8
-#EXTINF:-1 tvg-id="teledom" tvg-logo="https://i.imgur.com/071JRrb.png" group-title="📦 Разное",Теледом
-#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:-1 tvg-id="scifi-pl" tvg-logo="https://i.imgur.com/nSSUHcg.png" group-title="🎭 Развлекательные",.sci-fi (576p)
-#EXTVLCOPT:http-user-agent=Lavf/60.16.100
-http://116.90.120.149:8000/play/a0ao/index.m3u8
-#EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://i.imgur.com/Q4A6ci4.png" group-title="🎭 Развлекательные",.black HD (1080p)
-#EXTVLCOPT:http-user-agent=Lavf/60.16.100
-http://116.90.120.149:8000/play/a0s4/index.m3u8
-#EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://i.imgur.com/Q4A6ci4.png" group-title="🎭 Развлекательные",.black HD (1080p) [Зеркало 2]
-#EXTVLCOPT:http-user-agent=Lavf/60.16.100
-http://116.90.120.149:8000/play/a0ac/index.m3u8
-#EXTINF:-1 tvg-id="sony-tv" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="🎭 Развлекательные",Sony ТВ HD HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-http://116.90.120.149:8000/play/a0an/index.m3u8
-#EXTINF:-1 tvg-id="vip-comedy" tvg-logo="https://i.imgur.com/YoNOFu7.png" group-title="🎭 Развлекательные",viju+ Comedy HD (1080p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://46.53.200.153:7777/play/Viju_Comedy_HD/20095429.m3u8
-#EXTINF:-1 tvg-id="da-vinci" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="🌍 Познавательные",Да Винчи
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://116.90.120.149:8000/play/a0s6/index.m3u8
-#EXTINF:-1 tvg-id="tonus-tv" tvg-logo="https://i.imgur.com/pGm8QCj.png" group-title="📦 Разное",Тонус ТВ
-#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-http://194.143.148.28:8080/Mir24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="tnv" tvg-logo="https://i.imgur.com/58u9TQT.png" group-title="📦 Разное",ТНВ
-#EXTVLCOPT:http-user-agent=Lavf/60.16.100
-https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
-#EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua@SD" tvg-logo="https://i.imgur.com/8qdc6aO.png" group-title="📡 Федеральные",Pervyy gorodskoy. Odessa (576p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://91.194.79.46:8081/stream2/channel2/chunks.m3u8?nimblesessionid=2673271
-#EXTINF:-1 tvg-id="bridge-hd" tvg-logo="https://i.imgur.com/qYObfrG.png" group-title="🎵 Музыкальные",BRIDGE Deluxe (1080p)
-#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-http://194.143.148.28:8080/RT_DOC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" tvg-logo="https://i.imgur.com/LL8GyCh.png" group-title="🎬 Кино",Indiyskoye Kino (576p)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer/3.0.2 (Linux; Android 11; Wink) ExoPlayerLib/2.18.1
-http://188.113.190.12/329/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="OplotTV.ru@SD" tvg-logo="https://pic.rtbcdn.ru/user/2025-08-18/24/91/24919316f6594ce2542686d540894797.jpg" group-title="📰 Новостные",Oplot TV SD (1080p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-http://31.131.141.195:8000/play/a006/76538243.m3u8
-#EXTINF:-1 tvg-id="TNT.ru@SD" tvg-logo="https://i.ibb.co/HDmdRFR1/N-Baltic-2025.webp" group-title="📦 Разное",TNT HD (1080p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://176.118.197.101/THT/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="rbk" tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="📰 Бизнес",РБК
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://176.118.197.101/RBK/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="TV3.ru@SD" tvg-logo="https://i.imgur.com/JLAvq8O.png" group-title="📡 Федеральные",TV-3 (576p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://176.118.197.101/TB3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://i.imgur.com/p21co1w.png" group-title="🎭 Классика",Ретро
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://176.118.197.101/Retro/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="start-air" tvg-logo="https://i.imgur.com/4bACa7x.png" group-title="🎬 Кино",START Air (1080p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://176.118.197.101/START_AIR/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="1hd" tvg-logo="https://i.imgur.com/4Ww7CsR.png" group-title="🎵 Музыкальные",1HD Music Television (1080p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://176.118.197.101/1HD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="kino-tv-pl" tvg-logo="https://i.imgur.com/sMpamNO.png" group-title="🎬 Кино",Kino TV HD (1080p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://176.118.197.101/KinoTvHD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Channel9.il@SD" tvg-logo="https://i.imgur.com/pttM3KQ.png" group-title="⚽ Спорт",Channel 9 (Israel) (1080p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-https://contact.gostreaming.tv/Con-11/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ktk-kz" tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="📡 Федеральные",КТК HD
-#EXTVLCOPT:http-user-agent=Lavf/60.16.100
-http://89.218.30.37/ktklive/live.hq/chunklist_w2093999489.m3u8
-#EXTINF:-1 tvg-id="mir-seriala" tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="📺 Сериалы",Мир сериала
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://176.118.197.101/MirSeriala/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="12-omsk" tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="📡 Федеральные",12 канал Омск
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="kxl" tvg-logo="https://i.imgur.com/RgdHdOV.png" group-title="⚽ Спорт",КХЛ ТВ
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://176.118.197.101/KHL/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Komedia.ru@SD" tvg-logo="https://i.imgur.com/VRC5juh.png" group-title="🎭 Развлекательные",Komedia (576p)
 #EXTVLCOPT:http-user-agent=okhttp/4.9.3
 http://176.118.197.101/Komediya/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-logo="https://i.imgur.com/YLQRnXt.png" group-title="🎬 Кино",Bollywood HD (576p)
 #EXTVLCOPT:http-user-agent=okhttp/4.9.3
 http://176.118.197.101/Bollywood_HD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="4830" tvg-logo="https://i.imgur.com/YdyFJrl.png" group-title="🎵 Музыкальные",Первый Канал Европа
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://rtmp.one.by:1300
-#EXTINF:-1 tvg-id="prodvizhenie" tvg-logo="https://i.imgur.com/KlsnfG9.png" group-title="📦 Разное",Продвижение
+#EXTINF:-1 tvg-id="rbk" tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="📰 Бизнес",РБК
 #EXTVLCOPT:http-user-agent=okhttp/4.9.3
-https://streaming.astrakhan.ru/proastrakhanhd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="prosveschenie" tvg-logo="https://i.imgur.com/uppFhhq.png" group-title="📦 Разное",Просвещение
-#EXTVLCOPT:http-user-agent=TiviMate/4.7.0 (Linux; Android 11; Sony Smart TV)
-http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Astrahan24.ru@SD" tvg-logo="https://i.imgur.com/9WcnjQN.png" group-title="📰 Новостные",Astrahan 24 (720p)
+http://176.118.197.101/RBK/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://i.imgur.com/p21co1w.png" group-title="🎭 Классика",Ретро
 #EXTVLCOPT:http-user-agent=okhttp/4.9.3
-https://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="KurajTV.ru@SD" tvg-logo="https://i.imgur.com/hZXBD9F.png" group-title="📡 Федеральные",Kuraj-TV (576p)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer/3.0.2 (Linux; Android 11; Wink) ExoPlayerLib/2.18.1
-https://bsttv.bonus-tv.ru/cdn/kurai/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1
-#EXTINF:-1 tvg-id="salam" tvg-logo="https://i.imgur.com/FfULLr1.png" group-title="📦 Разное",Салям
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer/3.0.2 (Linux; Android 11; Wink) ExoPlayerLib/2.18.1
-https://bsttv.bonus-tv.ru/cdn/salyam/tracks-v2a1/mono.ts.m3u8?filter.tracks=v2v3v4a1
-#EXTINF:-1 tvg-id="AstrahanRuTV.ru@SD" tvg-logo="https://i.imgur.com/w4ys6zm.png" group-title="📦 Разное",Astrahan.Ru TV (480p)
+http://176.118.197.101/Retro/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="kino-tv-pl" tvg-logo="https://i.imgur.com/sMpamNO.png" group-title="🎬 Кино",Kino TV HD (1080p)
 #EXTVLCOPT:http-user-agent=okhttp/4.9.3
-https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="TVPRO.ru@SD" tvg-logo="https://i.imgur.com/sbuSefI.png" group-title="🎭 Развлекательные",TV PRO
+http://176.118.197.101/KinoTvHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Solnce.ru@SD" tvg-logo="https://i.imgur.com/HCefxaK.png" group-title="📦 Разное",Solnce (576p)
+#EXTVLCOPT:http-user-agent=Lavf/60.16.100
+http://217.114.191.150/Solnce/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="mir-seriala" tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="📺 Сериалы",Мир сериала
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://176.118.197.101/MirSeriala/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="kxl" tvg-logo="https://i.imgur.com/RgdHdOV.png" group-title="⚽ Спорт",КХЛ ТВ
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://176.118.197.101/KHL/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="star-cinema" tvg-logo="https://i.imgur.com/5sis895.png" group-title="🎬 Кино",Star Cinema Россия
 #EXTVLCOPT:http-user-agent=Kodi/20.5 (Windows NT 10.0; Win64; x64) App_Bitness/64 Version/20.5
-http://rtmp.tvpro-online.ru/hls/ch1.m3u8
-#EXTINF:-1 tvg-id="ua-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png" group-title="📰 Новостные",FreeДОМ
+https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="star-family" tvg-logo="https://i.imgur.com/eGuGHnZ.png" group-title="🎬 Кино",Star Family Россия
 #EXTVLCOPT:http-user-agent=Kodi/20.5 (Windows NT 10.0; Win64; x64) App_Bitness/64 Version/20.5
-https://dash4.antik.sk/live/test_uatv/playlist.m3u8
-#EXTINF:-1 tvg-id="radio-rossii" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Radio_Rossii_logo.svg/1920px-Radio_Rossii_logo.svg.png" group-title="📡 Федеральные",Радио России HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
-https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
-#EXTINF:-1 tvg-id="sankt-peterburg" tvg-logo="https://i.imgur.com/9At4oG7.png" group-title="📦 Разное",Санкт-Петербург HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
-https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-gorkogo" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/156/126/56.jpg" group-title="🎬 Кино",Смотрим 100% Горького
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
-https://stream.smotrim.ru/hls2/fasttv07/playlist_3.m3u8
-#EXTINF:-1 tvg-id="Smotrim100k1.ru@SD" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/156/263/96.jpg" group-title="🎭 Развлекательные",Smotrim 100% k 1 (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
-https://stream.smotrim.ru/hls2/fasttv08/playlist_2.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-logo="https://i.imgur.com/UY3fjYU.png" group-title="📺 Сериалы",Смотрим 100% Мужское
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
-https://stream.smotrim.ru/hls2/fasttv02/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-logo="https://i.imgur.com/UY3fjYU.png" group-title="📺 Сериалы",Смотрим 100% Мужское [Зеркало 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
-https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-klassika" tvg-logo="https://i.imgur.com/aASNpKq.png" group-title="🎬 Кино",Смотрим 100% Классика
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
-https://stream.smotrim.ru/hls2/fasttv03/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-klassika" tvg-logo="https://i.imgur.com/aASNpKq.png" group-title="🎬 Кино",Смотрим 100% Классика [Зеркало 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
-https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
-#EXTINF:-1 tvg-id="Smotrim100Talkshow.ru@SD" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/156/431/82.jpg" group-title="🎭 Развлекательные",Smotrim 100% Talk-show (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
-https://stream.smotrim.ru/hls2/fasttv09/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-logo="https://i.imgur.com/NEcqFse.png" group-title="🎭 Развлекательные",Смотрим 100% Праздник
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
-https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-logo="https://i.imgur.com/NEcqFse.png" group-title="🎭 Развлекательные",Смотрим 100% Праздник [Зеркало 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
-https://stream.smotrim.ru/hls2/fasttv04/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-fakty" tvg-logo="https://i.imgur.com/dB3cJzO.png" group-title="🎥 Документальные",Смотрим 100% Факты
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
-https://stream.smotrim.ru/hls2/fasttv06/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-fakty" tvg-logo="https://i.imgur.com/dB3cJzO.png" group-title="🎥 Документальные",Смотрим 100% Факты [Зеркало 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
-https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-lubov" tvg-logo="https://i.imgur.com/4EFh0nu.png" group-title="📺 Сериалы",Смотрим 100% Любовь
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
-https://stream.smotrim.ru/hls2/fasttv01/playlist_2.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-lubov" tvg-logo="https://i.imgur.com/4EFh0nu.png" group-title="📺 Сериалы",Смотрим 100% Любовь [Зеркало 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
-https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-logo="https://i.imgur.com/1hsNeTa.png" group-title="📦 Разное",Смотрим 100% Детское
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
-https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-logo="https://i.imgur.com/1hsNeTa.png" group-title="📦 Разное",Смотрим 100% Детское [Зеркало 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
-https://stream.smotrim.ru/hls2/fasttv05/playlist_3.m3u8
-#EXTINF:-1 tvg-id="Shef.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/shef_llive.jpg" group-title="📺 Сериалы",Shef (1080p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="HitFM.md@SD" tvg-logo="https://i.imgur.com/QwqM5j6.png" group-title="🎵 Музыкальные",Hit FM (1080p)
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmUADrama.ua@SD" tvg-logo="https://i.imgur.com/Hnwsh5d.png" group-title="🎬 Кино",FilmUADrama
+#EXTVLCOPT:http-user-agent=Kodi/20.5 (Windows NT 10.0; Win64; x64) App_Bitness/64 Version/20.5
+https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="bridge-hd" tvg-logo="https://i.imgur.com/qYObfrG.png" group-title="🎵 Музыкальные",BRIDGE Deluxe (1080p)
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-https://hitfm.nfthost.net/hls/hitfm/live_all/chunklist_w412092875_b5111699.m3u8
-#EXTINF:-1 tvg-id="5minuttishiny.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/5minut_live.jpg" group-title="📺 Сериалы",5 minut tishiny (1080p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Balabol.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/balabol_vse.jpg" group-title="📺 Сериалы",Balabol (1080p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://i.imgur.com/klRvhR5.png" group-title="🎬 Кино",viju+ Premiere HD (1080p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://46.53.200.153:7777/play/Viju_Premiere/33382218.m3u8
-#EXTINF:-1 tvg-id="nash-kinopokaz" tvg-logo="https://i.imgur.com/iwTMl8O.png" group-title="🎬 Кино",Наш Кинопоказ HD
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/49256360.m3u8
-#EXTINF:-1 tvg-id="vip-serial" tvg-logo="https://i.imgur.com/8yXZET5.png" group-title="📺 Сериалы",viju+ Serial HD (1080p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://46.53.200.153:7777/play/Viju_Serial_HD/10125636.m3u8
-#EXTINF:-1 tvg-id="pes-ua" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/pes_llive.jpg" group-title="📺 Сериалы",Пес HD
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="live-music-channel" tvg-logo="https://i.imgur.com/9qJkxV9.png" group-title="🎵 Музыкальные",Live Music Channel HD (1080p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://46.53.200.153:7777/play/Live_music_channel/30063488.m3u8
-#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="⚽ Спорт",viju+ Sport HD (1080p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://46.53.200.153:7777/play/Viasat_Sport/70145183.m3u8
-#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="⚽ Спорт",viju+ Sport HD (1080p) [Зеркало 2]
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://46.53.200.153:7777/play/a01l/64698239.m3u8
-#EXTINF:-1 tvg-id="silkway" tvg-logo="https://i.imgur.com/SJNDksF.png" group-title="📡 Федеральные",Silk Way (1080p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY-avc1_4500000=10002.m3u8
-#EXTINF:-1 tvg-id="Eurasia.ru@SD" tvg-logo="https://i.imgur.com/4JUHIVS.png" group-title="📡 Федеральные",Eurasia (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-#EXTINF:-1 tvg-id="rada-ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/960px-Rada_TV_%282021%29.svg.png" group-title="📦 Разное",Рада
+http://194.143.148.28:8080/RT_DOC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="dacha" tvg-logo="https://i.imgur.com/xq6p9BZ.png" group-title="📦 Разное",Дача
 #EXTVLCOPT:http-user-agent=Kodi/20.5 (Windows NT 10.0; Win64; x64) App_Bitness/64 Version/20.5
-https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/rada/rada-720/chunks.m3u8?nimblesessionid=45037736
-#EXTINF:-1 tvg-id="rika" tvg-logo="https://i.imgur.com/KJHWZ3B.png" group-title="📡 Федеральные",Рика
-#EXTVLCOPT:http-user-agent=TiviMate/4.7.0 (Linux; Android 11; Sony Smart TV)
-https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=98a68baccfb9cd26a98ae3bf11c8f369
-#EXTINF:-1 tvg-id="rtg-int" tvg-logo="https://i.imgur.com/ZpUNou4.png" group-title="🌍 Путешествия",RTG Международный
-#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
-http://213.91.179.28:8000/play/a0bw
+https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="sony-tv" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="🎭 Развлекательные",Sony ТВ HD HD
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://116.90.120.149:8000/play/a0an/index.m3u8
 #EXTINF:-1 tvg-id="IllusionPlus.ru@SD" tvg-logo="https://i.imgur.com/9GvuHQ5.png" group-title="🎬 Кино",Illusion+ (576p)
 #EXTVLCOPT:http-user-agent=okhttp/4.9.3
 http://176.118.197.101/Illuzion+/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="GovoritMoskva.ru@SD" tvg-logo="https://i.imgur.com/z2mxf3E.png" group-title="📰 Новостные",Govorit Moskva (720p)
-#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="6760" tvg-logo="https://samaragis.ru/wp-includes/images/logo.png" group-title="📦 Разное",Самара ГИС FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://tv.samaragis.ru/new/new/tracks-v1a1/0/stream.m3u8
-#EXTINF:-1 tvg-id="GuberniaSamara.ru@SD" tvg-logo="https://i.imgur.com/IlL57Rm.png" group-title="📡 Федеральные",Gubernia Samara (576p)
-#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=544a3dd774cf5ef35a8f5a9f4367ec1a
-#EXTINF:-1 tvg-id="Nostalgia.ru@SD" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="🎭 Классика",Nostalgia (576p)
+#EXTINF:-1 tvg-id="start-air" tvg-logo="https://i.imgur.com/4bACa7x.png" group-title="🎬 Кино",START Air (1080p)
 #EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://176.118.197.101/Nostalgiya/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="evrokino" tvg-logo="https://i.imgur.com/8LPtPf6.png" group-title="🎬 Кино",Еврокино
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://176.118.197.101/Evrokino/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="2278" tvg-logo="https://shanson.tv/wp-content/uploads/2025/12/pics.31.png" group-title="🎵 Музыкальные",Шансон ТВ
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://46.53.200.153:7777/play/Shanson_TV/17942025.m3u8
-#EXTINF:-1 tvg-id="2278" tvg-logo="https://shanson.tv/wp-content/uploads/2025/12/pics.31.png" group-title="🎵 Музыкальные",Шансон ТВ [Зеркало 2]
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://catchup.videoline.ru/shanson/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="KulinarTV.ru@SD" tvg-logo="https://smotret.tv/images/kulinar-tv.webp" group-title="🍳 Кулинарные",Kulinar TV (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
-#EXTINF:-1 tvg-id="bst" tvg-logo="https://i.imgur.com/IDotHmQ.png" group-title="📡 Федеральные",БСТ
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer/3.0.2 (Linux; Android 11; Wink) ExoPlayerLib/2.18.1
-https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-id="SochiLive.ru@HD" tvg-logo="https://www.cableman.ru/sites/default/files/sochi_live.png" group-title="📡 Федеральные",Sochi Live HD (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8?nimblesessionid=109955220
-#EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.imgur.com/Vw3LFLX.png" group-title="🎭 Развлекательные",КВН ТВ
-#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="dorama" tvg-logo="https://i.imgur.com/ZH5LuXU.png" group-title="🎬 Кино",Дорама
-#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="TVCentr.ru@SD" tvg-logo="https://www.moscow-telecom.ru/img/logo_channels/tvc_hd.svg" group-title="📰 Новостные",TV Centr SD (576p)
-#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="nts-irkutsk" tvg-logo="https://i.imgur.com/skkDR7q.png" group-title="📡 Федеральные",НТС (Иркутск)
-#EXTVLCOPT:http-user-agent=MXPlayer/1.71.6 (Linux; Android 11)
-https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=4c17238f7fd006d66efb4dd3961cfced
-#EXTINF:-1 tvg-id="baby-time" tvg-logo="https://i.imgur.com/lW3WIBD.png" group-title="📦 Разное",Baby Time (576p)
-#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="kinoseria" tvg-logo="https://i.imgur.com/iao7zLZ.png" group-title="🎬 Кино",Киносерия
-#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
+http://176.118.197.101/START_AIR/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="aist" tvg-logo="https://i.imgur.com/bcw0s4V.png" group-title="📡 Федеральные",Аист
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://194.143.148.28:8080/Aist/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="aist" tvg-logo="https://i.imgur.com/bcw0s4V.png" group-title="📡 Федеральные",Аист [Зеркало 2]
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=fac457ba6395f689db9537975d84118f
-#EXTINF:-1 tvg-id="Perviyotdel.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/perv_otdel_llive.jpg" group-title="📺 Сериалы",Perviy otdel (1080p)
+#EXTINF:-1 tvg-id="TNT.ru@SD" tvg-logo="https://i.ibb.co/HDmdRFR1/N-Baltic-2025.webp" group-title="📦 Разное",TNT HD (1080p)
 #EXTVLCOPT:http-user-agent=okhttp/4.9.3
-https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Sportivnyy.ru@SD" tvg-logo="https://i.imgur.com/ujS6mMo.png" group-title="⚽ Спорт",Sportivnyy (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Skorayapomoshch.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/skoraya_pom_llive.jpg" group-title="📺 Сериалы",Skoraya pomoshch (1080p)
+http://176.118.197.101/THT/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Nostalgia.ru@SD" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="🎭 Классика",Nostalgia (576p)
 #EXTVLCOPT:http-user-agent=okhttp/4.9.3
-https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Nevskiy.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/nevski_llive.jpg" group-title="📺 Сериалы",Nevskiy (1080p)
+http://176.118.197.101/Nostalgiya/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="scifi-pl" tvg-logo="https://i.imgur.com/nSSUHcg.png" group-title="🎭 Развлекательные",.sci-fi (576p)
 #EXTVLCOPT:http-user-agent=okhttp/4.9.3
-https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="kazakh-tv" tvg-logo="https://i.imgur.com/SqyXtgK.png" group-title="📡 Федеральные",Jibek Joly HD (1080p)
-#EXTVLCOPT:http-user-agent=Lavf/60.16.100
-https://stream.qazcdn.net/ex6r514/jjtv/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="rentv-istoki" tvg-logo="https://istoki.tv/local/templates/istoki_new/img/logo.png" group-title="📡 Федеральные",Истоки
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
-https://istoki.tv/live/stream1/chunklist_w1818550473.m3u8
-#EXTINF:-1 tvg-id="rybalka-i-oxota" tvg-logo="https://www.cableman.ru/sites/default/files/rybalka_i_ohota_int.png" group-title="🌍 Природа",Рыбалка и охота
+http://116.90.120.149:8000/play/a0ao/index.m3u8
+#EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://i.imgur.com/Q4A6ci4.png" group-title="🎭 Развлекательные",.black HD (1080p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://116.90.120.149:8000/play/a0ac/index.m3u8
+#EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://i.imgur.com/Q4A6ci4.png" group-title="🎭 Развлекательные",.black HD (1080p) [Зеркало 2]
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://116.90.120.149:8000/play/a0s4/index.m3u8
+#EXTINF:-1 tvg-id="evrokino" tvg-logo="https://i.imgur.com/8LPtPf6.png" group-title="🎬 Кино",Еврокино
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://176.118.197.101/Evrokino/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="tonus-tv" tvg-logo="https://i.imgur.com/pGm8QCj.png" group-title="📦 Разное",Тонус ТВ
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-https://fs.uplink.kz/ohota_i_ribalka/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
+http://194.143.148.28:8080/Mir24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="da-vinci" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="🌍 Познавательные",Да Винчи
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://116.90.120.149:8000/play/a0s6/index.m3u8
+#EXTINF:-1 tvg-id="1hd" tvg-logo="https://i.imgur.com/4Ww7CsR.png" group-title="🎵 Музыкальные",1HD Music Television (1080p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://176.118.197.101/1HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="KulinarTV.ru@SD" tvg-logo="https://smotret.tv/images/kulinar-tv.webp" group-title="🍳 Кулинарные",Kulinar TV (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:-1 tvg-id="TV3.ru@SD" tvg-logo="https://i.imgur.com/JLAvq8O.png" group-title="📡 Федеральные",TV-3 (576p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://176.118.197.101/TB3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="dorama" tvg-logo="https://i.imgur.com/ZH5LuXU.png" group-title="🎬 Кино",Дорама
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="baby-time" tvg-logo="https://i.imgur.com/lW3WIBD.png" group-title="📦 Разное",Baby Time (576p)
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="BugTV.by@SD" tvg-logo="https://i.imgur.com/KqB7YdO.png" group-title="📡 Федеральные",Bug-TV (1080p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://46.53.200.153:7777/play/Bug_TV_HD/68239288.m3u8
+#EXTINF:-1 tvg-id="TVCentr.ru@SD" tvg-logo="https://www.moscow-telecom.ru/img/logo_channels/tvc_hd.svg" group-title="📰 Новостные",TV Centr SD (576p)
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="live-music-channel" tvg-logo="https://i.imgur.com/9qJkxV9.png" group-title="🎵 Музыкальные",Live Music Channel HD (1080p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://46.53.200.153:7777/play/Live_music_channel/93151154.m3u8
+#EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.imgur.com/Vw3LFLX.png" group-title="🎭 Развлекательные",КВН ТВ
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="kinoseria" tvg-logo="https://i.imgur.com/iao7zLZ.png" group-title="🎬 Кино",Киносерия
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="rtg-hd" tvg-logo="https://i.imgur.com/ZMKPAho.png" group-title="🌍 Путешествия",RTG TV HD (1080p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://46.53.200.153:7777/play/a00u/31820713.m3u8
+#EXTINF:-1 tvg-id="nash-kinopokaz" tvg-logo="https://i.imgur.com/iwTMl8O.png" group-title="🎬 Кино",Наш Кинопоказ HD
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/77780161.m3u8
+#EXTINF:-1 tvg-id="Saphire.ru@SD" tvg-logo="https://i.imgur.com/NMOBvle.png" group-title="📺 Сериалы",Saphire (1080p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://46.53.200.153:7777/play/Sapfir_HD/66795049.m3u8
+#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://i.imgur.com/8BPZ18l.png" group-title="🎥 Документальные",viju Nature (576p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://116.90.120.149:8000/play/a0at/index.m3u8
+#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://i.imgur.com/8BPZ18l.png" group-title="🎥 Документальные",viju Nature (576p) [Зеркало 2]
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://46.53.200.153:7777/play/a01k/65146157.m3u8
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://i.imgur.com/ZMsyjSr.png" group-title="🎬 Кино",viju TV1000 (576p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://46.53.200.153:7777/play/TV_1000/10735009.m3u8
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://i.imgur.com/ZMsyjSr.png" group-title="🎬 Кино",viju TV1000 (576p) [Зеркало 2]
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://116.90.120.149:8000/play/a0ap/index.m3u8
+#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://i.imgur.com/TMmyuzh.png" group-title="🎬 Кино",viju TV1000 action (576p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://46.53.200.153:7777/play/a01h/91077691.m3u8
+#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://i.imgur.com/TMmyuzh.png" group-title="🎬 Кино",viju TV1000 action (576p) [Зеркало 2]
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://116.90.120.149:8000/play/a0aq/index.m3u8
+#EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://www.cableman.ru/sites/default/files/viju_TV1000_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0_color_rgb_02%20%281%29.png" group-title="🎬 Кино",viju TV1000 Новелла HD
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://46.53.200.153:7777/play/VIJU_TV_1000_novella/27856007.m3u8
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://i.imgur.com/FqWkeXb.png" group-title="🎥 Документальные",viju History (576p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://46.53.200.153:7777/play/a01j/93364967.m3u8
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://i.imgur.com/FqWkeXb.png" group-title="🎥 Документальные",viju History (576p) [Зеркало 2]
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://116.90.120.149:8000/play/a0as/index.m3u8
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://i.imgur.com/EGIpLPu.png" group-title="🎥 Документальные",viju Explore (576p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://116.90.120.149:8000/play/a0ar/index.m3u8
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://i.imgur.com/EGIpLPu.png" group-title="🎥 Документальные",viju Explore (576p) [Зеркало 2]
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://46.53.200.153:7777/play/a01i/15718523.m3u8
+#EXTINF:-1 tvg-id="vip-comedy" tvg-logo="https://i.imgur.com/YoNOFu7.png" group-title="🎭 Развлекательные",viju+ Comedy HD (1080p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://46.53.200.153:7777/play/Viju_Comedy_HD/28987394.m3u8
+#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="⚽ Спорт",viju+ Sport HD (1080p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://46.53.200.153:7777/play/Viasat_Sport/57932014.m3u8
+#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="⚽ Спорт",viju+ Sport HD (1080p) [Зеркало 2]
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://46.53.200.153:7777/play/a01l/58351842.m3u8
+#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="⚽ Спорт",viju+ Sport HD (1080p) [Зеркало 3]
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://116.90.120.149:8000/play/a0au/index.m3u8
+#EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-logo="https://rnnxdki1nv.a.trbcdn.net/viasat/production/tvchannels/dc243048-c5ad-4ccc-86c6-3a480874ec29/logos/flo59mr6lh1jf68g3021urgwtd5k" group-title="📺 Сериалы",viju TV1000 romantica HD (1080p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://46.53.200.153:7777/play/Viju_Drama/84393608.m3u8
 #EXTINF:-1 tvg-id="7879" tvg-logo="https://i.imgur.com/StFfPaI.png" group-title="📡 Федеральные",Афонтово (Красноярск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 https://stream.afontovo.ru/hd.m3u8
-#EXTINF:-1 tvg-id="OtkritiymirZdorove.ru@SD" tvg-logo="https://i.imgur.com/7orZOJA.png" group-title="🎭 Развлекательные",Открытый мир. Здоровье (576p)
+#EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" tvg-logo="https://i.imgur.com/LL8GyCh.png" group-title="🎬 Кино",Indiyskoye Kino (576p)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer/3.0.2 (Linux; Android 11; Wink) ExoPlayerLib/2.18.1
+http://188.113.190.12/329/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua@SD" tvg-logo="https://i.imgur.com/8qdc6aO.png" group-title="📡 Федеральные",Pervyy gorodskoy. Odessa (576p)
 #EXTVLCOPT:http-user-agent=okhttp/4.9.3
-https://v4.proofix.ru/0mir/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="pervy-krymsky" tvg-logo="https://i.imgur.com/i6hg7QG.png" group-title="📡 Федеральные",Perviy Krymskiy (720p)
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux; Android 11)
-https://live1.1tvcrimea.ru/1tvcrimea.m3u8
-#EXTINF:-1 tvg-id="86.ru@SD" tvg-logo="https://i.imgur.com/0dRS4Cb.png" group-title="📡 Федеральные",86 (1080p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux; Android 11)
-https://sitv.ru/hls/s86.m3u8
-#EXTINF:-1 tvg-id="NTVStyle.ru@SD" tvg-logo="https://i.imgur.com/rX6K6qT.png" group-title="🎭 Развлекательные",NTV Style (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="aris24" tvg-logo="https://i.imgur.com/CTFVEAb.png" group-title="📡 Федеральные",Арис 24
+http://91.194.79.46:8081/stream2/channel2/chunks.m3u8?nimblesessionid=2892508
+#EXTINF:-1 tvg-id="5minuttishiny.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/5minut_live.jpg" group-title="📺 Сериалы",5 minut tishiny (1080p)
 #EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://serv25.vintera.tv:8081/test/aris/chunks.m3u8?nimblesessionid=292835531
-#EXTINF:-1 tvg-id="2442" tvg-logo="https://static.tildacdn.com/tild3936-3138-4234-b536-326531343933/-_13x.png" group-title="📦 Разное",Смайл ТВ
-#EXTVLCOPT:http-user-agent=TiviMate/4.7.0 (Linux; Android 11; Sony Smart TV)
-https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist_w327764745_b3674450.m3u8
-#EXTINF:-1 tvg-id="ChassePeche.fr@SD" tvg-logo="https://i.imgur.com/ZIS2ZQ1.png" group-title="🌍 Природа",Chasse & Peche (540p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8?bitrate=3192000&audioId=1&videoId=8
-#EXTINF:-1 tvg-id="NTVVitrina.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/1280px-NTV_logo_2003.svg.png" group-title="📡 Федеральные",NTV Vitrina (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://cdn.ntv.ru/vitrina/tracks-v1/mono.m3u8
-#EXTINF:-1 tvg-id="kongresstv" tvg-logo="https://tvcongress.ru/bitrix/templates/mbntheme/img/logo_tvc.svg" group-title="📡 Федеральные",Конгресс ТВ
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-https://stitch.teletarget.ru/api/v1/hls/504/158/ray2/1795172107429decbda47d1f8d9b7a61d72756593f69488636263467c5b6b96f/lvl4.m3u8
-#EXTINF:-1 tvg-id="ntm" tvg-logo="https://i.imgur.com/AH50pGT.png" group-title="📡 Федеральные",НТМ
-#EXTVLCOPT:http-user-agent=Kodi/20.5 (Windows NT 10.0; Win64; x64) App_Bitness/64 Version/20.5
-https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=06356f05f0a86f5bff53697210849f42
-#EXTINF:-1 tvg-id="vitebsk" tvg-logo="https://i.imgur.com/qr26qQn.png" group-title="📦 Разное",Витебск
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux; Android 11)
-https://edge35.dc.beltelecom.by/vtv/_definst_/vitebsk.stream/chunklist_w1753766979.m3u8
-#EXTINF:-1 tvg-id="PerviyInformationniy.by@HD" tvg-logo="https://i.imgur.com/eIiXRAI.png" group-title="📰 Новостные",Perviy Informationniy HD (1080p)
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="sankt-peterburg" tvg-logo="https://i.imgur.com/9At4oG7.png" group-title="📦 Разное",Санкт-Петербург HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
+https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
+#EXTINF:-1 tvg-id="rentv-istoki" tvg-logo="https://istoki.tv/local/templates/istoki_new/img/logo.png" group-title="📡 Федеральные",Истоки
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
-https://edge35.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 tvg-id="sts" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="📦 Разное",СТС
+https://istoki.tv/live/stream1/chunklist_w1043734683.m3u8
+#EXTINF:-1 tvg-id="Shef.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/shef_llive.jpg" group-title="📺 Сериалы",Shef (1080p)
 #EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://176.118.197.101/CTC/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sts" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="📦 Разное",СТС [Зеркало 2]
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="prosveschenie" tvg-logo="https://i.imgur.com/uppFhhq.png" group-title="📦 Разное",Просвещение
+#EXTVLCOPT:http-user-agent=TiviMate/4.7.0 (Linux; Android 11; Sony Smart TV)
+http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Skorayapomoshch.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/skoraya_pom_llive.jpg" group-title="📺 Сериалы",Skoraya pomoshch (1080p)
 #EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://tshift-1.telecoma.tv/sts/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="HorosheeKino.ru@SD" tvg-logo="https://i.imgur.com/ZbOqfy4.png" group-title="🎬 Кино",Horoshee Kino (720p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-https://live-rian.cdnvideo.ru/rian/rus-radio/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=5a1d3b5f5754e92f17cc47f3adee28f3
-#EXTINF:-1 tvg-id="myzen-tv" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="📦 Разное",MyZen TV (720p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-https://n-2-2.eu.cdn-redge.media/livehls/oeu/mt/live/myzen_tv/live.livx/playlist.m3u8?bitrate=5192000&audioId=1&videoId=4
-#EXTINF:-1 tvg-id="Enisey.ru@SD" tvg-logo="https://i.imgur.com/57deE7f.png" group-title="📡 Федеральные",Enisey (576p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://tshift-1.telecoma.tv/enisei/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Channel8.ru@SD" tvg-logo="https://i.imgur.com/nUSx1jF.png" group-title="⚽ Спорт",Channel 8 (576p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Channel8.ru@SD" tvg-logo="https://i.imgur.com/nUSx1jF.png" group-title="⚽ Спорт",Channel 8 (576p) [Зеркало 2]
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-https://v4.proofix.ru/8tv-russia/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Channel8.ru@SD" tvg-logo="https://i.imgur.com/nUSx1jF.png" group-title="⚽ Спорт",Channel 8 (576p) [Зеркало 3]
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://45.11.139.43:8555/8kanal/36895021.m3u8
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="935" tvg-logo="https://i.imgur.com/D8YJzHV.png" group-title="📡 Федеральные",Black Sea TV
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
-#EXTINF:-1 tvg-id="ETVPlus.ee@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png" group-title="📡 Федеральные",ETV+ (720p)
-#EXTVLCOPT:http-user-agent=MXPlayer/1.71.6 (Linux; Android 11)
-https://skroob.err.ee/live/etvpluss-kval2/index.m3u8?id=27966214083108
-#EXTINF:-1 tvg-id="FashionTV.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" group-title="🎭 Развлекательные",FashionTV (1080p)
+#EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-logo="https://i.imgur.com/UY3fjYU.png" group-title="📺 Сериалы",Смотрим 100% Мужское
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
+https://stream.smotrim.ru/hls2/fasttv02/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-logo="https://i.imgur.com/UY3fjYU.png" group-title="📺 Сериалы",Смотрим 100% Мужское [Зеркало 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-lubov" tvg-logo="https://i.imgur.com/4EFh0nu.png" group-title="📺 Сериалы",Смотрим 100% Любовь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
+https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-lubov" tvg-logo="https://i.imgur.com/4EFh0nu.png" group-title="📺 Сериалы",Смотрим 100% Любовь [Зеркало 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
+https://stream.smotrim.ru/hls2/fasttv01/playlist_2.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-logo="https://i.imgur.com/NEcqFse.png" group-title="🎭 Развлекательные",Смотрим 100% Праздник
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
+https://stream.smotrim.ru/hls2/fasttv04/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-logo="https://i.imgur.com/NEcqFse.png" group-title="🎭 Развлекательные",Смотрим 100% Праздник [Зеркало 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1 tvg-id="Smotrim100k1.ru@SD" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/156/263/96.jpg" group-title="🎭 Развлекательные",Smotrim 100% k 1 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
+https://stream.smotrim.ru/hls2/fasttv08/playlist_2.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-klassika" tvg-logo="https://i.imgur.com/aASNpKq.png" group-title="🎬 Кино",Смотрим 100% Классика
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-klassika" tvg-logo="https://i.imgur.com/aASNpKq.png" group-title="🎬 Кино",Смотрим 100% Классика [Зеркало 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
+https://stream.smotrim.ru/hls2/fasttv03/playlist_3.m3u8
+#EXTINF:-1 tvg-id="radio-rossii" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Radio_Rossii_logo.svg/1920px-Radio_Rossii_logo.svg.png" group-title="📡 Федеральные",Радио России HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
+https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
+#EXTINF:-1 tvg-id="Perviyotdel.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/perv_otdel_llive.jpg" group-title="📺 Сериалы",Perviy otdel (1080p)
 #EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://fashionlive.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.ts.m3u8?token=cdn
-#EXTINF:-1 tvg-id="tooku" tvg-logo="https://tooku.ru/wp-content/uploads/2024/11/tooku-kanal-logo.png" group-title="📦 Разное",Тооку
-#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
-http://live-saha.cdnvideo.ru/saha/tooky/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=7fccbb7bbabf781d2b97487b967e3663
-#EXTINF:-1 tvg-id="belgorod24" tvg-logo="https://i.imgur.com/EEirvyx.png" group-title="📡 Федеральные",Белгород 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ua-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png" group-title="📰 Новостные",FreeДОМ
+#EXTVLCOPT:http-user-agent=Kodi/20.5 (Windows NT 10.0; Win64; x64) App_Bitness/64 Version/20.5
+https://dash4.antik.sk/live/test_uatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Nevskiy.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/nevski_llive.jpg" group-title="📺 Сериалы",Nevskiy (1080p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Talkshow.ru@SD" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/156/431/82.jpg" group-title="🎭 Развлекательные",Smotrim 100% Talk-show (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
+https://stream.smotrim.ru/hls2/fasttv09/playlist_3.m3u8
+#EXTINF:-1 tvg-id="salam" tvg-logo="https://i.imgur.com/FfULLr1.png" group-title="📦 Разное",Салям
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer/3.0.2 (Linux; Android 11; Wink) ExoPlayerLib/2.18.1
+https://bsttv.bonus-tv.ru/cdn/salyam/tracks-v2a1/mono.ts.m3u8?filter.tracks=v2v3v4a1
+#EXTINF:-1 tvg-id="smotrim-100-gorkogo" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/156/126/56.jpg" group-title="🎬 Кино",Смотрим 100% Горького
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
+https://stream.smotrim.ru/hls2/fasttv07/playlist_3.m3u8
+#EXTINF:-1 tvg-id="Balabol.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/balabol_vse.jpg" group-title="📺 Сериалы",Balabol (1080p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-logo="https://i.imgur.com/1hsNeTa.png" group-title="📦 Разное",Смотрим 100% Детское
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
+https://stream.smotrim.ru/hls2/fasttv05/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-logo="https://i.imgur.com/1hsNeTa.png" group-title="📦 Разное",Смотрим 100% Детское [Зеркало 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+#EXTINF:-1 tvg-id="bst" tvg-logo="https://i.imgur.com/IDotHmQ.png" group-title="📡 Федеральные",БСТ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer/3.0.2 (Linux; Android 11; Wink) ExoPlayerLib/2.18.1
+https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="AstrahanRuTV.ru@SD" tvg-logo="https://i.imgur.com/w4ys6zm.png" group-title="📦 Разное",Astrahan.Ru TV (480p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="KurajTV.ru@SD" tvg-logo="https://i.imgur.com/hZXBD9F.png" group-title="📡 Федеральные",Kuraj-TV (576p)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer/3.0.2 (Linux; Android 11; Wink) ExoPlayerLib/2.18.1
+https://bsttv.bonus-tv.ru/cdn/kurai/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1
+#EXTINF:-1 tvg-id="OplotTV.ru@SD" tvg-logo="https://pic.rtbcdn.ru/user/2025-08-18/24/91/24919316f6594ce2542686d540894797.jpg" group-title="📰 Новостные",Oplot TV SD (1080p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+http://31.131.141.195:8000/play/a006/22110179.m3u8
+#EXTINF:-1 tvg-id="Astrahan24.ru@SD" tvg-logo="https://i.imgur.com/9WcnjQN.png" group-title="📰 Новостные",Astrahan 24 (720p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+https://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ktk-kz" tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="📡 Федеральные",КТК HD
+#EXTVLCOPT:http-user-agent=Lavf/60.16.100
+http://89.218.30.37/ktklive/live.hq/chunklist_w1643886778.m3u8
+#EXTINF:-1 tvg-id="prodvizhenie" tvg-logo="https://i.imgur.com/KlsnfG9.png" group-title="📦 Разное",Продвижение
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+https://streaming.astrakhan.ru/proastrakhanhd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="GuberniaSamara.ru@SD" tvg-logo="https://i.imgur.com/IlL57Rm.png" group-title="📡 Федеральные",Gubernia Samara (576p)
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=544a3dd774cf5ef35a8f5a9f4367ec1a
+#EXTINF:-1 tvg-id="11782" tvg-logo="https://i.imgur.com/C8CCjZK.png" group-title="🎵 Музыкальные",Maidan (Татарстан)
+#EXTVLCOPT:http-user-agent=MXPlayer/1.71.6 (Linux; Android 11)
+https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=ba821cfe2018dec6450494ceaaf5db75
+#EXTINF:-1 tvg-id="HitFM.md@SD" tvg-logo="https://i.imgur.com/QwqM5j6.png" group-title="🎵 Музыкальные",Hit FM (1080p)
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://hitfm.nfthost.net/hls/hitfm/live_all/chunklist_w1125783103_b5180447.m3u8
+#EXTINF:-1 tvg-id="rybalka-i-oxota" tvg-logo="https://www.cableman.ru/sites/default/files/rybalka_i_ohota_int.png" group-title="🌍 Природа",Рыбалка и охота
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://fs.uplink.kz/ohota_i_ribalka/tracks-v1a1/mono.ts.m3u8?token=onlinetv2
+#EXTINF:-1 tvg-id="12-omsk" tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="📡 Федеральные",12 канал Омск
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-fakty" tvg-logo="https://i.imgur.com/dB3cJzO.png" group-title="🎥 Документальные",Смотрим 100% Факты
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
+https://stream.smotrim.ru/hls2/fasttv06/playlist_3.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-fakty" tvg-logo="https://i.imgur.com/dB3cJzO.png" group-title="🎥 Документальные",Смотрим 100% Факты [Зеркало 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+#EXTINF:-1 tvg-id="pervy-krymsky" tvg-logo="https://i.imgur.com/i6hg7QG.png" group-title="📡 Федеральные",Perviy Krymskiy (720p)
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux; Android 11)
+https://live1.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:-1 tvg-id="pes-ua" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/pes_llive.jpg" group-title="📺 Сериалы",Пес HD
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Eurasia.ru@SD" tvg-logo="https://i.imgur.com/4JUHIVS.png" group-title="📡 Федеральные",Eurasia (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1 tvg-id="4830" tvg-logo="https://i.imgur.com/YdyFJrl.png" group-title="🎵 Музыкальные",Первый Канал Европа
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-id="OtkritiymirZdorove.ru@SD" tvg-logo="https://i.imgur.com/7orZOJA.png" group-title="🎭 Развлекательные",Открытый мир. Здоровье (576p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+https://v4.proofix.ru/0mir/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="GovoritMoskva.ru@SD" tvg-logo="https://i.imgur.com/z2mxf3E.png" group-title="📰 Новостные",Govorit Moskva (720p)
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="360News.ru@SD" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="📰 Новостные",360° News (1080p)
+#EXTVLCOPT:http-user-agent=MXPlayer/1.71.6 (Linux; Android 11)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.ts.m3u8?hls_proxy_host=5a1d3b5f5754e92f17cc47f3adee28f3
+#EXTINF:-1 tvg-id="86.ru@SD" tvg-logo="https://i.imgur.com/0dRS4Cb.png" group-title="📡 Федеральные",86 (1080p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux; Android 11)
+https://sitv.ru/hls/s86.m3u8
+#EXTINF:-1 tvg-id="2278" tvg-logo="https://shanson.tv/wp-content/uploads/2025/12/pics.31.png" group-title="🎵 Музыкальные",Шансон ТВ
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://46.53.200.153:7777/play/Shanson_TV/23791880.m3u8
+#EXTINF:-1 tvg-id="2278" tvg-logo="https://shanson.tv/wp-content/uploads/2025/12/pics.31.png" group-title="🎵 Музыкальные",Шансон ТВ [Зеркало 2]
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://catchup.videoline.ru/shanson/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="HorosheeKino.ru@SD" tvg-logo="https://i.imgur.com/ZbOqfy4.png" group-title="🎬 Кино",Horoshee Kino (720p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+https://live-rian.cdnvideo.ru/rian/rus-radio/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=5a1d3b5f5754e92f17cc47f3adee28f3
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="📡 Федеральные",Мир HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 http://45.153.24.78/MIR/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="📡 Федеральные",Мир HD [Зеркало 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 https://cdn4.skygo.mn/live/disk1/MIR/HLSv3-FTA/MIR-avc1_1000000=38-mp4a_380800_rus=6.m3u8
-#EXTINF:-1 tvg-id="zvezda" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="📡 Федеральные",Звезда HD
+#EXTINF:-1 tvg-id="vremia" tvg-logo="https://i.imgur.com/jZlj3ga.png" group-title="📦 Разное",Время
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://88.212.15.50/live/test_vremya/playlist.m3u8
+#EXTINF:-1 tvg-id="vremia" tvg-logo="https://i.imgur.com/jZlj3ga.png" group-title="📦 Разное",Время [Зеркало 2]
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya-avc1_3000000=14-mp4a_256000_bba=10.m3u8
+#EXTINF:-1 tvg-id="FashionTV.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" group-title="🎭 Развлекательные",FashionTV (1080p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://fashionlive.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.ts.m3u8?token=cdn
+#EXTINF:-1 tvg-id="2442" tvg-logo="https://static.tildacdn.com/tild3936-3138-4234-b536-326531343933/-_13x.png" group-title="📦 Разное",Смайл ТВ
+#EXTVLCOPT:http-user-agent=TiviMate/4.7.0 (Linux; Android 11; Sony Smart TV)
+https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist_w1259855151_b3674450.m3u8
+#EXTINF:-1 tvg-id="belgorod24" tvg-logo="https://i.imgur.com/EEirvyx.png" group-title="📡 Федеральные",Белгород 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+#EXTINF:-1 tvg-id="pro-tv-ro" tvg-logo="https://i.imgur.com/sbuSefI.png" group-title="🎭 Развлекательные",TV PRO
+#EXTVLCOPT:http-user-agent=Kodi/20.5 (Windows NT 10.0; Win64; x64) App_Bitness/64 Version/20.5
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:-1 tvg-id="kazakh-tv" tvg-logo="https://i.imgur.com/SqyXtgK.png" group-title="📡 Федеральные",Jibek Joly HD (1080p)
 #EXTVLCOPT:http-user-agent=Lavf/60.16.100
-https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="zvezda" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="📡 Федеральные",Звезда HD [Зеркало 2]
+https://stream.qazcdn.net/ex6r514/jjtv/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ntm" tvg-logo="https://i.imgur.com/AH50pGT.png" group-title="📡 Федеральные",НТМ
+#EXTVLCOPT:http-user-agent=Kodi/20.5 (Windows NT 10.0; Win64; x64) App_Bitness/64 Version/20.5
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=06356f05f0a86f5bff53697210849f42
+#EXTINF:-1 tvg-id="tnv" tvg-logo="https://i.imgur.com/58u9TQT.png" group-title="📦 Разное",ТНВ
 #EXTVLCOPT:http-user-agent=Lavf/60.16.100
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
+#EXTINF:-1 tvg-id="sts" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="📦 Разное",СТС
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://176.118.197.101/CTC/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="sts" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="📦 Разное",СТС [Зеркало 2]
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://tshift-1.telecoma.tv/sts/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Channel8.ru@SD" tvg-logo="https://i.imgur.com/nUSx1jF.png" group-title="⚽ Спорт",Channel 8 (576p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+https://v4.proofix.ru/8tv-russia/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Channel8.ru@SD" tvg-logo="https://i.imgur.com/nUSx1jF.png" group-title="⚽ Спорт",Channel 8 (576p) [Зеркало 2]
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://45.11.139.43:8555/8kanal/57421294.m3u8
+#EXTINF:-1 tvg-id="Channel8.ru@SD" tvg-logo="https://i.imgur.com/nUSx1jF.png" group-title="⚽ Спорт",Channel 8 (576p) [Зеркало 3]
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Sportivnyy.ru@SD" tvg-logo="https://i.imgur.com/ujS6mMo.png" group-title="⚽ Спорт",Sportivnyy (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="SochiLive.ru@HD" tvg-logo="https://www.cableman.ru/sites/default/files/sochi_live.png" group-title="📡 Федеральные",Sochi Live HD (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8?nimblesessionid=110450907
+#EXTINF:-1 tvg-id="Enisey.ru@SD" tvg-logo="https://i.imgur.com/57deE7f.png" group-title="📡 Федеральные",Enisey (576p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://tshift-1.telecoma.tv/enisei/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="aris24" tvg-logo="https://i.imgur.com/CTFVEAb.png" group-title="📡 Федеральные",Арис 24
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://serv25.vintera.tv:8081/test/aris/chunks.m3u8?nimblesessionid=293394648
+#EXTINF:-1 tvg-id="teledom" tvg-logo="https://i.imgur.com/071JRrb.png" group-title="📦 Разное",Теледом
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 tvg-id="nts-irkutsk" tvg-logo="https://i.imgur.com/skkDR7q.png" group-title="📡 Федеральные",НТС (Иркутск)
+#EXTVLCOPT:http-user-agent=MXPlayer/1.71.6 (Linux; Android 11)
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=4c17238f7fd006d66efb4dd3961cfced
+#EXTINF:-1 tvg-id="OTVPrim.ru@SD" tvg-logo="https://i.imgur.com/2zd8trG.png" group-title="🎭 Развлекательные",OTV-Prim (720p)
+#EXTVLCOPT:http-user-agent=Lavf/60.16.100
+https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/b4bba93043130c05431ae0d6a26fdae6--livemaster--0584djinra_rtmptest--tracks-v1a1--mono.m3u8?hls_proxy_host=4c17238f7fd006d66efb4dd3961cfced
+#EXTINF:-1 tvg-id="tooku" tvg-logo="https://tooku.ru/wp-content/uploads/2024/11/tooku-kanal-logo.png" group-title="📦 Разное",Тооку
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://live-saha.cdnvideo.ru/saha/tooky/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=7fccbb7bbabf781d2b97487b967e3663
+#EXTINF:-1 tvg-id="kongresstv" tvg-logo="https://tvcongress.ru/bitrix/templates/mbntheme/img/logo_tvc.svg" group-title="📡 Федеральные",Конгресс ТВ
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+https://stitch.teletarget.ru/api/v1/hls/504/158/ray2/1795257539959f352e943db464a7b7c1c7b1c1c4da189c30b440be0a3a5c9daa/lvl4.m3u8
+#EXTINF:-1 tvg-id="NTVStyle.ru@SD" tvg-logo="https://i.imgur.com/rX6K6qT.png" group-title="🎭 Развлекательные",NTV Style (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="rtg-int" tvg-logo="https://i.imgur.com/ZpUNou4.png" group-title="🌍 Путешествия",RTG Международный
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://213.91.179.28:8000/play/a0bw
+#EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://i.imgur.com/oIQNddV.png" group-title="🎬 Кино",viju+ Megahit HD (1080p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://46.53.200.153:7777/play/Viju_Megahit_HD/78435272.m3u8
+#EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://i.imgur.com/klRvhR5.png" group-title="🎬 Кино",viju+ Premiere HD (1080p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://46.53.200.153:7777/play/Viju_Premiere/50317901.m3u8
+#EXTINF:-1 tvg-id="rika" tvg-logo="https://i.imgur.com/KJHWZ3B.png" group-title="📡 Федеральные",Рика
+#EXTVLCOPT:http-user-agent=TiviMate/4.7.0 (Linux; Android 11; Sony Smart TV)
+https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=98a68baccfb9cd26a98ae3bf11c8f369
+#EXTINF:-1 tvg-id="vip-serial" tvg-logo="https://i.imgur.com/8yXZET5.png" group-title="📺 Сериалы",viju+ Serial HD (1080p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+http://46.53.200.153:7777/play/Viju_Serial_HD/62376684.m3u8
+#EXTINF:-1 tvg-id="FONTV.ru@HD" tvg-logo="https://play-lh.googleusercontent.com/J0YeRB884koVfecR2mp43Y2mbNtRVTSSOiq2U1gkITJ9IxzIM4VA71Rqbh3UlREI4mCnlxGHm4wxoujt5ZH1AQ" group-title="⚽ Спорт",FON TV (1080p)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://fonstreams.mediacdn.ru/stream/fontvclear/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="FONTV.ru@HD" tvg-logo="https://play-lh.googleusercontent.com/J0YeRB884koVfecR2mp43Y2mbNtRVTSSOiq2U1gkITJ9IxzIM4VA71Rqbh3UlREI4mCnlxGHm4wxoujt5ZH1AQ" group-title="⚽ Спорт",FON TV (1080p) [Зеркало 2]
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://fontvlive.mediacdn.ru/stream/fontv/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1
+#EXTINF:-1 tvg-id="NTVVitrina.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/1280px-NTV_logo_2003.svg.png" group-title="📡 Федеральные",NTV Vitrina (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn.ntv.ru/vitrina/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-id="Channel9.il@SD" tvg-logo="https://i.imgur.com/pttM3KQ.png" group-title="⚽ Спорт",Channel 9 (Israel) (1080p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+https://contact.gostreaming.tv/Con-11/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@SD" tvg-logo="https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png" group-title="📡 Федеральные",NTV HD (1080p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-https://cdn-dvr.ntv.ru/ntv0_hd/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@SD" tvg-logo="https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png" group-title="📡 Федеральные",NTV HD (1080p) [Зеркало 2]
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://176.118.197.101/NTV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@SD" tvg-logo="https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png" group-title="📡 Федеральные",NTV HD (1080p) [Зеркало 3]
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-https://river-3-3122.rtbcdn.ru/stream/genetta-315.m9.rutube.ru/WGngKsPZHf_KZ6IldzjftA/1795776906/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@SD" tvg-logo="https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png" group-title="📡 Федеральные",NTV HD (1080p) [Зеркало 4]
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cdn.ntv.ru/ntv-spb/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@SD" tvg-logo="https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png" group-title="📡 Федеральные",NTV HD (1080p) [Зеркало 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://river-3-301.rtbcdn.ru/stream/genetta-315.m9.rutube.ru/SxrFnPZx_4rN9F8-eswwEA/1795862339/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@SD" tvg-logo="https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png" group-title="📡 Федеральные",NTV HD (1080p) [Зеркало 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://176.118.197.101/NTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@SD" tvg-logo="https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png" group-title="📡 Федеральные",NTV HD (1080p) [Зеркало 4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn-dvr.ntv.ru/ntv0_hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="TsargradTV.ru@SD" tvg-logo="https://i.imgur.com/34RINpb.png" group-title="📦 Разное",Tsargrad TV (1080p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+#EXTVLCOPT:http-referrer=https://rutube.ru/
+https://river-3-357.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/5mg-0-YLorB0bMneiO8HtA/1795862339/91815da4edb167b5bd617bae490e57da/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://rutv.by/wp-content/uploads/2020/09/logo.png" group-title="🎵 Музыкальные",RU.TV (1080p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+#EXTVLCOPT:http-referrer=https://rutube.ru/
+https://river-3-3120.rtbcdn.ru/stream/genetta-315.m9.rutube.ru/kHPBTCVPOm2WUqOkmegXew/1795862339/b1eb8e90d7e636677b3eb73b4fcbb717/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="ChassePeche.fr@SD" tvg-logo="https://i.imgur.com/ZIS2ZQ1.png" group-title="🌍 Природа",Chasse & Peche (540p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8?bitrate=3192000&audioId=1&videoId=8
+#EXTINF:-1 tvg-id="6760" tvg-logo="https://samaragis.ru/wp-includes/images/logo.png" group-title="📦 Разное",Самара ГИС FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://tv.samaragis.ru/new/new/tracks-v1a1/0/stream.m3u8
+#EXTINF:-1 tvg-id="myzen-tv" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="📦 Разное",MyZen TV (720p)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+https://n-2-2.eu.cdn-redge.media/livehls/oeu/mt/live/myzen_tv/live.livx/playlist.m3u8?bitrate=5192000&audioId=1&videoId=4
+#EXTINF:-1 tvg-id="2na2" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="🎭 Развлекательные",2x2 (576p)
+#EXTVLCOPT:http-user-agent=MXPlayer/1.71.6 (Linux; Android 11)
+http://185.23.80.23:8080/2x2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="2na2" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="🎭 Развлекательные",2x2 (576p) [Зеркало 2]
+#EXTVLCOPT:http-user-agent=MXPlayer/1.71.6 (Linux; Android 11)
+https://river-3-3120.rtbcdn.ru/stream/genetta-318.m9.rutube.ru/qODmF3H97T8s5XuDd4UY2w/1795862339/392b4686b770bae2da6bf5ac4574add5/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="2na2" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="🎭 Развлекательные",2x2 (576p) [Зеркало 3]
+#EXTVLCOPT:http-user-agent=MXPlayer/1.71.6 (Linux; Android 11)
+http://flussonic.mkpnet.ru/tv-17540fb90079a865/tracks-v1a1l1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="2na2" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="🎭 Развлекательные",2x2 (576p) [Зеркало 4]
+#EXTVLCOPT:http-user-agent=MXPlayer/1.71.6 (Linux; Android 11)
+http://176.118.197.101/2x2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="super" tvg-logo="https://i.imgur.com/nsk8PpB.png" group-title="🎭 Развлекательные",Суббота!
 #EXTVLCOPT:http-user-agent=Lavf/60.16.100
 http://217.114.191.150/Subbota/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="super" tvg-logo="https://i.imgur.com/nsk8PpB.png" group-title="🎭 Развлекательные",Суббота! [Зеркало 2]
 #EXTVLCOPT:http-user-agent=Lavf/60.16.100
-https://river-3-372.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/VSTSvZax8x0drdFbVmurqQ/1795776906/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="2na2" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="🎭 Развлекательные",2x2 (576p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://176.118.197.101/2x2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="2na2" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="🎭 Развлекательные",2x2 (576p) [Зеркало 2]
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-https://river-3-3120.rtbcdn.ru/stream/genetta-318.m9.rutube.ru/528neq-QMV37RHyKyEyjQg/1795776907/392b4686b770bae2da6bf5ac4574add5/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="2na2" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="🎭 Развлекательные",2x2 (576p) [Зеркало 3]
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://185.23.80.23:8080/2x2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="2na2" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="🎭 Развлекательные",2x2 (576p) [Зеркало 4]
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-http://flussonic.mkpnet.ru/tv-17540fb90079a865/tracks-v1a1l1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://rutv.by/wp-content/uploads/2020/09/logo.png" group-title="🎵 Музыкальные",RU.TV (1080p)
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-#EXTVLCOPT:http-referrer=https://rutube.ru/
-https://river-3-3120.rtbcdn.ru/stream/genetta-315.m9.rutube.ru/aaFoHS3gbEHykKPKT-B-Fg/1795776906/b1eb8e90d7e636677b3eb73b4fcbb717/1080p_stream.m3u8
+https://river-3-372.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/Snlji4jyaat3lhn28Hfo8Q/1795862339/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="U.ru@SD" tvg-logo="https://i.imgur.com/KDZvt0Q.png" group-title="🎭 Развлекательные",U (720p)
 #EXTVLCOPT:http-user-agent=okhttp/4.9.3
 #EXTVLCOPT:http-referrer=https://rutube.ru/
-https://river-3-373.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/4PyxUBGolPvPKRwa_YqxpA/1795776906/5c9327074e25ca86f3111d4085cbbb65/720p_stream.m3u8
-#EXTINF:-1 tvg-id="10kanal-novokuzneck" tvg-logo="https://i.imgur.com/k8JjFDw.png" group-title="📰 Новостные",Десятка (Новокузнецк)
+https://river-3-373.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/iK9MKCeJpV2gMiC3OtQhyQ/1795862340/5c9327074e25ca86f3111d4085cbbb65/720p_stream.m3u8
+#EXTINF:-1 tvg-id="zvezda" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="📡 Федеральные",Звезда HD
+#EXTVLCOPT:http-user-agent=TiviMate/4.7.0 (Linux; Android 11; Sony Smart TV)
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="zvezda" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="📡 Федеральные",Звезда HD [Зеркало 2]
+#EXTVLCOPT:http-user-agent=TiviMate/4.7.0 (Linux; Android 11; Sony Smart TV)
+https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="rada-ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/960px-Rada_TV_%282021%29.svg.png" group-title="📦 Разное",Рада
+#EXTVLCOPT:http-user-agent=Kodi/20.5 (Windows NT 10.0; Win64; x64) App_Bitness/64 Version/20.5
+https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/rada/rada-720/chunks.m3u8?nimblesessionid=45639216
+#EXTINF:-1 tvg-id="silkway" tvg-logo="https://i.imgur.com/SJNDksF.png" group-title="📡 Федеральные",Silk Way (1080p)
 #EXTVLCOPT:http-user-agent=okhttp/4.9.3
-#EXTVLCOPT:http-referrer=https://rutube.ru/
-https://river-3-354.rtbcdn.ru/stream/genetta-414.ntv.rutube.ru/irWhkAxyPIF_7v6A3-r_wQ/1795776907/c9e26bf5c003fd8d477200065ca1a05f/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="TsargradTV.ru@SD" tvg-logo="https://i.imgur.com/34RINpb.png" group-title="📦 Разное",Tsargrad TV (1080p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=okhttp/4.9.3
-#EXTVLCOPT:http-referrer=https://rutube.ru/
-https://river-3-367.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/SvLbRaG61bhGkDwSUnw-tA/1795776906/91815da4edb167b5bd617bae490e57da/1080p_stream.m3u8
+https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY-avc1_4500000=10002.m3u8
 #EXTINF:-1 tvg-id="kuban-24" tvg-logo="https://www.cableman.ru/sites/default/files/2022-03-23_02-09-35.png" group-title="📡 Федеральные",Кубань 24 MaikopskoyeTelevidenie
 #EXTVLCOPT:http-user-agent=okhttp/4.9.3
 https://zabava-block-htvod.cdn.ngenix.net/rtk_block.m3u8
-#EXTINF:-1 tvg-id="360News.ru@SD" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="📰 Новостные",360° News (1080p)
+#EXTINF:-1 tvg-id="ETVPlus.ee@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png" group-title="📡 Федеральные",ETV+ (720p)
 #EXTVLCOPT:http-user-agent=MXPlayer/1.71.6 (Linux; Android 11)
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.ts.m3u8?hls_proxy_host=5a1d3b5f5754e92f17cc47f3adee28f3
-#EXTINF:-1 tvg-id="vremia" tvg-logo="https://i.imgur.com/jZlj3ga.png" group-title="📦 Разное",Время
+https://skroob.err.ee/live/etvpluss-kval2/index.m3u8?id=91384068633128
+#EXTINF:-1 tvg-id="PerviyInformationniy.by@HD" tvg-logo="https://i.imgur.com/eIiXRAI.png" group-title="📰 Новостные",Perviy Informationniy HD (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+https://edge35.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 tvg-id="vitebsk" tvg-logo="https://i.imgur.com/qr26qQn.png" group-title="📦 Разное",Витебск
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux; Android 11)
-https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya-avc1_3000000=14-mp4a_256000_bba=10.m3u8
-#EXTINF:-1 tvg-id="vremia" tvg-logo="https://i.imgur.com/jZlj3ga.png" group-title="📦 Разное",Время [Зеркало 2]
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux; Android 11)
-http://88.212.15.50/live/test_vremya/playlist.m3u8
-#EXTINF:-1 tvg-id="FONTV.ru@HD" tvg-logo="https://play-lh.googleusercontent.com/J0YeRB884koVfecR2mp43Y2mbNtRVTSSOiq2U1gkITJ9IxzIM4VA71Rqbh3UlREI4mCnlxGHm4wxoujt5ZH1AQ" group-title="⚽ Спорт",FON TV (1080p)
-#EXTVLCOPT:http-user-agent=Lavf/60.16.100
-https://fontvlive.mediacdn.ru/stream/fontv/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1
-#EXTINF:-1 tvg-id="FONTV.ru@HD" tvg-logo="https://play-lh.googleusercontent.com/J0YeRB884koVfecR2mp43Y2mbNtRVTSSOiq2U1gkITJ9IxzIM4VA71Rqbh3UlREI4mCnlxGHm4wxoujt5ZH1AQ" group-title="⚽ Спорт",FON TV (1080p) [Зеркало 2]
-#EXTVLCOPT:http-user-agent=Lavf/60.16.100
-https://fonstreams.mediacdn.ru/stream/fontvclear/tracks-v1a1/mono.ts.m3u8
+https://edge35.dc.beltelecom.by/vtv/_definst_/vitebsk.stream/chunklist_w1709673706.m3u8
 #EXTINF:-1 tvg-id="one-il" tvg-logo="https://uut-telecom.ru/wp-content/uploads/2021/12/pervyj-hd.png" group-title="🎭 Развлекательные",Channel One HD (720p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Lavf/60.16.100
-https://edge08r.mediavitrina.ru/hls-livef6/1tv/tracks-v5a1/mono.ts.m3u8?token=v2.9ibsrTpi56zoMYn_oq3bwjugyXRZk5SXFa5106di_6I.9-hez22NwezDM09vOADiAXDiLfPtJV0LW8NbxaI1qJs.1795776908.9cd718ef227d0edaa745b60f76a3dc80
+https://edge07d.mediavitrina.ru/hls-livef6/1tv/tracks-v5a1/mono.ts.m3u8?token=v2.eJEWMF_F9lme1e6wSEjFSC6UnSyoHYdHHJNhwZhEAr4.T9-g-k-1Ma33bF_67YiP1jIituAdjHx0unqddoY_e9A.1795862341.8cb3ddb3a1607cdf89f82d23cc7b47bc
 #EXTINF:-1 tvg-id="one-il" tvg-logo="https://uut-telecom.ru/wp-content/uploads/2021/12/pervyj-hd.png" group-title="🎭 Развлекательные",Channel One HD (720p) [Geo-blocked] [Зеркало 2]
 #EXTVLCOPT:http-user-agent=Lavf/60.16.100
 http://178.217.49.7/1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="11782" tvg-logo="https://i.imgur.com/C8CCjZK.png" group-title="🎵 Музыкальные",Maidan (Татарстан)
-#EXTVLCOPT:http-user-agent=MXPlayer/1.71.6 (Linux; Android 11)
-http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=ba821cfe2018dec6450494ceaaf5db75
+#EXTINF:-1 tvg-id="10kanal-novokuzneck" tvg-logo="https://i.imgur.com/k8JjFDw.png" group-title="📰 Новостные",Десятка (Новокузнецк)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+#EXTVLCOPT:http-referrer=https://rutube.ru/
+https://river-3-372.rtbcdn.ru/stream/genetta-414.ntv.rutube.ru/ndUcRLDnfbfSV19br6jM_Q/1795862339/c9e26bf5c003fd8d477200065ca1a05f/1080p_stream.m3u8
